@@ -7,16 +7,16 @@ description: >
   <br><br>
   <!-- Clickable Icons -->
   <a href="https://www.linkedin.com/in/hamzamsalah/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="vertical-align:middle;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg?color=0A66C2" alt="LinkedIn" width="30" height="30" style="vertical-align:middle;">
   </a>
   <a href="https://github.com/hamzamsalah" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="30" height="30" style="vertical-align:middle;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg?color=181717" alt="GitHub" width="30" height="30" style="vertical-align:middle;">
   </a>
   <a href="https://medium.com/@hamzamsalah" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" alt="Medium" width="30" height="30" style="vertical-align:middle;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg?color=000000" alt="Medium" width="30" height="30" style="vertical-align:middle;">
   </a>
   <a href="https://public.tableau.com/app/profile/hamzamsalah/vizzes" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tableau.svg" alt="Tableau" width="30" height="30" style="vertical-align:middle;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tableau.svg?color=E97627" alt="Tableau" width="30" height="30" style="vertical-align:middle;">
   </a>
 
 theme: jekyll-theme-minimal
