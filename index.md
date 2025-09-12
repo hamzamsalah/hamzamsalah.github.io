@@ -1,7 +1,7 @@
 # Data Science Portfolio
 
 **Welcome to my portfolio repository!**  
-Discover projects showcasing my expertise in analytics, visualization, and machine learning techniques like predictive modeling, clustering, and classification. Using tools like Python, SQL, Power BI, and Tableau, I transform data into insights and recommendations to solve real-world problems.
+This repository showcases my projects in analytics, data visualization, and machine learning. You’ll find examples of predictive modeling, clustering, and classification, all aimed at transforming data into actionable insights and solving real-world problems.
 
 ---
 
