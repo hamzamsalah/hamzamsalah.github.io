@@ -5,10 +5,9 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 
 ---
 
-### Predictive Modeling of Tennessee Energy Demand
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Statsmodels-white)](#) [![](https://img.shields.io/badge/pmdarima-white)](#) [![](https://img.shields.io/badge/Scikit--learn-white?logo=scikitlearn)](#) [![](https://img.shields.io/badge/Matplotlib-white)](#) [![](https://img.shields.io/badge/Seaborn-white)](#)  
+### [Predictive Modeling of Tennessee Energy Demand](projects/project1.md)
 
-[View Code](https://github.com/hamzamsalah/Electricity_Consumption_in_TN/blob/main/electricitiy_demand.ipynb)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Statsmodels-white)](#) [![](https://img.shields.io/badge/pmdarima-white)](#) [![](https://img.shields.io/badge/Scikit--learn-white?logo=scikitlearn)](#) [![](https://img.shields.io/badge/Matplotlib-white)](#) [![](https://img.shields.io/badge/Seaborn-white)](#)  
 
 Forecasted residential energy consumption in Tennessee using time series and regression models (SARIMAX, SARIMA, ARIMA, Multiple Linear Regression). Conducted EDA to uncover sector-specific trends and provided insights for utility demand management and efficiency planning.  
 
