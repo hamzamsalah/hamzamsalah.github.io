@@ -13,6 +13,7 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 Forecasted residential energy consumption in Tennessee using time series and regression models (SARIMAX, SARIMA, ARIMA, Multiple Linear Regression). Conducted EDA to uncover sector-specific trends and provided insights for utility demand management and efficiency planning.  
 
 <img src="assets/combined_sector_forecast.png?raw=true" />
+
 <img src="assets/combined_sector_forecast_table.png?raw=true" />
 
 
@@ -27,6 +28,7 @@ Forecasted residential energy consumption in Tennessee using time series and reg
 Analyzed Amazon product reviews using NLP techniques. Preprocessed review text, extracted features, and applied ML models to classify reviews as positive or negative. Evaluated performance and visualized insights about customer sentiment and product quality.
 
 <img src="assets/confusion_matrix.png?raw=true" />
+
 <img src="assets/rock_curve.png?raw=true" />
 
 
@@ -58,6 +60,7 @@ Designed and implemented a relational database using MySQL to manage COVID-19 da
 
 [View Code](https://github.com/hamzasalahds/hospital_database?tab=readme-ov-file#--covid-19-patient-data-management-system-)
 
+<img src="assets/database_hospital.gif?raw=true" />
 ---
 
 ### Bellevue University - DSC 630: Using Data to Improve MLB Attendance
@@ -76,6 +79,7 @@ Implemented an Excel-based system with dashboards to highlight area performance.
 
 [View Code](https://github.com/hamzasalahds/Amazon_Project/blob/main/README.md#amazon-fc---employee-performance-system)
 
+<img src="assets/amaz_dash.png?raw=true" />
 ---
 
 ### Weather Lookup
@@ -85,6 +89,7 @@ Developed a Python program for weather lookup by zip code or city, utilizing the
 
 [View Code](https://github.com/hamzasalahds/weather-lookup?tab=readme-ov-file#-dsc-510-programming---bellevue-university)
 
+<img src="assets/weather_lookup.png?raw=true" />
 ---
 
 ### TSA Complaints Analysis
@@ -121,6 +126,7 @@ Utilized Excel and Tableau to uncover a 13% increase in US mass shootings during
 
 [View Code](https://github.com/hamzasalahds/US-Mass-Shootings-Analysis?tab=readme-ov-file#us-mass-shootings-analysis)
 
+<img src="assets/shoot_dashboard.png?raw=true" />
 ---
 
 ### Covid Case Tracker
@@ -130,6 +136,7 @@ Developed a Tableau dashboard visualizing COVID-19 cases, deaths, and testing da
 
 [View Dashboard](https://public.tableau.com/app/profile/hamzasalahds/viz/GlobalCOVID-19CaseTracker/Covid-19CaseTracker)
 
+<img src="assets/covid_dash.png?raw=true" />
 ---
 
 ### Timely & Effective Care Across the US
@@ -139,6 +146,7 @@ Created a Tableau dashboard for CMS data to help patients choose the best hospit
 
 [View Dashboard](https://public.tableau.com/app/profile/hamzasalahds/viz/TimelyEffectiveCarebyHospitalinTheUnitedStatesDashboardCMS/TimelyEffectiveCarebyHospitalinTheUnitedStatesDashboardCMS)
 
+<img src="assets/effective_care_dash.png?raw=true" />
 ---
 
 ### Home Values in TN
@@ -148,6 +156,7 @@ Analyzed Zillow data on home values in Tennessee from 2000 to 2022, creating an 
 
 [View Dashboard](https://public.tableau.com/app/profile/hamzasalahds/viz/Single-FamilyHomeValuesinTennesseeDashboardZillow/Dashboard)
 
+<img src="assets/zillow.png?raw=true" />
 ---
 
 ### Open University Student GPA & Demographics Analysis
@@ -156,3 +165,8 @@ Analyzed Zillow data on home values in Tennessee from 2000 to 2022, creating an 
 Analyzed data from Open University, identifying correlations between GPA and demographics using Tableau.  
 
 [View Dashboard](https://public.tableau.com/app/profile/hamzasalahds/viz/StudentGPADemographicsAnalysisDashboardOpenUniversity/StudentGPADemographicsAnalysisDashboard)
+
+<img src="assets/gpa1.png?raw=true" />
+
+<img src="assets/gpa2.png?raw=true" />
+
