@@ -8,24 +8,27 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 ### Predictive Modeling of Tennessee Energy Demand
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Statsmodels-white)](#) [![](https://img.shields.io/badge/pmdarima-white)](#) [![](https://img.shields.io/badge/Scikit--learn-white?logo=scikitlearn)](#) [![](https://img.shields.io/badge/Matplotlib-white)](#) [![](https://img.shields.io/badge/Seaborn-white)](#)  
 
+[View Code](https://github.com/hamzamsalah/Electricity_Consumption_in_TN/blob/main/electricitiy_demand.ipynb)
+
 Forecasted residential energy consumption in Tennessee using time series and regression models (SARIMAX, SARIMA, ARIMA, Multiple Linear Regression). Conducted EDA to uncover sector-specific trends and provided insights for utility demand management and efficiency planning.  
 
 <img src="assets/combined_sector_forecast.png?raw=true" />
 <img src="assets/combined_sector_forecast_table.png?raw=true" />
 
-[View Code](https://github.com/hamzamsalah/Electricity_Consumption_in_TN/blob/main/electricitiy_demand.ipynb)
 
 ---
 
 ### Sentiment Analysis of Customer Reviews
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Scikit--learn-white?logo=scikitlearn)](#) [![](https://img.shields.io/badge/NLTK-white)](#) [![](https://img.shields.io/badge/WordCloud-white)](#) [![](https://img.shields.io/badge/Matplotlib-white)](#)  
 
+[View Code](https://github.com/hamzasalahds/amazon_reviews/blob/main/README.md#--sentiment-analysis-of-customer-reviews--dsc-550-data-mining)
+
+
 Analyzed Amazon product reviews using NLP techniques. Preprocessed review text, extracted features, and applied ML models to classify reviews as positive or negative. Evaluated performance and visualized insights about customer sentiment and product quality.
 
 <img src="assets/confusion_matrix.png?raw=true" />
 <img src="assets/rock_curve.png?raw=true" />
 
-[View Code](https://github.com/hamzasalahds/amazon_reviews/blob/main/README.md#--sentiment-analysis-of-customer-reviews--dsc-550-data-mining)
 
 ---
 
@@ -45,6 +48,7 @@ Visualized national data to examine the impact of childcare costs on mothers' wo
 
 [View Project](https://github.com/hamzasalahds/bridge-the-gap?tab=readme-ov-file#empowering-mothers-bridging-the-gap-to-professional-success)
 
+<img src="assets/median_earnings.png?raw=true" />
 ---
 
 ### Hospital COVID-19 Relational Database
