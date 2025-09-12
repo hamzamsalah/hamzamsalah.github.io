@@ -1,5 +1,5 @@
 title: Hamza Salah 
-logo: "/assets/hs.jpg" 
+logo: '<img src="/assets/hs.jpg" alt="Logo" style="border-radius:8px; width:120px; height:auto;" />'
 description: >
   I’m a Data Scientist with 4+ years of combined experience in retail, logistics, and analytics,
   with additional strengths in strategy and sales. Currently pursuing a Master’s in Data Science at Bellevue University.
