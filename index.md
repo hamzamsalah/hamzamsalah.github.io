@@ -1,7 +1,7 @@
 # Data Science Portfolio
 
 **Welcome to my portfolio repository!**  
-This portfolio features projects in analytics, visualization, and machine learning, demonstrating practical applications of data to solve real-world challenges.
+This portfolio showcases projects in analytics, visualization, and machine learning, highlighting practical, real-world applications of data.
 
 ---
 
