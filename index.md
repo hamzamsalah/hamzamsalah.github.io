@@ -2,12 +2,11 @@
 
 <h2>Data Science Portfolio</h2>
 
-<em>This portfolio showcases projects in analytics, visualization, and machine learning, highlighting practical, real-world applications of data.
-
+<em>
+This portfolio showcases projects in analytics, visualization, and machine learning, highlighting practical, real-world applications of data.
 </em>
 
-<hr>
-
+<hr style="margin: 30px 0;">
 </div>
 
 ### [Predictive Modeling of Tennessee Energy Demand](/projects/project1.html)
