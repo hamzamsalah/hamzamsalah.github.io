@@ -5,7 +5,7 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 
 ---
 
-### [Predictive Modeling of Tennessee Energy Demand](/projects/project1/)
+### [Predictive Modeling of Tennessee Energy Demand](/projects/project1.html)
 
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Statsmodels-white)](#) [![](https://img.shields.io/badge/pmdarima-white)](#) [![](https://img.shields.io/badge/Scikit--learn-white?logo=scikitlearn)](#) [![](https://img.shields.io/badge/Matplotlib-white)](#) [![](https://img.shields.io/badge/Seaborn-white)](#)  
