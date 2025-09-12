@@ -1,7 +1,7 @@
 # Data Science Portfolio
 
 **Welcome to my portfolio repository!**  
-This repository showcases my projects in analytics, data visualization, and machine learning. You’ll find examples of predictive modeling, clustering, and classification, all aimed at transforming data into actionable insights and solving real-world problems.
+This portfolio features projects in analytics, visualization, and machine learning, demonstrating practical applications of data to solve real-world challenges.
 
 ---
 
