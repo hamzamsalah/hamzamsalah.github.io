@@ -1,11 +1,12 @@
-title: Hamza Salah 
+title: Hamza Salah
 logo: '<img src="/assets/hs.jpg" alt="Logo" style="border-radius:8px; width:120px; height:auto;" />'
+
 description: >
   I’m a Data Scientist with 4+ years of combined experience in retail, logistics, and analytics,
   with additional strengths in strategy and sales. Currently pursuing a Master’s in Data Science at Bellevue University.
   I’ve built projects using SQL, Python, and Tableau to solve real-world problems in healthcare, education, and operations.
-  <br><br>
-  <a href="https://www.linkedin.com/in/hamzamsalah/">View my LinkedIn Profile</a> 
+
+  [View my LinkedIn Profile](https://www.linkedin.com/in/hamzamsalah/)
 
 theme: jekyll-theme-minimal
 
