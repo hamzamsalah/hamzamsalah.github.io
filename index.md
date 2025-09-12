@@ -10,7 +10,7 @@ Forecasted residential energy consumption in Tennessee using time series and reg
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Statsmodels-white)](#) [![](https://img.shields.io/badge/pmdarima-white)](#) [![](https://img.shields.io/badge/Scikit--learn-white?logo=scikitlearn)](#) [![](https://img.shields.io/badge/Matplotlib-white)](#) [![](https://img.shields.io/badge/Seaborn-white)](#)  
 
-[View Code](https://github.com/hamzasalahds/Electricity_Consumption_in_TN?tab=readme-ov-file#tennessee-energy-consumption-forecasting)
+[View Code](https://github.com/hamzamsalah/Electricity_Consumption_in_TN/blob/main/electricitiy_demand.ipynb)
 
 ---
 
