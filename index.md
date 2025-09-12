@@ -6,7 +6,7 @@
 This portfolio showcases projects in analytics, visualization, and machine learning, highlighting practical, real-world applications of data.
 </em>
 
-<hr style="margin: 30px 0;">
+<hr style="margin: 20px 0;">
 </div>
 
 ### [Predictive Modeling of Tennessee Energy Demand](/projects/project1.html)
