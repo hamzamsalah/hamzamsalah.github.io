@@ -20,7 +20,10 @@ Forecasted residential energy consumption in Tennessee using time series and reg
 ### Sentiment Analysis of Customer Reviews
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Scikit--learn-white?logo=scikitlearn)](#) [![](https://img.shields.io/badge/NLTK-white)](#) [![](https://img.shields.io/badge/WordCloud-white)](#) [![](https://img.shields.io/badge/Matplotlib-white)](#)  
 
-Analyzed Amazon product reviews using NLP techniques. Preprocessed review text, extracted features, and applied ML models to classify reviews as positive or negative. Evaluated performance and visualized insights about customer sentiment and product quality.  
+Analyzed Amazon product reviews using NLP techniques. Preprocessed review text, extracted features, and applied ML models to classify reviews as positive or negative. Evaluated performance and visualized insights about customer sentiment and product quality.
+
+<img src="assets/confusion_matrix.png?raw=true" />
+<img src="assets/rock_curve.png?raw=true" />
 
 [View Code](https://github.com/hamzasalahds/amazon_reviews/blob/main/README.md#--sentiment-analysis-of-customer-reviews--dsc-550-data-mining)
 
