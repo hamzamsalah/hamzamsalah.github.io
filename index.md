@@ -1,6 +1,4 @@
-<center>
-## Data Science Portfolio
-</center>
+<h2 style="text-align: center;">Data Science Portfolio</h2>
 
 *This portfolio showcases projects in analytics, visualization, and machine learning, highlighting practical, real-world applications of data.*
 
