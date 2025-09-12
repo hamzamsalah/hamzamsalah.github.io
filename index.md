@@ -101,7 +101,6 @@ Built a Power BI dashboard to track TSA Complaints in the US.
 
 [View Dashboard](https://1drv.ms/b/c/8232850de7f5f589/ESPpzVVPixdFihRHDNWBOhABzqXMPMurhiZHJnLCG5iLAg?e=vBAqzX) | [PBIX File](https://1drv.ms/u/c/8232850de7f5f589/EXUyE0Ey2nlPqeCvx5i56IsBPWECKbIcLeAXn_mtwZiYjg?e=HHIfsX)
 
----
 
 ### Concession Baseball Sales Dashboard
 [![](https://img.shields.io/badge/PowerBI-white?logo=powerbi)](#)  
@@ -110,7 +109,6 @@ Built a Power BI dashboard to track sales and performance of concessions at base
 
 [View Dashboard](https://1drv.ms/b/s!Aon19ecNhTKCgbV3dBp83UAYVuoJ1Q?e=H5230v) | [PBIX File](https://1drv.ms/u/s!Aon19ecNhTKCgbV1IqDZlEuzG5nALQ?e=B9U4pA)
 
----
 
 ### Store Sales Dashboard
 [![](https://img.shields.io/badge/PowerBI-white?logo=powerbi)](#)  
@@ -119,7 +117,6 @@ Designed a Power BI sales dashboard to monitor KPIs, sales trends, and regional 
 
 [View Dashboard](https://1drv.ms/b/s!Aon19ecNhTKCgbV20rEKJWOOHrFJWQ?e=P2fepE) | [PBIX File](https://1drv.ms/u/s!Aon19ecNhTKCgbV0q8GDJZefIUDHEw?e=f07fRR)
 
----
 
 ### US Mass Shootings Analysis
 [![](https://img.shields.io/badge/Excel-white?logo=microsoftexcel)](#) [![](https://img.shields.io/badge/Tableau-white?logo=tableau)](#)  
