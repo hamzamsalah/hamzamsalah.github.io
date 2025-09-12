@@ -1,0 +1,13 @@
+title: Hamza Salah # your name (or website title) here
+logo: "/assets/hs.jpg" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br>
+I’m a Data Scientist with 4+ years of combined experience in retail, logistics, and analytics, with additional strengths in strategy and sales. Currently pursuing a Master’s in Data Science at Bellevue University, 
+I’ve built projects using SQL, Python, and Tableau to solve real-world problems in healthcare, education, and operations.  <br><br>
+  <br><br>
+  <a href="https://www.linkedin.com/in/hamzamsalah/">View my LinkedIn Profile</a> 
+  
+theme: jekyll-theme-minimal
+
+colors:
+  crimson: '#900C3F'
