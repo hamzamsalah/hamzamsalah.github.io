@@ -10,8 +10,5 @@ description: >
 
 theme: jekyll-theme-minimal
 
-baseurl: ""   # leave this empty for user sites
-url: "https://hamzamsalah.github.io"
-
 colors:
   crimson: '#900C3F'
