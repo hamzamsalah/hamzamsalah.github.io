@@ -2,7 +2,9 @@
 
 <h2>Data Science Portfolio</h2>
 
-<em>This portfolio showcases projects in analytics, visualization, and machine learning, highlighting practical, real-world applications of data.</em>
+<em>This portfolio showcases projects in analytics, visualization, and machine learning, highlighting practical, real-world applications of data.
+
+</em>
 
 <hr>
 
