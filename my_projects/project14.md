@@ -3,25 +3,30 @@ layout: default
 title: Timely & Effective Care Across the US
 ---
 
-<div style="text-align: center; margin-bottom: 2rem;">
-  <h2>Timely & Effective Care Across the US</h2>
-  <p><em>Helping patients choose hospitals with Tableau.</em></p>
+<div style="text-align: left; margin-bottom: 1rem;">
   <a href="/" class="back-link" style="color: #666; text-decoration: none;">← Back to Portfolio</a>
 </div>
 
-## Project Overview
-This project created a Tableau dashboard for CMS data to help patients choose the best hospital based on quality of care metrics.
+<div style="text-align: center; margin-bottom: 2rem;">
+  <h2>Timely & Effective Care Across the US</h2>
+</div>
 
-### Key Insights
-- Improved hospital selection based on care quality.
+### Project Overview
+Patient-facing tool using CMS Hospital Compare data for informed choices.
 
-## Code and Data
-- [View Dashboard on Tableau](https://public.tableau.com/app/profile/hamzasalahds/viz/TimelyEffectiveCarebyHospitalinTheUnitedStatesDashboardCMS/TimelyEffectiveCarebyHospitalinTheUnitedStatesDashboardCMS)
+#### Key Insights
+- Top hospitals in timely care: Northeast region.
+- Metrics include readmission rates and wait times.
+- Filters by condition/specialty.
 
-## Visualizations
+### Code and Data
+- [View Dashboard on GitHub](https://github.com/hamzamsalah/cms-effective-care)  <!-- Update if available -->
+- [Download Dataset](https://data.cms.gov/provider-data/dataset/yv7e-xc69)
+
+### Visualizations
 ![Effective Care Dashboard]({{ site.baseurl }}/assets/effective_care_dash.png)
 
-## Technologies Used
+### Technologies Used
 - Tableau
 
 <hr style="margin: 2rem 0;">
