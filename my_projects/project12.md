@@ -22,7 +22,7 @@ title: US Mass Shootings Analysis
 
   <!-- Title (below) -->
   <h2 style="margin: 0;">
-    Empowering Mothers: Bridging the Gap to Professional Success
+    US Mass Shootings Analysis
   </h2>
 </div>
 
