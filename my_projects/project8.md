@@ -22,7 +22,7 @@ title: Weather Lookup
 
   <!-- Title (below) -->
   <h2 style="margin: 0;">
-    Empowering Mothers: Bridging the Gap to Professional Success
+    Weather Lookup
   </h2>
 </div>
 
