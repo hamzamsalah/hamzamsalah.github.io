@@ -9,18 +9,18 @@ title: Predictive Modeling of Tennessee Energy Demand
   background: white;
   z-index: 1000;
   padding: 0.5rem 1rem;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  border-bottom: 1px solid black;
+  text-align: center;
+  border-bottom: 2px solid black;
 ">
-  <!-- Left side: Back link -->
-  <a href="/" class="back-link" style="color: #666; text-decoration: none;">
-    ← Back to Portfolio
-  </a>
+  <!-- Back link (above) -->
+  <div style="text-align: left; margin-bottom: 0.5rem;">
+    <a href="/" class="back-link" style="color: #666; text-decoration: none;">
+      ← Back to Portfolio
+    </a>
+  </div>
 
-  <!-- Center: Title -->
-  <h2 style="margin: 0; text-align: center; flex: 1;">
+  <!-- Title (below) -->
+  <h2 style="margin: 0;">
     Predictive Modeling of Tennessee Energy Demand
   </h2>
 </div>
