@@ -4,7 +4,7 @@ title: Timely & Effective Care Across the US
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">
-  <h1>Timely & Effective Care Across the US</h1>
+  <h2>Timely & Effective Care Across the US</h2>
   <p><em>Helping patients choose hospitals with Tableau.</em></p>
   <a href="/" class="back-link" style="color: #666; text-decoration: none;">← Back to Portfolio</a>
 </div>
