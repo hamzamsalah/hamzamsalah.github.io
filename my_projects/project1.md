@@ -24,8 +24,8 @@ This project analyzes historical electricity consumption data in Tennessee to bu
 - [Download Dataset](https://example.com/dataset.csv)  <!-- Replace with real link if available -->
 
 ### Visualizations
-<img src="assets/combined_sector_forecast.png?raw=true" />
-<img src="assets/combined_sector_forecast_table.png?raw=true" />
+![Sector Forecast]({{ site.baseurl }}/assets/combined_sector_forecast.png)
+![Forecast Table]({{ site.baseurl }}/assets/combined_sector_forecast_table.png)
 
 ### Technologies Used
 - Python (Pandas, Scikit-learn, Statsmodels, pmdarima)
