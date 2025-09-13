@@ -8,10 +8,11 @@ title: Predictive Modeling of Tennessee Energy Demand
 </div>
 
 <div style="text-align: center; margin-bottom: 2rem;">
-  <h2>Predictive Modeling of Tennessee Energy Demand</h2>
+  <h2 style="display: inline-block; border-bottom: 2px solid black; padding-bottom: 0.3rem;">
+    Predictive Modeling of Tennessee Energy Demand
+  </h2>
 </div>
 
----
 
 ### Project Overview
 This project analyzes historical electricity consumption data in Tennessee to build predictive models. Key techniques include ARIMA for time series forecasting and linear regression for demand drivers.
