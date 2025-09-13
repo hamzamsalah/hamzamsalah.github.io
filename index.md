@@ -136,7 +136,7 @@ Developed a Tableau dashboard visualizing COVID-19 cases, deaths, and testing da
 
 ---
 
-### [Timely & Effective Care Across the US(https://public.tableau.com/app/profile/hamzasalahds/viz/TimelyEffectiveCarebyHospitalinTheUnitedStatesDashboardCMS/TimelyEffectiveCarebyHospitalinTheUnitedStatesDashboardCMS)
+### [Timely & Effective Care Across the US](https://public.tableau.com/app/profile/hamzasalahds/viz/TimelyEffectiveCarebyHospitalinTheUnitedStatesDashboardCMS/TimelyEffectiveCarebyHospitalinTheUnitedStatesDashboardCMS)
 [![](https://img.shields.io/badge/Tableau-white?logo=tableau)](#)  
 
 Created a Tableau dashboard for CMS data to help patients choose the best hospital based on quality of care metrics.  
