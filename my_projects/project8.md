@@ -4,7 +4,7 @@ title: Weather Lookup
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">
-  <h1>Weather Lookup</h1>
+  <h2>Weather Lookup</h2>
   <p><em>Python program for weather data retrieval.</em></p>
   <a href="/" class="back-link" style="color: #666; text-decoration: none;">← Back to Portfolio</a>
 </div>
