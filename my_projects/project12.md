@@ -38,7 +38,7 @@ Data analysis revealing pandemic-related trends in gun violence.
 - [View Analysis on GitHub](https://github.com/hamzamsalah/us-mass-shootings)  <!-- Update if available -->
 - [Download Dataset](https://example.com/mass_shootings.csv)
 
-### Visualizations
+### Dashboard
 ![Shootings Dashboard]({{ site.baseurl }}/assets/shoot_dashboard.png)
 
 ### Technologies Used
