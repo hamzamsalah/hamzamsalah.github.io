@@ -8,7 +8,7 @@ title: Predictive Modeling of Tennessee Energy Demand
 </div>
 
 <div style="text-align: center; margin-bottom: 2rem;">
-  <h2 style="display: inline-block; border-bottom: 2px solid black; padding-bottom: 0.3rem;">
+  <h2 style="display: inline-block; border-bottom: 1px solid black; padding-bottom: 0.3rem;">
     Predictive Modeling of Tennessee Energy Demand
   </h2>
 </div>
