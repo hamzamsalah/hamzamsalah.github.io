@@ -20,7 +20,6 @@ This portfolio showcases projects in analytics, visualization, and machine learn
 Forecasted residential energy consumption in Tennessee using time series and regression models (SARIMAX, SARIMA, ARIMA, Multiple Linear Regression). Conducted EDA to uncover sector-specific trends and provided insights for utility demand management and efficiency planning.  
 
 <img src="assets/combined_sector_forecast.png?raw=true" />
-<img src="assets/combined_sector_forecast_table.png?raw=true" />
 
 ---
 
@@ -35,8 +34,6 @@ Forecasted residential energy consumption in Tennessee using time series and reg
 
 Analyzed Amazon product reviews using NLP techniques. Preprocessed review text, extracted features, and applied ML models to classify reviews as positive or negative. Evaluated performance and visualized insights about customer sentiment and product quality.
 
-<img src="assets/confusion_matrix.png?raw=true" />
-<img src="assets/rock_curve.png?raw=true" />
 
 ---
 
@@ -104,8 +101,6 @@ Implemented an Excel-based system with dashboards to highlight area performance.
 
 Developed a Python program for weather lookup by zip code or city, utilizing the OpenWeatherMap API.
 
-<img src="assets/weather_lookup.png?raw=true" />
-
 ---
 
 ### [TSA Complaints Analysis](my_projects/project9)
@@ -114,8 +109,6 @@ Developed a Python program for weather lookup by zip code or city, utilizing the
 
 Built a Power BI dashboard to track TSA Complaints in the US.
 
-[View Dashboard](https://1drv.ms/b/c/8232850de7f5f589/ESPpzVVPixdFihRHDNWBOhABzqXMPMurhiZHJnLCG5iLAg?e=vBAqzX) | [PBIX File](https://1drv.ms/u/c/8232850de7f5f589/EXUyE0Ey2nlPqeCvx5i56IsBPWECKbIcLeAXn_mtwZiYjg?e=HHIfsX)
-
 
 ### [Concession Baseball Sales Dashboard](my_projects/project10)
 
@@ -123,7 +116,7 @@ Built a Power BI dashboard to track TSA Complaints in the US.
 
 Built a Power BI dashboard to track sales and performance of concessions at baseball games, optimizing inventory and pricing strategies.
 
-[View Dashboard](https://1drv.ms/b/s!Aon19ecNhTKCgbV3dBp83UAYVuoJ1Q?e=H5230v) | [PBIX File](https://1drv.ms/u/s!Aon19ecNhTKCgbV1IqDZlEuzG5nALQ?e=B9U4pA)
+
 
 
 ### [Store Sales Dashboard](my_projects/project11)
@@ -132,7 +125,7 @@ Built a Power BI dashboard to track sales and performance of concessions at base
 
 Designed a Power BI sales dashboard to monitor KPIs, sales trends, and regional performance for effective decision-making.
 
-[View Dashboard](https://1drv.ms/b/s!Aon19ecNhTKCgbV20rEKJWOOHrFJWQ?e=P2fepE) | [PBIX File](https://1drv.ms/u/s!Aon19ecNhTKCgbV0q8GDJZefIUDHEw?e=f07fRR)
+
 
 
 ### [US Mass Shootings Analysis](my_projects/project12)
