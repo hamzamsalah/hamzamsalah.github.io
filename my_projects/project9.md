@@ -4,7 +4,7 @@ title: TSA Complaints Analysis
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">
-  <h1>TSA Complaints Analysis</h1>
+  <h2>TSA Complaints Analysis</h2>
   <p><em>Tracking TSA complaints with Power BI.</em></p>
   <a href="/" class="back-link" style="color: #666; text-decoration: none;">← Back to Portfolio</a>
 </div>
