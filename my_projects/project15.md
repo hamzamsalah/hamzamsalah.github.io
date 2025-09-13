@@ -4,7 +4,7 @@ title: Home Values in TN
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">
-  <h1>Home Values in TN</h1>
+  <h2>Home Values in TN</h2>
   <p><em>Analyzing Tennessee home values with Tableau.</em></p>
   <a href="/" class="back-link" style="color: #666; text-decoration: none;">← Back to Portfolio</a>
 </div>
