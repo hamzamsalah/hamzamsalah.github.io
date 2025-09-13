@@ -12,12 +12,13 @@ title: "DSC 630 Predictive Analytics: Time Series Analysis of US Retail Sales"
     padding: 0.5rem 1rem;
     text-align: center;
     border-bottom: 1px solid black;
-    margin-bottom: 1rem; /* space under the border */
+    margin-bottom: 1rem;
   }
 
   .sticky-header .back-link {
     color: #666;
     text-decoration: none;
+    font-size: 0.9rem;
   }
 
   .sticky-header .back-container {
@@ -27,6 +28,7 @@ title: "DSC 630 Predictive Analytics: Time Series Analysis of US Retail Sales"
 
   .sticky-header h2 {
     margin: 0;
+    font-size: 1.5rem;
   }
 
   footer {
@@ -37,32 +39,30 @@ title: "DSC 630 Predictive Analytics: Time Series Analysis of US Retail Sales"
 </style>
 
 <div class="sticky-header">
-  <!-- Back link (above) -->
   <div class="back-container">
     <a href="/" class="back-link">← Back to Portfolio</a>
   </div>
-
-  <!-- Title (below) -->
   <h2>DSC 630 Predictive Analytics: Time Series Analysis of US Retail Sales</h2>
 </div>
 
-### Project Overview
-This academic project applies time series forecasting to historical US retail data, highlighting COVID impacts.
+## Project Overview
+This academic project applies time series forecasting to historical US retail data, highlighting COVID-19 impacts on sales trends.
 
-#### Key Insights
-- ARIMA model captured recovery trends post-2020.
-- Seasonal patterns showed holiday spikes.
-- RMSE indicates reliable short-term predictions.
+## Key Insights
+- ARIMA model captured recovery trends post-2020.  
+- Seasonal patterns revealed holiday spikes.  
+- RMSE demonstrates reliable short-term predictions.
 
-### Code and Data
+## Code and Data
 - [View Full Notebook on GitHub](https://github.com/hamzamsalah/dsc630-us-retail-sales)  
 - [Download Dataset](https://example.com/retail_sales.csv)
 
-### Visualizations
+## Visualizations
+*Include your plots or images here.*
 
-### Technologies Used
-- Python (Pandas, Scikit-learn, Statsmodels)
-- Jupyter Notebook
+## Technologies Used
+- Python (Pandas, Scikit-learn, Statsmodels)  
+- Jupyter Notebook  
 - Matplotlib
 
 <hr>
