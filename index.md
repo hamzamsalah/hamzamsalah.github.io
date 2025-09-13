@@ -9,7 +9,7 @@ This portfolio showcases projects in analytics, visualization, and machine learn
 <hr style="margin: 20px 0;">
 </div>
 
-### [Predictive Modeling of Tennessee Energy Demand](/projects/project1.html)
+### [Predictive Modeling of Tennessee Energy Demand](/projects/project1/)
 
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Statsmodels-white)](#) [![](https://img.shields.io/badge/pmdarima-white)](#) [![](https://img.shields.io/badge/Scikit--learn-white?logo=scikitlearn)](#) [![](https://img.shields.io/badge/Matplotlib-white)](#) [![](https://img.shields.io/badge/Seaborn-white)](#)  
