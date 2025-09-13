@@ -1,29 +1,23 @@
 ---
 layout: default
-title: "Empowering Mothers: Bridging the Gap to Professional Success"
+title: Empowering Mothers: Bridging the Gap to Professional Success
 ---
 
-<div style="text-align: center; margin-bottom: 2rem;">
-  <h2>Empowering Mothers: Bridging the Gap to Professional Success</h2>
-  <p><em>Analyzing childcare impacts on workforce participation.</em></p>
+<div style="text-align: left; margin-bottom: 1rem;">
   <a href="/" class="back-link" style="color: #666; text-decoration: none;">← Back to Portfolio</a>
 </div>
 
-## Project Overview
-This project visualizes national data to examine the impact of childcare costs on mothers' workforce participation, highlighting gender disparities in earnings, unemployment, and job types.
+<div style="text-align: center; margin-bottom: 2rem;">
+  <h2>Empowering Mothers: Bridging the Gap to Professional Success</h2>
+</div>
 
-### Key Insights
-- Provided recommendations for policy reforms and employer support programs.
+### Project Overview
+This visualization project explores socioeconomic barriers for working mothers using public datasets.
 
-## Code and Data
-- [View Repository on GitHub](https://github.com/hamzasalahds/bridge-the-gap?tab=readme-ov-file#empowering-mothers-bridging-the-gap-to-professional-success)
+#### Key Insights
+- Childcare costs correlate with 20% lower workforce participation.
+- Gender pay gap widens post-childbirth.
+- Policy recommendations include subsidies and flexible work.
 
-## Visualizations
-![Median Earnings]({{ site.baseurl }}/assets/median_earnings.png)
-
-## Technologies Used
-- Power BI
-- Excel
-
-<hr style="margin: 2rem 0;">
-<p style="text-align: center; color: #666;">© 2025 Hamza Salah</p>
+### Code and Data
+- [View Dashboard on GitHub](https://github.com/hamzamsalah/empowering-mothers-childcare)  <!-- Update
