@@ -38,7 +38,7 @@ This database project supports hospital operations during pandemics by tracking 
 - [View Full Repository on GitHub](https://github.com/HmSalah/sql_hospital_database)
 - [Download Schema](https://example.com/hospital_schema.sql)
 
-### Visualizations
+### Database
 ![Database Interface]({{ site.baseurl }}/assets/database_hospital.gif)
 
 ### Technologies Used
