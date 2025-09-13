@@ -4,7 +4,7 @@ title: Amazon FC - Employee Performance System
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">
-  <h1>Amazon FC - Employee Performance System</h1>
+  <h2>Amazon FC - Employee Performance System</h2>
   <p><em>Optimizing employee performance with Excel dashboards.</em></p>
   <a href="/" class="back-link" style="color: #666; text-decoration: none;">← Back to Portfolio</a>
 </div>
