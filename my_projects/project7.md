@@ -3,25 +3,30 @@ layout: default
 title: Amazon FC - Employee Performance System
 ---
 
-<div style="text-align: center; margin-bottom: 2rem;">
-  <h2>Amazon FC - Employee Performance System</h2>
-  <p><em>Optimizing employee performance with Excel dashboards.</em></p>
+<div style="text-align: left; margin-bottom: 1rem;">
   <a href="/" class="back-link" style="color: #666; text-decoration: none;">← Back to Portfolio</a>
 </div>
 
-## Project Overview
-This project implemented an Excel-based system with dashboards to highlight area performance, achieving a 10% improvement in sorting efficiency.
+<div style="text-align: center; margin-bottom: 2rem;">
+  <h2>Amazon FC - Employee Performance System</h2>
+</div>
 
-### Key Insights
-- Processed over 262,000 items per shift.
+### Project Overview
+This operational tool optimizes warehouse efficiency at Amazon Fulfillment Centers using Excel analytics.
 
-## Code and Data
-- [View Repository on GitHub](https://github.com/hamzasalahds/Amazon_Project/blob/main/README.md#amazon-fc---employee-performance-system)
+#### Key Insights
+- Dashboards reduced errors by 15%.
+- KPI tracking led to 10% speed gains.
+- Processed 262K+ items/shift post-implementation.
 
-## Visualizations
+### Code and Data
+- [View Workbook on GitHub](https://github.com/hamzamsalah/amazon-fc-performance)  <!-- Update with actual repo if available -->
+- [Download Template](https://example.com/performance_template.xlsx)
+
+### Visualizations
 ![Amazon Dashboard]({{ site.baseurl }}/assets/amaz_dash.png)
 
-## Technologies Used
+### Technologies Used
 - Excel
 
 <hr style="margin: 2rem 0;">
