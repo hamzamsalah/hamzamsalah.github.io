@@ -22,7 +22,7 @@ title: Hospital COVID-19 Relational Database
 
   <!-- Title (below) -->
   <h2 style="margin: 0;">
-    Empowering Mothers: Bridging the Gap to Professional Success
+    Hospital COVID-19 Relational Database
   </h2>
 </div>
 
