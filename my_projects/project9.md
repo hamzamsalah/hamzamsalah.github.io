@@ -2,13 +2,27 @@
 layout: default
 title: TSA Complaints Analysis
 ---
+<div style="
+  position: sticky;
+  top: 0;
+  background: white;
+  z-index: 1000;
+  padding: 0.5rem 1rem;
+  text-align: center;
+  border-bottom: 1px solid black;
+  margin-bottom: 1rem;  /* 👈 space under the border */
+">
+  <!-- Back link (above) -->
+  <div style="text-align: left; margin-bottom: 0.5rem;">
+    <a href="/" class="back-link" style="color: #666; text-decoration: none;">
+      ← Back to Portfolio
+    </a>
+  </div>
 
-<div style="text-align: left; margin-bottom: 1rem;">
-  <a href="/" class="back-link" style="color: #666; text-decoration: none;">← Back to Portfolio</a>
-</div>
-
-<div style="text-align: center; margin-bottom: 2rem;">
-  <h2>TSA Complaints Analysis</h2>
+  <!-- Title (below) -->
+  <h2 style="margin: 0;">
+    Empowering Mothers: Bridging the Gap to Professional Success
+  </h2>
 </div>
 
 ### Project Overview
