@@ -22,7 +22,7 @@ title: Timely & Effective Care Across the US
 
   <!-- Title (below) -->
   <h2 style="margin: 0;">
-    Empowering Mothers: Bridging the Gap to Professional Success
+    Timely & Effective Care Across the US
   </h2>
 </div>
 
