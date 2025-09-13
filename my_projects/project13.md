@@ -22,7 +22,7 @@ title: Covid Case Tracker
 
   <!-- Title (below) -->
   <h2 style="margin: 0;">
-    Empowering Mothers: Bridging the Gap to Professional Success
+    Covid Case Tracker
   </h2>
 </div>
 
