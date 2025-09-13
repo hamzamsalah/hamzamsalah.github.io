@@ -3,27 +3,32 @@ layout: default
 title: Weather Lookup
 ---
 
-<div style="text-align: center; margin-bottom: 2rem;">
-  <h2>Weather Lookup</h2>
-  <p><em>Python program for weather data retrieval.</em></p>
+<div style="text-align: left; margin-bottom: 1rem;">
   <a href="/" class="back-link" style="color: #666; text-decoration: none;">← Back to Portfolio</a>
 </div>
 
-## Project Overview
-This project developed a Python program for weather lookup by zip code or city, utilizing the OpenWeatherMap API.
+<div style="text-align: center; margin-bottom: 2rem;">
+  <h2>Weather Lookup</h2>
+</div>
 
-### Key Insights
-- Provided real-time weather data access.
+### Project Overview
+A simple CLI tool for fetching real-time weather data via API integration.
 
-## Code and Data
-- [View Repository on GitHub](https://github.com/hamzasalahds/weather-lookup?tab=readme-ov-file#-dsc-510-programming---bellevue-university)
+#### Key Insights
+- Supports city/zip queries with forecasts.
+- Handles API errors gracefully.
+- Output includes temp, humidity, and conditions.
 
-## Visualizations
+### Code and Data
+- [View Full Code on GitHub](https://github.com/HmSalah/weather-lookup)
+- [API Docs](https://openweathermap.org/api)
+
+### Visualizations
 ![Weather Lookup]({{ site.baseurl }}/assets/weather_lookup.png)
 
-## Technologies Used
+### Technologies Used
 - Python
-- API
+- OpenWeatherMap API
 
 <hr style="margin: 2rem 0;">
 <p style="text-align: center; color: #666;">© 2025 Hamza Salah</p>
