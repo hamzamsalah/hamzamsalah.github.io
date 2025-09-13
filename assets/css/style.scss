@@ -34,8 +34,7 @@ body.dark-mode h5,
 body.dark-mode h6,
 body.dark-mode p,
 body.dark-mode em,
-body.dark-mode strong,
-body.dark-mode a {
+body.dark-mode strong {
   color: #f0f0f0;
 }
 
@@ -58,6 +57,58 @@ body.dark-mode hr {
 
 body.dark-mode img {
   filter: brightness(0.9);
+}
+
+/* ============================
+   PORTFOLIO HEADER (home page)
+   ============================ */
+header {
+  padding: 1rem;
+}
+header h1 a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* ============================
+   PROJECT HEADER (project pages)
+   ============================ */
+.project-header {
+  position: sticky;
+  top: 0;
+  background: #ffffff; /* light mode */
+  z-index: 1000;
+  padding: 0.5rem 1rem;
+  text-align: center;
+  border-bottom: 1px solid #000000;
+  margin-bottom: 1rem;
+}
+
+.project-header h2 {
+  margin: 0;
+}
+
+.project-header .back-link {
+  color: #666;
+  text-decoration: none;
+}
+.project-header .back-link:hover {
+  text-decoration: underline;
+}
+
+/* Dark mode overrides for project header */
+body.dark-mode .project-header {
+  background: #1e1e1e;
+  border-bottom: 1px solid #333;
+}
+body.dark-mode .project-header h2 {
+  color: #f0f0f0;
+}
+body.dark-mode .project-header .back-link {
+  color: #bbb;
+}
+body.dark-mode .project-header .back-link:hover {
+  color: #fff;
 }
 
 /* ============================
