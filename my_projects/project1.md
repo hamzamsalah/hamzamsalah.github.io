@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: default
 title: Predictive Modeling of Tennessee Energy Demand
 ---
 
