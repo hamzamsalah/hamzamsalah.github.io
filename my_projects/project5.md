@@ -4,7 +4,7 @@ title: Hospital COVID-19 Relational Database
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">
-  <h1>Hospital COVID-19 Relational Database</h1>
+  <h2>Hospital COVID-19 Relational Database</h2>
   <p><em>Managing COVID-19 data with MySQL.</em></p>
   <a href="/" class="back-link" style="color: #666; text-decoration: none;">← Back to Portfolio</a>
 </div>
