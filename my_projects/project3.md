@@ -34,9 +34,10 @@ This academic project applies time series forecasting to historical US retail sa
 - Seasonal patterns showed predictable holiday spikes.  
 - RMSE indicates reliable short-term predictions for retail planning.
 
-<hr style="margin: 2rem 0;">
-<p style="text-align: center; color: #666;">© 2025 Hamza Salah</p>
-
 ### Code and Data
 - [View Full Notebook on GitHub](https://github.com/hamzamsalah/dsc630-us-retail-sales)  
 - [Download]()
+
+
+<hr style="margin: 2rem 0;">
+<p style="text-align: center; color: #666;">© 2025 Hamza Salah</p>
