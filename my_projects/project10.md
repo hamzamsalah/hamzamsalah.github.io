@@ -4,7 +4,7 @@ title: Concession Baseball Sales Dashboard
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">
-  <h1>Concession Baseball Sales Dashboard</h1>
+  <h2>Concession Baseball Sales Dashboard</h2>
   <p><em>Optimizing baseball concession sales with Power BI.</em></p>
   <a href="/" class="back-link" style="color: #666; text-decoration: none;">← Back to Portfolio</a>
 </div>
