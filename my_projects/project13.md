@@ -4,7 +4,7 @@ title: Covid Case Tracker
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">
-  <h1>Covid Case Tracker</h1>
+  <h2>Covid Case Tracker</h2>
   <p><em>Visualizing COVID-19 data with Tableau.</em></p>
   <a href="/" class="back-link" style="color: #666; text-decoration: none;">← Back to Portfolio</a>
 </div>
