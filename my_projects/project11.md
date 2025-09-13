@@ -22,7 +22,7 @@ title: Store Sales Dashboard
 
   <!-- Title (below) -->
   <h2 style="margin: 0;">
-    Empowering Mothers: Bridging the Gap to Professional Success
+    Store Sales Dashboard
   </h2>
 </div>
 
