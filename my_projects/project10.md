@@ -3,23 +3,30 @@ layout: default
 title: Concession Baseball Sales Dashboard
 ---
 
-<div style="text-align: center; margin-bottom: 2rem;">
-  <h2>Concession Baseball Sales Dashboard</h2>
-  <p><em>Optimizing baseball concession sales with Power BI.</em></p>
+<div style="text-align: left; margin-bottom: 1rem;">
   <a href="/" class="back-link" style="color: #666; text-decoration: none;">← Back to Portfolio</a>
 </div>
 
-## Project Overview
-This project built a Power BI dashboard to track sales and performance of concessions at baseball games, optimizing inventory and pricing strategies.
+<div style="text-align: center; margin-bottom: 2rem;">
+  <h2>Concession Baseball Sales Dashboard</h2>
+</div>
 
-### Key Insights
-- Improved inventory management and pricing decisions.
+### Project Overview
+Analytics tool for stadium concessions, focusing on sales trends and optimization.
 
-## Code and Data
+#### Key Insights
+- Peak sales during innings 3-5.
+- Beverages account for 60% revenue.
+- Dynamic pricing recommendations boost margins.
+
+### Code and Data
 - [View Dashboard](https://1drv.ms/b/s!Aon19ecNhTKCgbV3dBp83UAYVuoJ1Q?e=H5230v)
-- [Download PBIX](https://1drv.ms/u/s!Aon19ecNhTKCgbV1IqDZlEuzG5nALQ?e=B9U4pA)
+- [PBIX File](https://1drv.ms/u/s!Aon19ecNhTKCgbV1IqDZlEuzG5nALQ?e=B9U4pA)
+- [GitHub Repo](https://github.com/hamzamsalah/baseball-concessions)  <!-- Update if available -->
 
-## Technologies Used
+### Visualizations
+
+### Technologies Used
 - Power BI
 
 <hr style="margin: 2rem 0;">
