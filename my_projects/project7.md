@@ -38,7 +38,7 @@ This operational tool optimizes warehouse efficiency at Amazon Fulfillment Cente
 - [View Workbook on GitHub](https://github.com/hamzamsalah/amazon-fc-performance)  <!-- Update with actual repo if available -->
 - [Download Template](https://example.com/performance_template.xlsx)
 
-### Visualizations
+### Dashboard
 ![Amazon Dashboard]({{ site.baseurl }}/assets/amaz_dash.png)
 
 ### Technologies Used
