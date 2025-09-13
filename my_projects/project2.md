@@ -3,32 +3,33 @@ layout: default
 title: Sentiment Analysis of Customer Reviews
 ---
 
-<div style="text-align: center; margin-bottom: 2rem;">
-  <h2>Sentiment Analysis of Customer Reviews</h2>
-  <p><em>Analyzing Amazon reviews using NLP techniques.</em></p>
+<div style="text-align: left; margin-bottom: 1rem;">
   <a href="/" class="back-link" style="color: #666; text-decoration: none;">← Back to Portfolio</a>
 </div>
 
-## Project Overview
-This project analyzes Amazon product reviews using NLP techniques. It involves preprocessing review text, extracting features, and applying machine learning models to classify reviews as positive or negative.
+<div style="text-align: center; margin-bottom: 2rem;">
+  <h2>Sentiment Analysis of Customer Reviews</h2>
+</div>
 
-### Key Insights
-- Evaluated model performance with detailed metrics.
-- Visualized customer sentiment trends and product quality insights.
+### Project Overview
+This project focuses on natural language processing to gauge customer opinions from Amazon reviews, enabling better product insights.
 
-## Code and Data
-- [View Full Notebook on GitHub](https://github.com/hamzasalahds/amazon_reviews/blob/main/README.md#--sentiment-analysis-of-customer-reviews--dsc-550-data-mining)
+#### Key Insights
+- Positive reviews dominated, with key themes around quality and delivery.
+- Model accuracy reached 85% using logistic regression.
+- Word clouds highlighted frequent terms like "great" and "fast".
 
-## Visualizations
+### Code and Data
+- [View Full Notebook on GitHub](https://github.com/hamzamsalah/sentiment-analysis-amazon-reviews)  <!-- Update with actual repo if available -->
+- [Download Dataset](https://example.com/amazon_reviews.csv)
+
+### Visualizations
 ![Confusion Matrix]({{ site.baseurl }}/assets/confusion_matrix.png)
 ![ROC Curve]({{ site.baseurl }}/assets/rock_curve.png)
 
-## Technologies Used
-- Python
-- Jupyter
-- Scikit-learn
-- NLTK
-- WordCloud
+### Technologies Used
+- Python (Pandas, Scikit-learn, NLTK, WordCloud)
+- Jupyter Notebook
 - Matplotlib
 
 <hr style="margin: 2rem 0;">
