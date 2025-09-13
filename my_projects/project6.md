@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Bellevue University - DSC 630: Using Data to Improve MLB Attendance
+title: "Bellevue University - DSC 630: Using Data to Improve MLB Attendance"
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">
-  <h1>Bellevue University - DSC 630: Using Data to Improve MLB Attendance</h1>
+  <h2>Bellevue University - DSC 630: Using Data to Improve MLB Attendance</h2>
   <p><em>Analyzing factors influencing Dodgers' attendance.</em></p>
   <a href="/" class="back-link" style="color: #666; text-decoration: none;">← Back to Portfolio</a>
 </div>
