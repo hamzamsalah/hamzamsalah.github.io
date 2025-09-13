@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Empowering Mothers: Bridging the Gap to Professional Success
+title: "Empowering Mothers: Bridging the Gap to Professional Success"
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">
-  <h1>Empowering Mothers: Bridging the Gap to Professional Success</h1>
+  <h2>Empowering Mothers: Bridging the Gap to Professional Success</h2>
   <p><em>Analyzing childcare impacts on workforce participation.</em></p>
   <a href="/" class="back-link" style="color: #666; text-decoration: none;">← Back to Portfolio</a>
 </div>
