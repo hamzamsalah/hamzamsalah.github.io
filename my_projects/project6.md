@@ -21,7 +21,7 @@ title: Bellevue University - DSC 630: Using Data to Improve MLB Attendance
 
   <!-- Title (below) -->
   <h2 style="margin: 0;">
-    Empowering Mothers: Bridging the Gap to Professional Success
+    Bellevue University - DSC 630: Using Data to Improve MLB Attendance
   </h2>
 </div>
 
