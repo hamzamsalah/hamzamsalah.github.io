@@ -14,30 +14,7 @@
 <body class="light-mode">
   <div class="wrapper">
 
-    <!-- Global header (for homepage / portfolio) -->
-    {% if page.layout == "default" and page.url == "/" %}
-    <header style="text-align: center;">
-      <h1>
-        <a href="{{ "/" | absolute_url }}">
-          {{ site.title | default: site.github.repository_name }}
-        </a>
-      </h1>
-
-      {% if site.logo %}
-        <img src="{{ site.logo | relative_url }}" 
-             alt="Logo" 
-             style="width:225px; height:auto; display:block; margin: 0 auto;" />
-      {% endif %}
-
-      <p>{{ site.description | markdownify }}</p>
-
-      <!-- Theme Toggle -->
-      <button id="theme-toggle">🌙 Dark Mode</button>
-    </header>
-    {% endif %}
-
-    <!-- Project header (only on project pages) -->
-    {% if page.url != "/" %}
+    <!-- Project Header -->
     <div class="project-header">
       <div class="back-link-wrapper">
         <a href="/" class="back-link">← Back to Portfolio</a>
@@ -46,13 +23,13 @@
       <!-- Theme Toggle -->
       <button id="theme-toggle">🌙 Dark Mode</button>
     </div>
-    {% endif %}
 
-    <!-- Main content -->
+    <!-- Main Content -->
     <section>
       {{ content }}
     </section>
 
+    <!-- Footer -->
     <footer>
       {% if site.github.is_project_page %}
         <p>
@@ -61,6 +38,7 @@
         </p>
       {% endif %}
     </footer>
+
   </div>
 
   <!-- Scripts -->
