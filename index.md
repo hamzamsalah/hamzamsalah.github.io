@@ -178,4 +178,3 @@ Analyzed Zillow data on home values in Tennessee from 2000 to 2022, creating an 
 Analyzed data from Open University, identifying correlations between GPA and demographics using Tableau.
 
 <img src="assets/gpa1.png?raw=true" />
-<img src="assets/gpa2.png?raw=true" />
