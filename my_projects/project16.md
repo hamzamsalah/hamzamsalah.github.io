@@ -4,7 +4,7 @@ title: Open University Student GPA & Demographics Analysis
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">
-  <h1>Open University Student GPA & Demographics Analysis</h1>
+  <h2>Open University Student GPA & Demographics Analysis</h2>
   <p><em>Correlating GPA with demographics using Tableau.</em></p>
   <a href="/" class="back-link" style="color: #666; text-decoration: none;">← Back to Portfolio</a>
 </div>
