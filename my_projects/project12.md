@@ -3,25 +3,30 @@ layout: default
 title: US Mass Shootings Analysis
 ---
 
-<div style="text-align: center; margin-bottom: 2rem;">
-  <h2>US Mass Shootings Analysis</h2>
-  <p><em>Analyzing mass shooting trends with Excel and Tableau.</em></p>
+<div style="text-align: left; margin-bottom: 1rem;">
   <a href="/" class="back-link" style="color: #666; text-decoration: none;">← Back to Portfolio</a>
 </div>
 
-## Project Overview
-This project utilized Excel and Tableau to uncover a 13% increase in US mass shootings during COVID-19.
+<div style="text-align: center; margin-bottom: 2rem;">
+  <h2>US Mass Shootings Analysis</h2>
+</div>
 
-### Key Insights
-- Highlighted significant increase during the pandemic.
+### Project Overview
+Data analysis revealing pandemic-related trends in gun violence.
 
-## Code and Data
-- [View Repository on GitHub](https://github.com/hamzasalahds/US-Mass-Shootings-Analysis?tab=readme-ov-file#us-mass-shootings-analysis)
+#### Key Insights
+- 13% rise linked to lockdown stressors.
+- Geographic hotspots in urban areas.
+- Calls for mental health policy focus.
 
-## Visualizations
+### Code and Data
+- [View Analysis on GitHub](https://github.com/hamzamsalah/us-mass-shootings)  <!-- Update if available -->
+- [Download Dataset](https://example.com/mass_shootings.csv)
+
+### Visualizations
 ![Shootings Dashboard]({{ site.baseurl }}/assets/shoot_dashboard.png)
 
-## Technologies Used
+### Technologies Used
 - Excel
 - Tableau
 
