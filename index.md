@@ -6,6 +6,8 @@ This portfolio showcases projects in analytics, visualization, and machine learn
 <hr style="margin: 20px 0;">
 </div>
 
+**[Predictive Modeling of Tennessee Energy Demand](my_projects/proj1)**
+
 ### [Predictive Modeling of Tennessee Energy Demand](https://github.com/hamzamsalah/Electricity_Consumption_in_TN/blob/main/electricitiy_demand.ipynb)
 
 [![](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white)](#)
