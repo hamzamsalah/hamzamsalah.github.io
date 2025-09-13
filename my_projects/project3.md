@@ -4,7 +4,7 @@ title: "DSC 630 Predictive Analytics: Time Series Analysis of US Retail Sales"
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">
-  <h1>DSC 630 Predictive Analytics: Time Series Analysis of US Retail Sales</h1>
+  <h2>DSC 630 Predictive Analytics: Time Series Analysis of US Retail Sales</h2>
   <p><em>Forecasting retail sales trends with ARIMA.</em></p>
   <a href="/" class="back-link" style="color: #666; text-decoration: none;">← Back to Portfolio</a>
 </div>
