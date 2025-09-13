@@ -3,15 +3,39 @@
 
 @import "{{ site.theme }}";
 
-/* Default Light Mode */
+/* ============================
+   LIGHT MODE (default)
+   ============================ */
 body.light-mode {
   background-color: #ffffff;
   color: #000000;
 }
 
-/* Dark Mode */
+body.light-mode a {
+  color: #0066cc;
+}
+body.light-mode a:hover {
+  color: #003366;
+}
+
+/* ============================
+   DARK MODE
+   ============================ */
 body.dark-mode {
   background-color: #121212;
+  color: #f0f0f0; /* Base text color */
+}
+
+body.dark-mode h1,
+body.dark-mode h2,
+body.dark-mode h3,
+body.dark-mode h4,
+body.dark-mode h5,
+body.dark-mode h6,
+body.dark-mode p,
+body.dark-mode em,
+body.dark-mode strong,
+body.dark-mode a {
   color: #f0f0f0;
 }
 
@@ -28,11 +52,17 @@ body.dark-mode footer {
   border-color: #333;
 }
 
+body.dark-mode hr {
+  border-color: #333;
+}
+
 body.dark-mode img {
   filter: brightness(0.9);
 }
 
-/* Style the toggle button */
+/* ============================
+   THEME TOGGLE BUTTON
+   ============================ */
 #theme-toggle {
   cursor: pointer;
   padding: 6px 12px;
@@ -41,4 +71,10 @@ body.dark-mode img {
   border-radius: 6px;
   background: #444;
   color: #fff;
+  font-size: 14px;
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+#theme-toggle:hover {
+  background: #666;
 }
