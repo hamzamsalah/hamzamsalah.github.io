@@ -38,7 +38,7 @@ Patient-facing tool using CMS Hospital Compare data for informed choices.
 - [View Dashboard on GitHub](https://github.com/hamzamsalah/cms-effective-care)  <!-- Update if available -->
 - [Download Dataset](https://data.cms.gov/provider-data/dataset/yv7e-xc69)
 
-### Visualizations
+### Dashboard
 ![Effective Care Dashboard]({{ site.baseurl }}/assets/effective_care_dash.png)
 
 ### Technologies Used
