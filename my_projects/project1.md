@@ -7,8 +7,16 @@ title: Predictive Modeling of Tennessee Energy Demand
   <a href="/" class="back-link" style="color: #666; text-decoration: none;">← Back to Portfolio</a>
 </div>
 
-<div style="text-align: center; margin-bottom: 1rem;">
-  <h2 style="display: inline-block; border-bottom: 1px solid black; padding-bottom: 0.3rem; margin-bottom: 0.5rem;">
+<div style="
+  text-align: center; 
+  margin-bottom: 1rem; 
+  position: sticky; 
+  top: 0; 
+  background: white; 
+  z-index: 1000; 
+  padding: 0.5rem 0;
+">
+  <h2 style="display: inline-block; border-bottom: 2px solid black; padding-bottom: 0.3rem; margin: 0;">
     Predictive Modeling of Tennessee Energy Demand
   </h2>
 </div>
