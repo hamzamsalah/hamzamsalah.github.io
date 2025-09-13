@@ -4,7 +4,7 @@ title: Sentiment Analysis of Customer Reviews
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">
-  <h1>Sentiment Analysis of Customer Reviews</h1>
+  <h2>Sentiment Analysis of Customer Reviews</h2>
   <p><em>Analyzing Amazon reviews using NLP techniques.</em></p>
   <a href="/" class="back-link" style="color: #666; text-decoration: none;">← Back to Portfolio</a>
 </div>
