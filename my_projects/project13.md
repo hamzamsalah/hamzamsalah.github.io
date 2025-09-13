@@ -38,7 +38,7 @@ Real-time visualization of global COVID metrics for public health monitoring.
 - [View Dashboard on GitHub](https://github.com/hamzamsalah/covid-tracker-tableau)  <!-- Update if available -->
 - [Download Dataset](https://github.com/nytimes/covid-19-data)
 
-### Visualizations
+### Dashboard
 ![COVID Dashboard]({{ site.baseurl }}/assets/covid_dash.png)
 
 ### Technologies Used
