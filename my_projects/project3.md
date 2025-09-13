@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DSC 630 Predictive Analytics: Time Series Analysis of US Retail Sales
+title: "DSC 630 Predictive Analytics: Time Series Analysis of US Retail Sales"
 ---
 
 <div style="
