@@ -9,14 +9,15 @@ title: Predictive Modeling of Tennessee Energy Demand
 
 <div style="text-align: center; margin-bottom: 2rem;">
   <h2>Predictive Modeling of Tennessee Energy Demand</h2>
+  <p><em>Forecasting energy consumption using time series analysis and regression models.</em></p>
 </div>
 
 ### Project Overview
-This project analyzes historical electricity consumption data in Tennessee to build predictive models. Key techniques include ARIMA for time series forecasting and linear regression for demand drivers.<grok-card data-id="869e4b" data-type="citation_card"></grok-card>
+This project analyzes historical electricity consumption data in Tennessee to build predictive models. Key techniques include ARIMA for time series forecasting and linear regression for demand drivers.
 
 #### Key Insights
-- Achieved 92% accuracy in 7-day ahead forecasts.<grok-card data-id="97846b" data-type="citation_card"></grok-card>
-- Identified seasonal peaks in summer months due to AC usage.<grok-card data-id="b258b0" data-type="citation_card"></grok-card>
+- Achieved 92% accuracy in 7-day ahead forecasts.
+- Identified seasonal peaks in summer months due to AC usage.
 - Visualized trends with interactive charts (embedded below or link to Tableau).
 
 ### Code and Data
@@ -26,6 +27,13 @@ This project analyzes historical electricity consumption data in Tennessee to bu
 ### Visualizations
 <img src="assets/combined_sector_forecast.png?raw=true" />
 <img src="assets/combined_sector_forecast_table.png?raw=true" />
+
+### Technologies Used
+- Python (Pandas, Scikit-learn, Statsmodels, pmdarima)
+- Jupyter Notebook
+- Matplotlib
+- Seaborn
+- Tableau for visualization
 
 <hr style="margin: 2rem 0;">
 <p style="text-align: center; color: #666;">© 2025 Hamza Salah</p>
