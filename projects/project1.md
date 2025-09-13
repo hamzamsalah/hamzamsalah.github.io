@@ -1,6 +1,13 @@
----
-layout: page
-title: "Predictive Modeling of Tennessee Energy Demand"
----
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Project 1</title>
+</head>
+<body>
+  <h1>Project 1</h1>
+  <p>This is the description of Project 1.</p>
 
-# Project 1
+  <p><a href="../index.html">← Back to Main Page</a></p>
+</body>
+</html>
