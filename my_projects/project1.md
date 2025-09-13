@@ -4,7 +4,7 @@ title: Predictive Modeling of Tennessee Energy Demand
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">
-  <h3>Predictive Modeling of Tennessee Energy Demand</h3>
+  <h2>Predictive Modeling of Tennessee Energy Demand</h2>
   <p><em>Forecasting energy consumption using time series analysis and regression models.</em></p>
   <a href="/" class="back-link" style="color: #666; text-decoration: none;">← Back to Portfolio</a>
 </div>
