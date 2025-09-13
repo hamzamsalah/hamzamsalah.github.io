@@ -20,4 +20,15 @@ This visualization project explores socioeconomic barriers for working mothers u
 - Policy recommendations include subsidies and flexible work.
 
 ### Code and Data
-- [View Dashboard on GitHub](https://github.com/hamzamsalah/empowering-mothers-childcare)  <!-- Update
+- [View Dashboard on GitHub](https://github.com/hamzamsalah/empowering-mothers-childcare)  <!-- Update with actual repo if available -->
+- [Download Dataset](https://example.com/childcare_data.csv)
+
+### Visualizations
+![Median Earnings]({{ site.baseurl }}/assets/median_earnings.png)
+
+### Technologies Used
+- Power BI
+- Excel
+
+<hr style="margin: 2rem 0;">
+<p style="text-align: center; color: #666;">© 2025 Hamza Salah</p>
