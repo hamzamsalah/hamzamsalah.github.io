@@ -22,7 +22,7 @@ title: Open University Student GPA & Demographics Analysis
 
   <!-- Title (below) -->
   <h2 style="margin: 0;">
-    Empowering Mothers: Bridging the Gap to Professional Success
+    Open University Student GPA & Demographics Analysis
   </h2>
 </div>
 
