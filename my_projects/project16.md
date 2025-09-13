@@ -41,6 +41,8 @@ Exploratory analysis of online learning outcomes and student profiles.
 ### Visualizations
 ![GPA Analysis 1]({{ site.baseurl }}/assets/gpa1.png)
 ![GPA Analysis 2]({{ site.baseurl }}/assets/gpa2.png)
+![GPA Analysis 3]({{ site.baseurl }}/assets/gpa3.png)
+
 
 ### Technologies Used
 - Excel
