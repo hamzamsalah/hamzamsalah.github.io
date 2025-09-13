@@ -22,7 +22,7 @@ title: Concession Baseball Sales Dashboard
 
   <!-- Title (below) -->
   <h2 style="margin: 0;">
-    Empowering Mothers: Bridging the Gap to Professional Success
+    Concession Baseball Sales Dashboard
   </h2>
 </div>
 
