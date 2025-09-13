@@ -22,7 +22,7 @@ title: Home Values in TN
 
   <!-- Title (below) -->
   <h2 style="margin: 0;">
-    Empowering Mothers: Bridging the Gap to Professional Success
+    Home Values in TN
   </h2>
 </div>
 
