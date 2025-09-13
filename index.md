@@ -9,22 +9,6 @@ This portfolio showcases projects in analytics, visualization, and machine learn
 <hr style="margin: 20px 0;">
 </div>
 
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>Hamza's Projects</title>
-</head>
-<body>
-  <h1>Welcome to my Portfolio</h1>
-  <p>Here are my projects:</p>
-  <ul>
-    <li><a href="projects/project1.md">Project 1</a></li>
-    <li><a href="projects/project2.md">Project 2</a></li>
-    <li><a href="projects/project3.md">Project 3</a></li>
-  </ul>
-</body>
-</html>
 
 ### [Predictive Modeling of Tennessee Energy Demand](/projects/project1/)
 
