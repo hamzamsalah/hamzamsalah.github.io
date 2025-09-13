@@ -22,9 +22,8 @@ This project analyzes historical electricity consumption data in Tennessee to bu
 - [Download Dataset](https://example.com/dataset.csv)  <!-- Replace with real link if available -->
 
 ## Visualizations
-![Energy Demand Forecast]({{ site.baseurl }}/assets/images/project1-forecast.png)  <!-- Add this image to assets/images/ for embedding -->
 
-<iframe src="https://public.tableau.com/views/YourTableauViz/Sheet1?:embed=y&:display_count=yes&:showVizHome=no" width="100%" height="500px"></iframe>  <!-- Embed your Tableau viz here -->
+
 
 ## Technologies Used
 - Python (Pandas, Scikit-learn)
