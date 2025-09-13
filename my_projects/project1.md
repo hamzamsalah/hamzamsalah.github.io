@@ -10,7 +10,7 @@ title: Predictive Modeling of Tennessee Energy Demand
   z-index: 1000;
   padding: 0.5rem 1rem;
   text-align: center;
-  border-bottom: 2px solid black;
+  border-bottom: 1px solid black;
 ">
   <!-- Back link (above) -->
   <div style="text-align: left; margin-bottom: 0.5rem;">
@@ -20,7 +20,7 @@ title: Predictive Modeling of Tennessee Energy Demand
   </div>
 
   <!-- Title (below) -->
-  <h2 style="margin: 0;">
+  <h2 style="margin: 0.5;">
     Predictive Modeling of Tennessee Energy Demand
   </h2>
 </div>
