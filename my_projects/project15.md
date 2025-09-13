@@ -38,7 +38,7 @@ Real estate trends analysis for Tennessee housing market.
 - [View Dashboard on GitHub](https://github.com/hamzamsalah/tn-home-values)  <!-- Update if available -->
 - [Download Dataset](https://www.zillow.com/research/data/)
 
-### Visualizations
+### Dashboard
 ![Zillow Data]({{ site.baseurl }}/assets/zillow.png)
 
 ### Technologies Used
