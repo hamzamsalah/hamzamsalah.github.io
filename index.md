@@ -24,7 +24,7 @@ Forecasted residential energy consumption in Tennessee using time series and reg
 
 ---
 
-### [Sentiment Analysis of Customer Reviews](https://github.com/hamzasalahds/amazon_reviews/blob/main/README.md#--sentiment-analysis-of-customer-reviews--dsc-550-data-mining)
+### [Sentiment Analysis of Customer Reviews](my_projects/project2)
 
 [![](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white)](#)
 [![](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)](#)
@@ -40,7 +40,7 @@ Analyzed Amazon product reviews using NLP techniques. Preprocessed review text, 
 
 ---
 
-### DSC 630 Predictive Analytics: Time Series Analysis of US Retail Sales
+### [DSC 630 Predictive Analytics: Time Series Analysis of US Retail Sales](my_projects/project3)
 
 [![](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white)](#)
 [![](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)](#)
@@ -52,7 +52,7 @@ Forecasted monthly US retail sales (1992–2021) using an ARIMA model to predict
 
 ---
 
-### [Empowering Mothers: Bridging the Gap to Professional Success](https://github.com/hamzasalahds/bridge-the-gap?tab=readme-ov-file#empowering-mothers-bridging-the-gap-to-professional-success)
+### [Empowering Mothers: Bridging the Gap to Professional Success](my_projects/project4)
 
 [![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)](#)
 [![](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](#)
@@ -63,7 +63,7 @@ Visualized national data to examine the impact of childcare costs on mothers' wo
 
 ---
 
-### [Hospital COVID-19 Relational Database](https://github.com/hamzasalahds/hospital_database?tab=readme-ov-file#--covid-19-patient-data-management-system-)
+### [Hospital COVID-19 Relational Database](my_projects/project5)
 
 [![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
 
@@ -73,7 +73,7 @@ Designed and implemented a relational database using MySQL to manage COVID-19 da
 
 ---
 
-### Bellevue University - DSC 630: Using Data to Improve MLB Attendance
+### [Bellevue University - DSC 630: Using Data to Improve MLB Attendance](my_projects/project6)
 
 [![](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white)](#)
 [![](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)](#)
@@ -87,7 +87,7 @@ Analyzed Los Angeles Dodgers 2022 game data to identify factors influencing atte
 
 ---
 
-### [Amazon FC - Employee Performance System](https://github.com/hamzasalahds/Amazon_Project/blob/main/README.md#amazon-fc---employee-performance-system)
+### [Amazon FC - Employee Performance System](my_projects/project7)
 
 [![](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](#)
 
@@ -97,7 +97,7 @@ Implemented an Excel-based system with dashboards to highlight area performance.
 
 ---
 
-### [Weather Lookup](https://github.com/hamzasalahds/weather-lookup?tab=readme-ov-file#-dsc-510-programming---bellevue-university)
+### [Weather Lookup](my_projects/project8)
 
 [![](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white)](#)
 [![](https://img.shields.io/badge/API-FF6600?style=for-the-badge)](#)
@@ -108,7 +108,7 @@ Developed a Python program for weather lookup by zip code or city, utilizing the
 
 ---
 
-### TSA Complaints Analysis
+### [TSA Complaints Analysis](my_projects/project9)
 
 [![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)](#)
 
@@ -117,7 +117,7 @@ Built a Power BI dashboard to track TSA Complaints in the US.
 [View Dashboard](https://1drv.ms/b/c/8232850de7f5f589/ESPpzVVPixdFihRHDNWBOhABzqXMPMurhiZHJnLCG5iLAg?e=vBAqzX) | [PBIX File](https://1drv.ms/u/c/8232850de7f5f589/EXUyE0Ey2nlPqeCvx5i56IsBPWECKbIcLeAXn_mtwZiYjg?e=HHIfsX)
 
 
-### Concession Baseball Sales Dashboard
+### [Concession Baseball Sales Dashboard](my_projects/project10)
 
 [![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)](#)
 
@@ -126,7 +126,7 @@ Built a Power BI dashboard to track sales and performance of concessions at base
 [View Dashboard](https://1drv.ms/b/s!Aon19ecNhTKCgbV3dBp83UAYVuoJ1Q?e=H5230v) | [PBIX File](https://1drv.ms/u/s!Aon19ecNhTKCgbV1IqDZlEuzG5nALQ?e=B9U4pA)
 
 
-### Store Sales Dashboard
+### [Store Sales Dashboard](my_projects/project11)
 
 [![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)](#)
 
@@ -135,7 +135,7 @@ Designed a Power BI sales dashboard to monitor KPIs, sales trends, and regional 
 [View Dashboard](https://1drv.ms/b/s!Aon19ecNhTKCgbV20rEKJWOOHrFJWQ?e=P2fepE) | [PBIX File](https://1drv.ms/u/s!Aon19ecNhTKCgbV0q8GDJZefIUDHEw?e=f07fRR)
 
 
-### [US Mass Shootings Analysis](https://github.com/hamzasalahds/US-Mass-Shootings-Analysis?tab=readme-ov-file#us-mass-shootings-analysis)
+### [US Mass Shootings Analysis](my_projects/project12)
 
 [![](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](#)
 [![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](#)
@@ -146,7 +146,7 @@ Utilized Excel and Tableau to uncover a 13% increase in US mass shootings during
 
 ---
 
-### [Covid Case Tracker](https://public.tableau.com/app/profile/hamzasalahds/viz/GlobalCOVID-19CaseTracker/Covid-19CaseTracker)
+### [Covid Case Tracker](my_projects/project13)
 
 [![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](#)
 
@@ -156,7 +156,7 @@ Developed a Tableau dashboard visualizing COVID-19 cases, deaths, and testing da
 
 ---
 
-### [Timely & Effective Care Across the US](https://public.tableau.com/app/profile/hamzasalahds/viz/TimelyEffectiveCarebyHospitalinTheUnitedStatesDashboardCMS/TimelyEffectiveCarebyHospitalinTheUnitedStatesDashboardCMS)
+### [Timely & Effective Care Across the US](my_projects/project14)
 
 [![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](#)
 
@@ -166,7 +166,7 @@ Created a Tableau dashboard for CMS data to help patients choose the best hospit
 
 ---
 
-### [Home Values in TN](https://public.tableau.com/app/profile/hamzasalahds/viz/Single-FamilyHomeValuesinTennesseeDashboardZillow/Dashboard)
+### [Home Values in TN](my_projects/project15)
 
 [![](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](#)
 [![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](#)
@@ -177,7 +177,7 @@ Analyzed Zillow data on home values in Tennessee from 2000 to 2022, creating an 
 
 ---
 
-### [Open University Student GPA & Demographics Analysis](https://public.tableau.com/app/profile/hamzasalahds/viz/StudentGPADemographicsAnalysisDashboardOpenUniversity/StudentGPADemographicsAnalysisDashboard)
+### [Open University Student GPA & Demographics Analysis](my_projects/project16)
 
 [![](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](#)
 [![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](#)
