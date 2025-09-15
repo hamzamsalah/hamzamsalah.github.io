@@ -28,6 +28,7 @@ title: Predictive Modeling of Tennessee Energy Demand
 
 ### Project Overview
 This project, **Tennessee Energy Insights**, analyzes electricity consumption in Tennessee across residential, commercial, industrial, and combined sectors from 2010–2024.  
+
 The focus is on understanding how average temperature and electricity pricing drive demand and building predictive models for more accurate forecasting.  
 
 By uncovering seasonal patterns and external drivers, the study provides actionable insights for policymakers, utility companies, and community planners to manage resources efficiently, especially as new infrastructure and climate variability increase demand pressures.
