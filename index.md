@@ -6,7 +6,7 @@ This portfolio showcases projects in analytics, visualization, and machine learn
 <hr style="margin: 20px 0;">
 </div>
 
-### [Inventory Management Optimization (Ongoing)](my_projects/project_inventory)
+### [Inventory Management Optimization (Ongoing)](my_projects/project17)
 
 [![](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white)](#)
 [![](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)](#)
