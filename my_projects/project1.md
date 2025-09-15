@@ -43,14 +43,14 @@ By uncovering seasonal patterns and external drivers, the study provides actiona
 - **Residential & Commercial demand** is highly seasonal, strongly influenced by temperature (especially HVAC usage).  
 - **Industrial demand** shows a steady decline post-2014, suggesting efficiency gains independent of weather.  
 - **Transportation data** was too incomplete for meaningful modeling.  
-- Recommendations include **customer alerts for peak demand, incentives for efficiency, industrial sector support, and better transportation data collection**:contentReference[oaicite:2]{index=2}.
+- Recommendations include **customer alerts for peak demand, incentives for efficiency, industrial sector support, and better transportation data collection**.
 
 ---
 
 ### Code and Data
 - **Datasets**:  
   - Monthly electricity consumption (EIA, 2010–2024)  
-  - Monthly average temperatures (NOAA, 2010–2024):contentReference[oaicite:3]{index=3}  
+  - Monthly average temperatures (NOAA, 2010–2024):contentReference.
 - **Cleaning and Prep**:  
   - Merged datasets by date  
   - Created sector-level subsets (Residential, Commercial, Industrial, Combined)  
