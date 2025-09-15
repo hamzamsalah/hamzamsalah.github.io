@@ -6,6 +6,21 @@ This portfolio showcases projects in analytics, visualization, and machine learn
 <hr style="margin: 20px 0;">
 </div>
 
+### [Inventory Management Optimization (Ongoing)](my_projects/project_inventory)
+
+[![](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white)](#)
+[![](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)](#)
+[![](https://img.shields.io/badge/Statsmodels-30B1C8?style=for-the-badge)](#)
+[![](https://img.shields.io/badge/pmdarima-5A5A5A?style=for-the-badge)](#)
+[![](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](#)
+[![](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)](#)
+[![](https://img.shields.io/badge/Seaborn-0F4C81?style=for-the-badge)](#)
+
+Forecasting retail inventory demand and optimized stock levels using predictive analytics and machine learning models (ARIMA, SARIMA, Linear Regression, Gradient Boosting). Conducting EDA to identify key drivers of demand, such as promotions, supplier reliability, and seasonal trends, to help reduce overstock and improve product availability.
+
+---
+
+
 ### [Predictive Modeling of Tennessee Energy Demand](my_projects/project1)
 
 
