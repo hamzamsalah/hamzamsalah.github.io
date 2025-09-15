@@ -39,7 +39,7 @@ By uncovering seasonal patterns and external drivers, the study provides actiona
   - **Residential MAPE:** 5.69% (SARIMAX) vs. 6.82% (ARIMA)  
   - **Commercial MAPE:** 2.02% vs. 3.50%  
   - **Industrial MAPE:** 4.10% vs. 8.14%  
-  - **Combined MAPE:** 2.89% vs. 4.93%:contentReference[oaicite:1]{index=1}  
+  - **Combined MAPE:** 2.89% vs. 4.93%
 - **Residential & Commercial demand** is highly seasonal, strongly influenced by temperature (especially HVAC usage).  
 - **Industrial demand** shows a steady decline post-2014, suggesting efficiency gains independent of weather.  
 - **Transportation data** was too incomplete for meaningful modeling.  
