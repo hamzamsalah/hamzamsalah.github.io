@@ -32,7 +32,7 @@ Forecasting retail inventory demand and optimized stock levels using predictive 
 [![](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)](#)
 [![](https://img.shields.io/badge/Seaborn-0F4C81?style=for-the-badge)](#)
 
-Forecasted residential energy consumption in Tennessee using time series and regression models (SARIMAX, SARIMA, ARIMA, Multiple Linear Regression). Conducted EDA to uncover sector-specific trends and provided insights for utility demand management and efficiency planning.  
+Forecasted Tennessee electricity demand using SARIMAX, ARIMA, and regression models, uncovering sector-specific consumption trends and achieving up to 97% forecast accuracy to support utility planning and energy efficiency.
 
 <img src="assets/combined_sector_forecast.png?raw=true" />
 
