@@ -50,7 +50,7 @@ By uncovering seasonal patterns and external drivers, the study provides actiona
 ### Code and Data
 - **Datasets**:  
   - Monthly electricity consumption (EIA, 2010–2024)  
-  - Monthly average temperatures (NOAA, 2010–2024):contentReference.
+  - Monthly average temperatures (NOAA, 2010–2024)
 - **Cleaning and Prep**:  
   - Merged datasets by date  
   - Created sector-level subsets (Residential, Commercial, Industrial, Combined)  
