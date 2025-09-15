@@ -11,7 +11,7 @@ title: Predictive Modeling of Tennessee Energy Demand
   padding: 0.5rem 1rem;
   text-align: center;
   border-bottom: 1px solid black;
-  margin-bottom: 1rem;  /* 👈 space under the border */
+  margin-bottom: 1rem;
 ">
   <!-- Back link (above) -->
   <div style="text-align: left; margin-bottom: 0.5rem;">
@@ -26,30 +26,56 @@ title: Predictive Modeling of Tennessee Energy Demand
   </h2>
 </div>
 
-
-
 ### Project Overview
-This project analyzes historical electricity consumption data in Tennessee to build predictive models. Key techniques include ARIMA for time series forecasting and linear regression for demand drivers.
+This project, **Tennessee Energy Insights**, analyzes electricity consumption in Tennessee across residential, commercial, industrial, and combined sectors from 2010–2024.  
+The focus is on understanding how **average temperature and electricity pricing drive demand** and building predictive models for more accurate forecasting.  
 
-#### Key Insights
-- Achieved 92% accuracy in 7-day ahead forecasts.
-- Identified seasonal peaks in summer months due to AC usage.
-- Visualized trends with interactive charts (embedded below or link to Tableau).
+By uncovering seasonal patterns and external drivers, the study provides **actionable insights for policymakers, utility companies, and community planners** to manage resources efficiently, especially as new infrastructure and climate variability increase demand pressures:contentReference[oaicite:0]{index=0}.
+
+---
+
+### Key Insights
+- **SARIMAX consistently outperformed ARIMA** across all sectors with lower MAE, RMSE, and MAPE.  
+  - Residential MAPE: 5.69% (SARIMAX) vs. 6.82% (ARIMA)  
+  - Commercial MAPE: 2.02% vs. 3.50%  
+  - Industrial MAPE: 4.10% vs. 8.14%  
+  - Combined MAPE: 2.89% vs. 4.93%:contentReference[oaicite:1]{index=1}  
+- **Residential & Commercial demand** is highly seasonal, strongly influenced by temperature (especially HVAC usage).  
+- **Industrial demand** shows a steady decline post-2014, suggesting efficiency gains independent of weather.  
+- **Transportation data** was too incomplete for meaningful modeling.  
+- Recommendations include **customer alerts for peak demand, incentives for efficiency, industrial sector support, and better transportation data collection**:contentReference[oaicite:2]{index=2}.
+
+---
 
 ### Code and Data
-- [View Full Notebook on GitHub](https://github.com/hamzamsalah/Electricity_Consumption_in_TN/blob/main/electricitiy_demand.ipynb)
-- [Download Dataset](https://example.com/dataset.csv)  <!-- Replace with real link if available -->
+- **Datasets**:  
+  - Monthly electricity consumption (EIA, 2010–2024)  
+  - Monthly average temperatures (NOAA, 2010–2024):contentReference[oaicite:3]{index=3}  
+- **Cleaning and Prep**:  
+  - Merged datasets by date  
+  - Created sector-level subsets (Residential, Commercial, Industrial, Combined)  
+  - Standardized consumption & temperature variables  
+- [View Full Notebook on GitHub](https://github.com/hamzamsalah/Electricity_Consumption_in_TN/blob/main/electricitiy_demand.ipynb)  
+- Data sources: [EIA.gov](https://www.eia.gov/electricity/data/state/), [NOAA Climate Data](https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/statewide/)  
+
+---
 
 ### Visualizations
-![Sector Forecast]({{ site.baseurl }}/assets/combined_sector_forecast.png)
-![Forecast Table]({{ site.baseurl }}/assets/combined_sector_forecast_table.png)
+- **Boxplots** to check for outliers (retained to preserve seasonality)  
+- **Correlation heatmaps** showing temperature’s varying influence across sectors (35% combined)  
+- **Time-series plots** of scaled consumption vs. temperature  
+- **Forecast charts (ARIMA vs. SARIMAX)** for each sector, with SARIMAX closely matching actual 2024 values  
+- Example:  
+![Sector Forecast]({{ site.baseurl }}/assets/combined_sector_forecast.png)  
+![Forecast Table]({{ site.baseurl }}/assets/combined_sector_forecast_table.png)  
+
+---
 
 ### Technologies Used
-- Python (Pandas, Scikit-learn, Statsmodels, pmdarima)
-- Jupyter Notebook
-- Matplotlib
-- Seaborn
-- Tableau for visualization
+- Python (Pandas, NumPy, Scikit-learn, Statsmodels, pmdarima)  
+- Jupyter Notebook  
+- Matplotlib, Seaborn for visualization  
+- Tableau for interactive exploration  
 
 <hr style="margin: 2rem 0;">
 <p style="text-align: center; color: #666;">© 2025 Hamza Salah</p>
