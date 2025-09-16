@@ -62,7 +62,7 @@ By uncovering seasonal patterns and external drivers, the study provides actiona
 ---
 
 ### Visualizations
-![Sector Forecast]({{ site.baseurl }}/assets/consumption_lagged_temp.png)  
+![Sector Combined]({{ site.baseurl }}/assets/consumption_lagged_temp.png)  
 ![Sector Forecast]({{ site.baseurl }}/assets/combined_sector_forecast.png)  
 ![Forecast Table]({{ site.baseurl }}/assets/combined_sector_forecast_table.png)  
 
