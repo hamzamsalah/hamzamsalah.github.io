@@ -62,11 +62,7 @@ By uncovering seasonal patterns and external drivers, the study provides actiona
 ---
 
 ### Visualizations
-- **Boxplots** to check for outliers (retained to preserve seasonality)  
-- **Correlation heatmaps** showing temperature’s varying influence across sectors (35% combined)  
-- **Time-series plots** of scaled consumption vs. temperature  
-- **Forecast charts (ARIMA vs. SARIMAX)** for each sector, with SARIMAX closely matching actual 2024 values  
-- Example:  
+![Sector Forecast]({{ site.baseurl }}/assets/consumption_lagged_temp.png)  
 ![Sector Forecast]({{ site.baseurl }}/assets/combined_sector_forecast.png)  
 ![Forecast Table]({{ site.baseurl }}/assets/combined_sector_forecast_table.png)  
 
