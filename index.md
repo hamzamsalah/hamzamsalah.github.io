@@ -1,7 +1,7 @@
 <div style="text-align: center;">
 <h2>Data Science Portfolio</h2>
 <em>
-This portfolio showcases projects in analytics, visualization, and machine learning, highlighting practical, real-world applications of data.
+This portfolio showcases projects in **analytics, visualization, and machine learning**, highlighting practical, real-world applications of data.
 </em>
 <hr style="margin: 20px 0;">
 </div>
@@ -16,9 +16,10 @@ This portfolio showcases projects in analytics, visualization, and machine learn
 [![](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)](#)
 [![](https://img.shields.io/badge/Statsmodels-30B1C8?style=for-the-badge)](#)
 
-Analyzing NBA team schedules to identify **dense game stretches** (e.g., 4-in-6, back-to-back games) and their impact on team performance. Conducting exploratory data analysis on historical schedules and game stats, modeling the effect of schedule density on wins, and building interactive visualizations to support coaches and front office decision-making regarding **player workload, recovery, and performance planning**.
+Analyzing NBA team schedules to identify **dense game stretches** (e.g., 4-in-6, back-to-back games) and their impact on **team performance**. Conducting **exploratory data analysis** on historical schedules and game stats, **modeling the effect of schedule density on wins**, and building **interactive visualizations** to support coaches and front office decision-making regarding **player workload, recovery, and performance planning**.
 
 ---
+
 ### [Inventory Management Optimization (Ongoing)](my_projects/project17)
 
 [![](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white)](#)
@@ -29,13 +30,11 @@ Analyzing NBA team schedules to identify **dense game stretches** (e.g., 4-in-6,
 [![](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)](#)
 [![](https://img.shields.io/badge/Seaborn-0F4C81?style=for-the-badge)](#)
 
-Forecasting retail inventory demand and optimized stock levels using predictive analytics and machine learning models (ARIMA, SARIMA, Linear Regression, Gradient Boosting). Conducting EDA to identify key drivers of demand, such as promotions, supplier reliability, and seasonal trends, to help reduce overstock and improve product availability.
+**Forecasting retail inventory demand** and **optimizing stock levels** using **predictive analytics** and **machine learning models** (ARIMA, SARIMA, Linear Regression, Gradient Boosting). Conducting **EDA** to identify **key drivers of demand**, such as **promotions, supplier reliability, and seasonal trends**, to **reduce overstock** and **improve product availability**.
 
 ---
 
-
 ### [Predictive Modeling of Tennessee Energy Demand](my_projects/project1)
-
 
 [![](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white)](#)
 [![](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)](#)
@@ -45,7 +44,7 @@ Forecasting retail inventory demand and optimized stock levels using predictive 
 [![](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)](#)
 [![](https://img.shields.io/badge/Seaborn-0F4C81?style=for-the-badge)](#)
 
-Forecasted Tennessee electricity demand for 2025 using SARIMAX, ARIMA, and regression models, uncovering sector-specific consumption trends and achieving up to 97% forecast accuracy to support utility planning and energy efficiency.
+**Forecasted Tennessee electricity demand** for 2025 using **SARIMAX, ARIMA, and regression models**, uncovering **sector-specific consumption trends** and achieving **up to 97% forecast accuracy** to support **utility planning** and **energy efficiency**.
 
 <img src="assets/combined_sector_forecast.png?raw=true" />
 
@@ -60,8 +59,7 @@ Forecasted Tennessee electricity demand for 2025 using SARIMAX, ARIMA, and regre
 [![](https://img.shields.io/badge/WordCloud-3A3A3A?style=for-the-badge)](#)
 [![](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)](#)
 
-Analyzed Amazon product reviews using NLP techniques. Preprocessed review text, extracted features, and applied ML models to classify reviews as positive or negative. Evaluated performance and visualized insights about customer sentiment and product quality.
-
+Analyzed **Amazon product reviews** using **NLP techniques**. Preprocessed review text, extracted features, and applied **ML models** to classify reviews as **positive or negative**, generating **insights on customer sentiment and product quality**.
 
 ---
 
@@ -73,7 +71,7 @@ Analyzed Amazon product reviews using NLP techniques. Preprocessed review text, 
 [![](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](#)
 [![](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)](#)
 
-Forecasted monthly US retail sales (1992–2021) using an ARIMA model to predict post-COVID-19 trends. Identified pandemic-related dips and recovery patterns, providing insights for retail planning. Achieved an RMSE of $52,207.
+**Forecasted monthly US retail sales** (1992–2021) using **ARIMA models**, identifying **pandemic-related dips and recovery patterns**, providing actionable insights for **retail planning**, and achieving an **RMSE of $52,207**.
 
 ---
 
@@ -82,7 +80,7 @@ Forecasted monthly US retail sales (1992–2021) using an ARIMA model to predict
 [![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)](#)
 [![](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](#)
 
-Visualized national data to examine the impact of childcare costs on mothers' workforce participation. Highlighted gender disparities in earnings, unemployment, and job types. Provided recommendations for policy reforms and employer support programs.
+Visualized **national data** to examine the impact of **childcare costs** on **mothers' workforce participation**. Highlighted **gender disparities** in **earnings, unemployment, and job types**, providing **policy and employer recommendations**.
 
 <img src="assets/median_earnings.png?raw=true" />
 
@@ -92,7 +90,7 @@ Visualized national data to examine the impact of childcare costs on mothers' wo
 
 [![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
 
-Designed and implemented a relational database using MySQL to manage COVID-19 data for hospitals, including a user interface for staff.
+Designed and implemented a **relational database** using **MySQL** to manage **COVID-19 hospital data**, including a **user interface for staff**.
 
 <img src="assets/database_hospital.gif?raw=true" />
 
@@ -108,7 +106,7 @@ Designed and implemented a relational database using MySQL to manage COVID-19 da
 [![](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)](#)
 [![](https://img.shields.io/badge/Seaborn-0F4C81?style=for-the-badge)](#)
 
-Analyzed Los Angeles Dodgers 2022 game data to identify factors influencing attendance, such as promotions, weather, and day of the week. Applied EDA, correlation analysis, and linear regression to quantify the impact of giveaways (bobbleheads increased attendance by ~14,944 fans).
+Analyzed **Los Angeles Dodgers 2022 game data** to identify factors influencing **attendance**, such as **promotions, weather, and day of the week**. Applied **EDA, correlation analysis, and linear regression** to quantify the impact of **giveaways** (bobbleheads increased attendance by ~14,944 fans).
 
 ---
 
@@ -116,7 +114,7 @@ Analyzed Los Angeles Dodgers 2022 game data to identify factors influencing atte
 
 [![](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](#)
 
-Implemented an Excel-based system with dashboards to highlight area performance. Achieved a 10% improvement in sorting efficiency, processing over 262,000 items per shift.
+Implemented an **Excel-based system with dashboards** to highlight **area performance**, achieving a **10% improvement in sorting efficiency**, processing **over 262,000 items per shift**.
 
 <img src="assets/amaz_dash.png?raw=true" />
 
@@ -127,7 +125,7 @@ Implemented an Excel-based system with dashboards to highlight area performance.
 [![](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white)](#)
 [![](https://img.shields.io/badge/API-FF6600?style=for-the-badge)](#)
 
-Developed a Python program for weather lookup by zip code or city, utilizing the OpenWeatherMap API.
+Developed a **Python program** for **weather lookup** by **zip code or city**, utilizing the **OpenWeatherMap API**.
 
 ---
 
@@ -135,33 +133,32 @@ Developed a Python program for weather lookup by zip code or city, utilizing the
 
 [![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)](#)
 
-Built a Power BI dashboard to track TSA Complaints in the US.
+Built a **Power BI dashboard** to **track TSA complaints** across the US.
 
+---
 
 ### [Concession Baseball Sales Dashboard](my_projects/project10)
 
 [![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)](#)
 
-Built a Power BI dashboard to track sales and performance of concessions at baseball games, optimizing inventory and pricing strategies.
+Built a **Power BI dashboard** to **track sales and performance of baseball concessions**, optimizing **inventory and pricing strategies**.
 
-
-
+---
 
 ### [Store Sales Dashboard](my_projects/project11)
 
 [![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)](#)
 
-Designed a Power BI sales dashboard to monitor KPIs, sales trends, and regional performance for effective decision-making.
+Designed a **Power BI sales dashboard** to monitor **KPIs, sales trends, and regional performance** for **effective decision-making**.
 
-
-
+---
 
 ### [US Mass Shootings Analysis](my_projects/project12)
 
 [![](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](#)
 [![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](#)
 
-Utilized Excel and Tableau to uncover a 13% increase in US mass shootings during COVID-19.
+Utilized **Excel and Tableau** to uncover a **13% increase in US mass shootings** during **COVID-19**.
 
 <img src="assets/shoot_dashboard.png?raw=true" />
 
@@ -171,7 +168,7 @@ Utilized Excel and Tableau to uncover a 13% increase in US mass shootings during
 
 [![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](#)
 
-Developed a Tableau dashboard visualizing COVID-19 cases, deaths, and testing data from sources like WHO and CDC.
+Developed a **Tableau dashboard** visualizing **COVID-19 cases, deaths, and testing data** from **WHO and CDC**.
 
 <img src="assets/covid_dash.png?raw=true" />
 
@@ -181,7 +178,7 @@ Developed a Tableau dashboard visualizing COVID-19 cases, deaths, and testing da
 
 [![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](#)
 
-Created a Tableau dashboard for CMS data to help patients choose the best hospital based on quality of care metrics.
+Created a **Tableau dashboard** for **CMS data** to help **patients choose the best hospital** based on **quality of care metrics**.
 
 <img src="assets/effective_care_dash.png?raw=true" />
 
@@ -192,7 +189,7 @@ Created a Tableau dashboard for CMS data to help patients choose the best hospit
 [![](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](#)
 [![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](#)
 
-Analyzed Zillow data on home values in Tennessee from 2000 to 2022, creating an interactive Tableau dashboard to display value changes by zip code.
+Analyzed **Zillow data** on **home values in Tennessee** (2000–2022), creating an **interactive Tableau dashboard** to display **value changes by zip code**.
 
 <img src="assets/zillow.png?raw=true" />
 
@@ -203,6 +200,6 @@ Analyzed Zillow data on home values in Tennessee from 2000 to 2022, creating an 
 [![](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](#)
 [![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](#)
 
-Analyzed data from Open University, identifying correlations between GPA and demographics using Tableau.
+Analyzed **Open University student data**, identifying **correlations between GPA and demographics** using **Tableau visualizations**.
 
 <img src="assets/gpa1.png?raw=true" />
