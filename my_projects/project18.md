@@ -57,9 +57,11 @@ By combining historical schedules, team performance metrics, and regression mode
 ---
 
 ### Visualizations
-<!-- Placeholder images for future dataset -->
-- ![Stretch]({{ site.baseurl }}/assets/placeholder.png)  
 
+<!-- Embedded Plotly interactive chart -->
+<div style="width:100%; height:650px;">
+  <iframe src="projects/lal_schedule_2020.html" width="100%" height="650" style="border:none;"></iframe>
+</div>
 
 ---
 
