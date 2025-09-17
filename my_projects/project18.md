@@ -27,7 +27,7 @@ title: NBA Game Stretch Analyzer
 </div>
 
 ### Project Overview
-As part of the **DSC680 Applied Data Science** course at **Bellevue University**, I developed the **NBA Game Stretch Analyzer** to investigate how dense scheduling affects team performance. The project examines NBA schedules from the 2014–15 through 2024–25 seasons to identify **challenging game stretches**, such as **4 games in 6 nights** or **back-to-back games**.  
+As part of the DSC680 Applied Data Science course at Bellevue University, I developed the NBA Game Stretch Analyzer to investigate how dense scheduling affects team performance. The project examines NBA schedules from the 2014–15 through 2024–25 seasons to identify challenging game stretches, such as 4 games in 6 nights or back-to-back games.  
 
 The analysis quantifies the impact of these stretches on metrics like **defensive efficiency**, explores trends in scheduling over time, and models how schedule density correlates with total season wins. By combining historical schedules, team performance data, and regression modeling, this project provides insights for **coaches, analysts, and front office staff** to optimize player load management, recovery strategies, and performance prediction.
 
@@ -61,7 +61,7 @@ The analysis quantifies the impact of these stretches on metrics like **defensiv
   <iframe 
       src="{{ site.baseurl }}/assets/lal_schedule_2020.html" 
       width="100%" 
-      height="500" 
+      height="400" 
       style="border:none;">
   </iframe>
 </div>
