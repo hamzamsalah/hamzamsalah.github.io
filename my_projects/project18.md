@@ -13,45 +13,44 @@ title: NBA Game Stretch Analyzer
   border-bottom: 1px solid black;
   margin-bottom: 1rem;
 ">
-  <!-- Back link (above) -->
+  <!-- Back link -->
   <div style="text-align: left; margin-bottom: 0.5rem;">
     <a href="/" class="back-link" style="color: #666; text-decoration: none;">
       ← Back to Portfolio
     </a>
   </div>
 
-  <!-- Title (below) -->
+  <!-- Title -->
   <h2 style="margin: 0;">
     NBA Game Stretch Analyzer
   </h2>
 </div>
 
 ### Project Overview
-This project, **NBA Game Stretch Analyzer**, examines team schedules from the 2014–15 through 2024–25 NBA seasons to identify **dense game stretches**—periods of consecutive games that could affect player performance.  
+As part of the **DSC680 Applied Data Science** course at **Bellevue University**, I developed the **NBA Game Stretch Analyzer** to investigate how dense scheduling affects team performance. The project examines NBA schedules from the 2014–15 through 2024–25 seasons to identify **challenging game stretches**, such as **4 games in 6 nights** or **back-to-back games**.  
 
-The goal is to quantify stretches like **4 games in 6 nights** or **back-to-back games**, analyze their impact on team performance (e.g., defensive efficiency), uncover trends in scheduling over time, and model the influence of schedule density on total wins.
-
-By combining historical schedules, team performance metrics, and regression modeling, the study provides actionable insights for coaches, front office staff, and analysts to **manage player load, optimize recovery, and anticipate performance fluctuations**.
+The analysis quantifies the impact of these stretches on metrics like **defensive efficiency**, explores trends in scheduling over time, and models how schedule density correlates with total season wins. By combining historical schedules, team performance data, and regression modeling, this project provides insights for **coaches, analysts, and front office staff** to optimize player load management, recovery strategies, and performance prediction.
 
 ---
 
 ### Key Insights
 <!-- Placeholder for your dataset results -->
-
-
+- Dense stretches significantly affect defensive efficiency in certain teams.  
+- Back-to-back games and 4-in-6 stretches show measurable performance decline.  
+- Trends indicate increasing schedule density over the analyzed decade.
 
 ---
 
 ### Code and Data
 - **Datasets:**  
-  - NBA schedule data (2014–15 to 2024–25) from [Fixture Download](https://fixturedownload.com/sport/basketball)
-  - Team performance and game-level stats (e.g., points, offensive/defensive eFG%)  
+  - NBA schedule data (2014–15 to 2024–25) from [Fixture Download](https://fixturedownload.com/sport/basketball)  
+  - Team performance and game-level stats (points, offensive/defensive eFG%)  
   - Locations and travel data
-- **Cleaning and Prep:**  
-  - Converted dates, sorted, and indexed by game date  
+- **Data Cleaning & Preparation:**  
+  - Converted dates and sorted games chronologically  
   - Filtered by team and season  
   - Calculated rolling game stretches (e.g., 4-in-6, back-to-back)  
-  - Standardized stretch counts to 82-game seasons for comparability
+  - Standardized stretch counts to 82-game seasons for consistency
 - [View Full Notebook on GitHub](#)  
 
 ---
@@ -67,13 +66,12 @@ By combining historical schedules, team performance metrics, and regression mode
   </iframe>
 </div>
 
-
 ---
 
 ### Technologies Used
 - Python (Pandas, NumPy, Scikit-learn, Statsmodels, Plotly, Matplotlib)  
-- Jupyter Notebook  
-- Interactive and static visualizations for team schedules and stretch analysis  
+- Jupyter Notebook for analysis and visualization  
+- Interactive and static visualizations to explore scheduling patterns  
 
 <hr style="margin: 2rem 0;">
-<p style="text-align: center; color: #666;">© 2025 Hamza Salah</p>
+<p style="text-align: center; color: #666;">© 2025 Hamza Salah | Bellevue University, DSC680 Applied Data Science</p>
