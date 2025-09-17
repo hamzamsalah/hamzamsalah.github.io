@@ -44,7 +44,7 @@ By combining historical schedules, team performance metrics, and regression mode
 
 ### Code and Data
 - **Datasets:**  
-  - NBA schedule data (2014–15 to 2024–25)  
+  - NBA schedule data (2014–15 to 2024–25) from [Fixture Download](https://fixturedownload.com/sport/basketball)
   - Team performance and game-level stats (e.g., points, offensive/defensive eFG%)  
   - Locations and travel data
 - **Cleaning and Prep:**  
