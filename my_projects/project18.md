@@ -37,15 +37,15 @@ By combining historical schedules, team performance metrics, and regression mode
 
 ### Key Insights
 <!-- Placeholder for your dataset results -->
-- 
--
+
+
 
 ---
 
 ### Code and Data
 - **Datasets:**  
   - NBA schedule data (2014–15 to 2024–25)  
-  - Team performance and game-level stats (e.g., points, defensive eFG%)  
+  - Team performance and game-level stats (e.g., points, offensive/defensive eFG%)  
   - Locations and travel data
 - **Cleaning and Prep:**  
   - Converted dates, sorted, and indexed by game date  
