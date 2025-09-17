@@ -6,6 +6,19 @@ This portfolio showcases projects in analytics, visualization, and machine learn
 <hr style="margin: 20px 0;">
 </div>
 
+### [NBA Game Stretch Analyzer (Ongoing)](my_projects/project18)
+
+[![](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white)](#)
+[![](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)](#)
+[![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](#)
+[![](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](#)
+[![](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](#)
+[![](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)](#)
+[![](https://img.shields.io/badge/Statsmodels-30B1C8?style=for-the-badge)](#)
+
+Analyzing NBA team schedules to identify **dense game stretches** (e.g., 4-in-6, back-to-back games) and their impact on team performance. Conducting exploratory data analysis on historical schedules and game stats, modeling the effect of schedule density on wins, and building interactive visualizations to support coaches and front office decision-making regarding **player workload, recovery, and performance planning**.
+
+---
 ### [Inventory Management Optimization (Ongoing)](my_projects/project17)
 
 [![](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white)](#)
