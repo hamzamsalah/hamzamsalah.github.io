@@ -187,16 +187,16 @@ Created a Tableau dashboard for CMS data to help patients choose the best hospit
 
 ---
 
-### [Home Values in TN](my_projects/project15)
-
-[![](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](#)
+# Tennessee Home Values Dashboard
+[![](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](#)  
 [![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](#)
 
-Analyzed Zillow data on home values in Tennessee from 2000 to 2022, creating an interactive Tableau dashboard to display value changes by zip code.
+Built an interactive Tableau dashboard using Zillow data to track **single-family home values in Tennessee**. The dashboard highlights trends over time, county-level comparisons, and growth rates, allowing users to explore how values have shifted across the state. Interactive filters let viewers focus on specific counties and time periods for deeper analysis.
 
 <img src="assets/zillow.png?raw=true" />
 
 ---
+
 
 ### [Open University Student GPA & Demographics Analysis](my_projects/project16)
 
