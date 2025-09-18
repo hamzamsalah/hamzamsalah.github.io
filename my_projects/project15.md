@@ -37,7 +37,7 @@ The dashboard highlights trends over time, county-level comparisons, and growth 
 - County-level map visualization highlights value hotspots across Tennessee.  
 
 ### Code and Data
-- [View Dashboard on GitHub](https://github.com/hamzamsalah/tn-home-values)  <!-- Update if available -->
+- [View Dashboard on Tableau](https://public.tableau.com/app/profile/hamzamsalah/viz/Single-FamilyHomeValuesinTennesseeDashboardZillow/Dashboard)
 - [Download Dataset](https://www.zillow.com/research/data/)  
 
 ### Dashboard
