@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "DSC 630 Predictive Analytics: Time Series Analysis of US Retail Sales"
+title: "Time Series Analysis of US Retail Sales"
 ---
 
 <div style="
@@ -22,7 +22,7 @@ title: "DSC 630 Predictive Analytics: Time Series Analysis of US Retail Sales"
 
   <!-- Title (below) -->
   <h2 style="margin: 0;">
-    DSC 630 Predictive Analytics: Time Series Analysis of US Retail Sales
+    Time Series Analysis of US Retail Sales
   </h2>
 </div>
 
