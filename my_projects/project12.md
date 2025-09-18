@@ -25,9 +25,8 @@ title: US Mass Shootings Analysis
     US Mass Shootings Analysis
   </h2>
 </div>
-
 ### Project Overview
-Data analysis revealing pandemic-related trends in gun violence.
+Completed during my Data Analyst Fellowship, this project analyzed U.S. mass shootings and revealed pandemic-related shifts in frequency, location, and impact, providing data-driven insights into emerging trends in gun violence.
 
 #### Key Insights
 - 13% rise linked to lockdown stressors.
@@ -46,4 +45,4 @@ Data analysis revealing pandemic-related trends in gun violence.
 - Tableau
 
 <hr style="margin: 2rem 0;">
-<p style="text-align: center; color: #666;">© 2025 Hamza Salah</p>
+<p style="text-align: center; color: #666;">© 2025 Hamza Salah | Correlation One, Data Analytics Fellowship</p>
