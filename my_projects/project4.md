@@ -46,4 +46,4 @@ This visualization project explores socioeconomic barriers for working mothers u
 - Excel
 
 <hr style="margin: 2rem 0;">
-<p style="text-align: center; color: #666;">© 2025 Hamza Salah</p>
+<p style="text-align: center; color: #666;">© 2025 Hamza Salah | Bellevue University, DSC630 Data Presentation & Visualization</p>
