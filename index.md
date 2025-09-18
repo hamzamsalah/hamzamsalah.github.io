@@ -65,7 +65,7 @@ Analyzed Amazon product reviews using NLP techniques. Preprocessed review text, 
 
 ---
 
-### [DSC 630 Predictive Analytics: Time Series Analysis of US Retail Sales](my_projects/project3)
+### [Time Series Analysis of US Retail Sales](my_projects/project3)
 
 [![](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white)](#)
 [![](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)](#)
@@ -98,7 +98,7 @@ Designed and implemented a relational database using MySQL to manage COVID-19 da
 
 ---
 
-### [Bellevue University - DSC 630: Using Data to Improve MLB Attendance](my_projects/project6)
+### [Using Data to Improve MLB Attendance](my_projects/project6)
 
 [![](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white)](#)
 [![](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)](#)
