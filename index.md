@@ -16,7 +16,7 @@ This portfolio showcases projects in analytics, visualization, and machine learn
 [![](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)](#)
 [![](https://img.shields.io/badge/Statsmodels-30B1C8?style=for-the-badge)](#)
 
-Analyzing NBA team schedules to identify dense game stretches (e.g., 4-in-6, back-to-back games) and their impact on team performance. Conducting exploratory data analysis on historical schedules and game stats, modeling the effect of schedule density on wins, and building interactive visualizations to support coaches and front office decision-making regarding **player workload, recovery, and performance planning**.
+Analyzing NBA team schedules to identify dense game stretches (e.g., 4-in-6, back-to-back games) and their impact on team performance. Conducting exploratory data analysis on historical schedules and game stats, modeling the effect of schedule density on wins, and building interactive visualizations to support coaches and front office decision-making regarding player workload, recovery, and performance planning.
 
 ---
 ### [Inventory Management Optimization (Ongoing)](my_projects/project17)
