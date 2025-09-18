@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home Values in TN
+title: Tennessee Home Values Dashboard
 ---
 
 <div style="
@@ -11,7 +11,7 @@ title: Home Values in TN
   padding: 0.5rem 1rem;
   text-align: center;
   border-bottom: 1px solid black;
-  margin-bottom: 1rem;  /* 👈 space under the border */
+  margin-bottom: 1rem;
 ">
   <!-- Back link (above) -->
   <div style="text-align: left; margin-bottom: 0.5rem;">
@@ -22,28 +22,29 @@ title: Home Values in TN
 
   <!-- Title (below) -->
   <h2 style="margin: 0;">
-    Home Values in TN
+    Tennessee Home Values Dashboard
   </h2>
 </div>
 
 ### Project Overview
-Real estate trends analysis for Tennessee housing market.
+Interactive Tableau dashboard analyzing **single-family home values across Tennessee** using Zillow data.  
+The dashboard highlights trends over time, county-level comparisons, and growth rates, giving users insights into the state’s housing market.
 
 #### Key Insights
-- Average value up 150% since 2000.
-- Urban zips grew fastest post-2020.
-- Interactive map shows hotspots.
+- Median single-family home values have more than doubled since 2000.  
+- Urban counties (e.g., Davidson, Shelby) saw the fastest growth post-2020.  
+- County-level map visualization highlights value hotspots across Tennessee.  
 
 ### Code and Data
 - [View Dashboard on GitHub](https://github.com/hamzamsalah/tn-home-values)  <!-- Update if available -->
-- [Download Dataset](https://www.zillow.com/research/data/)
+- [Download Dataset](https://www.zillow.com/research/data/)  
 
 ### Dashboard
 ![Zillow Data]({{ site.baseurl }}/assets/zillow.png)
 
 ### Technologies Used
-- Excel
-- Tableau
+- Excel  
+- Tableau  
 
 <hr style="margin: 2rem 0;">
 <p style="text-align: center; color: #666;">© 2025 Hamza Salah</p>
