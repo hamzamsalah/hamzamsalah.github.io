@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Bellevue University - DSC 630: Using Data to Improve MLB Attendance"
+title: "Using Data to Improve MLB Attendance"
 ---
 
 <div style="
@@ -22,7 +22,7 @@ title: "Bellevue University - DSC 630: Using Data to Improve MLB Attendance"
 
   <!-- Title -->
   <h2 style="margin: 0;">
-    Bellevue University - DSC 630: Using Data to Improve MLB Attendance
+    Using Data to Improve MLB Attendance
   </h2>
 </div>
 
