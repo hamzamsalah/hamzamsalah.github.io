@@ -28,6 +28,7 @@ title: Tennessee Home Values Dashboard
 
 ### Project Overview
 Interactive Tableau dashboard analyzing single-family home values across Tennessee using Zillow data.  
+
 The dashboard highlights trends over time, county-level comparisons, and growth rates, giving users insights into the state’s housing market.
 
 #### Key Insights
