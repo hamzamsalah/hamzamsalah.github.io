@@ -49,4 +49,4 @@ This project focuses on natural language processing to gauge customer opinions f
 - Matplotlib
 
 <hr style="margin: 2rem 0;">
-<p style="text-align: center; color: #666;">© 2025 Hamza Salah</p>
+<p style="text-align: center; color: #666;">© 2025 Hamza Salah | Bellevue University, DSC550 Data Mining</p>
