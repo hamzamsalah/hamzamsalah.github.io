@@ -188,7 +188,8 @@ Created a Tableau dashboard for CMS data to help patients choose the best hospit
 ---
 
 # Tennessee Home Values Dashboard
-[![](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](#)  
+
+[![](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](#)
 [![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](#)
 
 Built an interactive Tableau dashboard using Zillow data to track single-family home values in Tennessee. The dashboard highlights trends over time, county-level comparisons, and growth rates, allowing users to explore how values have shifted across the state. Interactive filters let viewers focus on specific counties and time periods for deeper analysis.
