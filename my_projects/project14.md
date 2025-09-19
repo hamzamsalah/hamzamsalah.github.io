@@ -43,6 +43,3 @@ Patient-facing tool using CMS Hospital Compare data for informed choices.
 
 ### Technologies Used
 - Tableau
-
-<hr style="margin: 2rem 0;">
-<p style="text-align: center; color: #666;">© 2025 Hamza Salah</p>
