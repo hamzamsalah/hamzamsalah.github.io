@@ -42,6 +42,3 @@ Interactive dashboard for monitoring TSA traveler complaints by category and loc
 
 ### Technologies Used
 - Power BI
-
-<hr style="margin: 2rem 0;">
-<p style="text-align: center; color: #666;">© 2025 Hamza Salah</p>
