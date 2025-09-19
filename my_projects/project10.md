@@ -43,6 +43,3 @@ Analytics tool for stadium concessions, focusing on sales trends and optimizatio
 
 ### Technologies Used
 - Power BI
-
-<hr style="margin: 2rem 0;">
-<p style="text-align: center; color: #666;">© 2025 Hamza Salah</p>
