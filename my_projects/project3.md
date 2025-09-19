@@ -40,4 +40,4 @@ This academic project applies time series forecasting to historical US retail sa
 
 
 <hr style="margin: 2rem 0;">
-<p style="text-align: center; color: #666;">© 2025 Hamza Salah | Bellevue University, DSC630 Predictive Analytics</p>
+<p style="text-align: center; color: #666;">© 2025 Hamza Salah</p>
