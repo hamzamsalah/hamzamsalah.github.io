@@ -36,8 +36,8 @@ This project focuses on natural language processing to gauge customer opinions f
 - Word clouds highlighted frequent terms like "great" and "fast".
 
 ### Code and Data
-- [View Full Notebook on GitHub](https://github.com/hamzamsalah/sentiment-analysis-amazon-reviews)  <!-- Update with actual repo if available -->
-- [Download Dataset](https://example.com/amazon_reviews.csv)
+- [View Full Notebook on GitHub](https://github.com/hamzamsalah/amazon_reviews?tab=readme-ov-file#--sentiment-analysis-of-customer-reviews--dsc-550-data-mining)  <!-- Update with actual repo if available -->
+- [Download Dataset](https://amazon-reviews-2023.github.io/#grouped-by-category)
 
 ### Visualizations
 ![Confusion Matrix]({{ site.baseurl }}/assets/confusion_matrix.png)
