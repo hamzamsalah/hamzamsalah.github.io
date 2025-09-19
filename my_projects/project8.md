@@ -44,6 +44,3 @@ A simple CLI tool for fetching real-time weather data via API integration.
 ### Technologies Used
 - Python
 - OpenWeatherMap API
-
-<hr style="margin: 2rem 0;">
-<p style="text-align: center; color: #666;">© 2025 Hamza Salah/p>
