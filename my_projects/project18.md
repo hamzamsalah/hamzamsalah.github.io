@@ -74,4 +74,4 @@ The analysis quantifies the impact of these stretches on metrics like offensive/
 - Interactive and static visualizations to explore scheduling patterns  
 
 <hr style="margin: 2rem 0;">
-<p style="text-align: center; color: #666;">© 2025 Hamza Salah | Bellevue University, DSC680 Applied Data Science</p>
+<p style="text-align: center; color: #666;">© 2025 Hamza Salah</p>
