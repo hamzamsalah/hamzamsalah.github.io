@@ -43,6 +43,3 @@ This operational tool optimizes warehouse efficiency at Amazon Fulfillment Cente
 
 ### Technologies Used
 - Excel
-
-<hr style="margin: 2rem 0;">
-<p style="text-align: center; color: #666;">© 2025 Hamza Salah</p>
