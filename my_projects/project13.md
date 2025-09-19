@@ -43,6 +43,3 @@ Real-time visualization of global COVID metrics for public health monitoring.
 
 ### Technologies Used
 - Tableau
-
-<hr style="margin: 2rem 0;">
-<p style="text-align: center; color: #666;">© 2025 Hamza Salah</p>
