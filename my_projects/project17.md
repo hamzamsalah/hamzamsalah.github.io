@@ -24,7 +24,7 @@ title: Inventory Management Optimization (Ongoing)
 </div>
 
 ### Project Overview
-This project analyzes retail inventory data to optimize stock levels and improve operational efficiency. Techniques include predictive analytics, ARIMA time series models, and machine learning methods such as linear regression and gradient boosting.
+As part of the DSC680 Applied Data Science course at Bellevue University, I am developing a project that analyzes inventory data to optimize stock levels and improve operational efficiency. The project leverages predictive analytics, ARIMA time series models, and machine learning techniques such as linear regression and gradient boosting.
 
 #### Key Insights
 - Optimized inventory levels to reduce overstock and tied-up capital.
