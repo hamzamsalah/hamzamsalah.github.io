@@ -46,6 +46,3 @@ The dashboard highlights trends over time, county-level comparisons, and growth 
 ### Technologies Used
 - Excel  
 - Tableau  
-
-<hr style="margin: 2rem 0;">
-<p style="text-align: center; color: #666;">© 2025 Hamza Salah</p>
