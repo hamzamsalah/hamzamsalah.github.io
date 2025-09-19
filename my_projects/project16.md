@@ -47,6 +47,3 @@ Exploratory analysis of online learning outcomes and student profiles.
 ### Technologies Used
 - Excel
 - Tableau
-
-<hr style="margin: 2rem 0;">
-<p style="text-align: center; color: #666;">© 2025 Hamza Salah</p>
