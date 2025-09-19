@@ -77,4 +77,4 @@ By uncovering seasonal patterns and external drivers, the study provides actiona
 - Tableau for interactive exploration  
 
 <hr style="margin: 2rem 0;">
-<p style="text-align: center; color: #666;">© 2025 Hamza Salah | Bellevue University, DSC630 Predictive Analytics</p>
+<p style="text-align: center; color: #666;">© 2025 Hamza Salah</p>
