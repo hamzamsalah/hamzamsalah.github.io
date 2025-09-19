@@ -43,6 +43,3 @@ Completed during my Data Analyst Fellowship, this project analyzed U.S. mass sho
 ### Technologies Used
 - Excel
 - Tableau
-
-<hr style="margin: 2rem 0;">
-<p style="text-align: center; color: #666;">© 2025 Hamza Salah</p>
