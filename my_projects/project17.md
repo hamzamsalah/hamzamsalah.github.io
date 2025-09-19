@@ -26,10 +26,10 @@ title: Inventory Management Optimization (Ongoing)
 ### Project Overview
 As part of the DSC680 Applied Data Science course at Bellevue University, I am developing a project that analyzes inventory data to optimize stock levels and improve operational efficiency. The project leverages predictive analytics, ARIMA time series models, and machine learning techniques such as linear regression and gradient boosting.
 
-#### Key Insights
-- Optimized inventory levels to reduce overstock and tied-up capital.
-- Improved product availability across stores.
-- Identified key variables affecting demand, such as promotions, supplier reliability, and seasonality.
+#### Key Insights aiming to achieve
+- Optimize inventory levels to reduce overstock and tied-up capital.
+- Improve product availability across stores.
+- Identify key variables affecting demand, such as promotions, supplier reliability, and seasonality.
 
 ### Code and Data
 - [View Full Notebook on GitHub]()  
