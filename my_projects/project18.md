@@ -72,6 +72,3 @@ The analysis quantifies the impact of these stretches on metrics like offensive/
 - Python (Pandas, NumPy, Scikit-learn, Statsmodels, Plotly, Matplotlib)  
 - Jupyter Notebook for analysis and visualization  
 - Interactive and static visualizations to explore scheduling patterns  
-
-<hr style="margin: 2rem 0;">
-<p style="text-align: center; color: #666;">© 2025 Hamza Salah</p>
