@@ -43,6 +43,3 @@ This database project supports hospital operations during pandemics by tracking 
 
 ### Technologies Used
 - MySQL
-
-<hr style="margin: 2rem 0;">
-<p style="text-align: center; color: #666;">© 2025 Hamza Salah</p>
