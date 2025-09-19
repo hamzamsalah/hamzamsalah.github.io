@@ -75,6 +75,3 @@ By uncovering seasonal patterns and external drivers, the study provides actiona
 - Jupyter Notebook  
 - Matplotlib, Seaborn for visualization  
 - Tableau for interactive exploration  
-
-<hr style="margin: 2rem 0;">
-<p style="text-align: center; color: #666;">© 2025 Hamza Salah</p>
