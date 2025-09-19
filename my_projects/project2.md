@@ -47,6 +47,3 @@ This project focuses on natural language processing to gauge customer opinions f
 - Python (Pandas, Scikit-learn, NLTK, WordCloud)
 - Jupyter Notebook
 - Matplotlib
-
-<hr style="margin: 2rem 0;">
-<p style="text-align: center; color: #666;">© 2025 Hamza Salah</p>
