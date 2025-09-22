@@ -32,7 +32,7 @@ As part of the DSC680 Applied Data Science course at Bellevue University, I am d
 - Identify key variables affecting demand, such as promotions, supplier reliability, and seasonality.
 
 ### Code and Data
-- [View Full Notebook on GitHub]()  
+- [View Full Notebook on GitHub](https://github.com/hamzamsalah/retail_inventory_managment)  
 - Retail Store Inventory Dataset (Kaggle)
 - Inventory Optimization Dataset (Kaggle)
 - Mock Data generated from Mockaroo & ChatGPT
