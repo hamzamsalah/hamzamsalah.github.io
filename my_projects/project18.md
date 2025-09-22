@@ -43,15 +43,16 @@ The analysis quantifies the impact of these stretches on metrics like offensive/
 
 ### Code and Data
 - **Datasets:**  
-  - NBA schedule data (2014–15 to 2024–25) from [Fixture Download](https://fixturedownload.com/sport/basketball)  
-  - Team performance and game-level stats (points, offensive/defensive eFG%)  
-  - Locations and travel data
+  - NBA schedule data (2014–15 to 2024–25):
+    - [Fixture Download](https://fixturedownload.com/sport/basketball)
+    - [Kaggle](https://kaggle.com/datasets/911a3e298350e0e281168e3f7b9eddfdfabdda835f19119f018758c7daa2dd77)
+
 - **Data Cleaning & Preparation:**  
   - Converted dates and sorted games chronologically  
   - Filtered by team and season  
   - Calculated rolling game stretches (e.g., 4-in-6, back-to-back)  
   - Standardized stretch counts to 82-game seasons for consistency
-- [View Full Notebook on GitHub](#)  
+- [View Full Notebook on GitHub](https://github.com/hamzamsalah/nba-schedule-analysis?tab=readme-ov-file#nba-schedule-analysis)  
 
 ---
 
