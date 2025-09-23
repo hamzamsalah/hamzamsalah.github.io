@@ -50,8 +50,10 @@ The analysis quantifies the impact of these stretches on metrics like offensive/
 - **Data Cleaning & Preparation:**  
   - Converted dates and sorted games chronologically  
   - Filtered by team and season  
-  - Calculated rolling game stretches (e.g., 4-in-6, back-to-back)  
+  - Calculated rolling game stretches (e.g., 4-in-6, back-to-back)
+    
   - Standardized stretch counts to 82-game seasons for consistency
+    
 ---
 
 ### Visualizations
