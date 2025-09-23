@@ -52,8 +52,6 @@ The analysis quantifies the impact of these stretches on metrics like offensive/
   - Filtered by team and season  
   - Calculated rolling game stretches (e.g., 4-in-6, back-to-back)  
   - Standardized stretch counts to 82-game seasons for consistency
-- [View Full Notebook on GitHub](https://github.com/hamzamsalah/nba-schedule-analysis?tab=readme-ov-file#nba-schedule-analysis)  
-
 ---
 
 ### Visualizations
