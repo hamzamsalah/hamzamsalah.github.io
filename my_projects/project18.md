@@ -27,7 +27,7 @@ title: NBA Game Stretch Analyzer
 </div>
 
 ### Project Overview
-The NBA Game Stretch Analyzer is a comprehensive exploration of NBA schedules and how dense game stretches affect team performance. This project analyzes NBA seasons from 2014–15 through 2024–25, identifying challenging stretches such as back-to-backs, 3-in-4, and 4-in-6 games. By integrating historical schedules with team performance data, the project quantifies the impact of schedule density on metrics such as offensive and defensive efficiency, win percentage, and overall season outcomes. Using regression modeling and interactive visualizations, it offers actionable insights for coaches, analysts, and front office staff to optimize player workload management, recovery strategies, and competitive planning.
+The NBA Game Stretch Analyzer examines NBA schedules from 2014–15 to 2024–25 to identify dense stretches like back-to-backs and 4-in-6 games. By combining schedule and performance data, it quantifies how schedule density affects efficiency, win rates, and season outcomes. Regression modeling and interactive visualizations provide insights for optimizing player workload, recovery, and strategy.
 
 ---
 
