@@ -31,6 +31,18 @@ The NBA Game Stretch Analyzer examines NBA schedules from 2014–15 to 2024–25
 
 ---
 
+### Interactive Plotly Graph
+<div style="max-width:1200px; margin:0 auto;">
+  <iframe 
+      src="{{ site.baseurl }}/assets/lal_schedule_2020.html" 
+      width="100%" 
+      height="400" 
+      style="border:none;">
+  </iframe>
+</div>
+
+---
+
 ### Key Insights
 - Dense game stretches, particularly back-to-back and 4-in-6 games, correlate with measurable declines in performance metrics such as defensive efficiency.  
 - The frequency and severity of challenging game stretches have increased over the last decade.  
@@ -49,18 +61,6 @@ The NBA Game Stretch Analyzer examines NBA schedules from 2014–15 to 2024–25
   - Filtered schedules by team and season  
   - Calculated game stretches such as back-to-backs and 4-in-6s  
   - Normalized stretch counts to an 82-game season for fair comparisons  
-
----
-
-### Visualizations
-<div style="max-width:1200px; margin:0 auto;">
-  <iframe 
-      src="{{ site.baseurl }}/assets/lal_schedule_2020.html" 
-      width="100%" 
-      height="400" 
-      style="border:none;">
-  </iframe>
-</div>
 
 ---
 
