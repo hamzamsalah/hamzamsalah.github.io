@@ -57,6 +57,8 @@ The NBA Game Stretch Analyzer examines NBA schedules from 2014–15 to 2024–25
     - [Fixture Download](https://fixturedownload.com/sport/basketball)
     - [Kaggle](https://kaggle.com/datasets/911a3e298350e0e281168e3f7b9eddfdfabdda835f19119f018758c7daa2dd77)
 
+- **[View Jupyter Notebook](https://github.com/hamzamsalah/nba-schedule-analysis/blob/main/sport_team_schedule_analysis.ipynb)**
+
 - **Data Cleaning & Preparation:**  
   - Standardized dates and sorted games chronologically  
   - Filtered schedules by team and season  
