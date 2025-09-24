@@ -16,7 +16,7 @@ Click a project title below to explore key insights, visualizations, and analyse
 [![](assets/shields/matplotlib.svg)](#)
 [![](assets/shields/seaborn.svg)](#)
 
-Forecasting retail inventory demand and optimized stock levels using predictive analytics and machine learning models (ARIMA, SARIMA, Linear Regression, Gradient Boosting). Conducting EDA to identify key drivers of demand, such as promotions, supplier reliability, and seasonal trends, to help reduce overstock and improve product availability.
+Forecasting retail inventory and optimizing stock using predictive analytics (ARIMA, SARIMAX, Linear Regression, Gradient Boosting) to identify demand drivers such as promotions and seasonality to reduce overstock and improve availability.
 
 ---
 
