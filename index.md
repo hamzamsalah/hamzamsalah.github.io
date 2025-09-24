@@ -6,19 +6,6 @@ This portfolio showcases projects in analytics, visualization, and machine learn
 <hr style="margin: 20px 0;">
 </div>
 
-### [NBA Game Stretch Analyzer (Ongoing)](my_projects/project18)
-
-[![](assets/shields/python.svg)](#)
-[![](assets/shields/jupyter.svg)](#)
-[![](assets/shields/pandas.svg)](#)
-[![](assets/shields/scikit-learn.svg)](#)
-[![](assets/shields/plotly.svg)](#)
-[![](assets/shields/matplotlib.svg)](#)
-[![](assets/shields/statsmodels.svg)](#)
-
-Analyzing NBA team schedules to identify dense game stretches (e.g., 4-in-6, back-to-back games) and their impact on team performance. Conducting exploratory data analysis on historical schedules and game stats, modeling the effect of schedule density on wins, and building interactive visualizations to support coaches and front office decision-making regarding player workload, recovery, and performance planning.
-
----
 ### [Inventory Management Optimization (Ongoing)](my_projects/project17)
 
 [![](assets/shields/python.svg)](#)
@@ -30,6 +17,20 @@ Analyzing NBA team schedules to identify dense game stretches (e.g., 4-in-6, bac
 [![](assets/shields/seaborn.svg)](#)
 
 Forecasting retail inventory demand and optimized stock levels using predictive analytics and machine learning models (ARIMA, SARIMA, Linear Regression, Gradient Boosting). Conducting EDA to identify key drivers of demand, such as promotions, supplier reliability, and seasonal trends, to help reduce overstock and improve product availability.
+
+---
+
+### [NBA Game Stretch Analyzer](my_projects/project18)
+
+[![](assets/shields/python.svg)](#)
+[![](assets/shields/jupyter.svg)](#)
+[![](assets/shields/pandas.svg)](#)
+[![](assets/shields/scikit-learn.svg)](#)
+[![](assets/shields/plotly.svg)](#)
+[![](assets/shields/matplotlib.svg)](#)
+[![](assets/shields/statsmodels.svg)](#)
+
+This project analyzes NBA schedules to identify and quantify dense game stretches, such as back-to-backs, 3-in-4s, and 4-in-6s, and examines their impact on team performance. Using historical schedule and game data, it explores scheduling patterns, ranks the toughest stretches for each team and season, and investigates performance effects such as changes in win rate or efficiency. The analysis includes modeling the relationship between schedule density and team outcomes, with interactive visualizations designed to support coaches and front office staff in making informed decisions about player workload, recovery, and competitive strategy.
 
 ---
 
