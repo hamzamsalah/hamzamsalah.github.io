@@ -30,7 +30,7 @@ Forecasting retail inventory demand and optimized stock levels using predictive 
 [![](assets/shields/matplotlib.svg)](#)
 [![](assets/shields/statsmodels.svg)](#)
 
-This project analyzes NBA schedules to identify dense game stretches, such as back-to-backs and 4-in-6s, and examines their impact on team performance. Using historical data, it ranks the toughest stretches, explores scheduling patterns, and models how schedule density affects win rates and efficiency. Interactive visualizations support coaches and front offices in optimizing workload, recovery, and strategy.
+This project analyzes NBA schedules to identify dense stretches (e.g., back-to-backs, 4-in-6s), ranks their difficulty, examines patterns, and models their impact on performance.
 
 <img src="assets/stretch_graph.png?raw=true" />
 
