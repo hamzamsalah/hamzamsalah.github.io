@@ -31,7 +31,8 @@ The NBA Game Stretch Analyzer examines NBA schedules from 2014–15 to 2024–25
 
 ---
 
-### Interactive Plotly Graph
+### Interactive NBA Schedule Stretch Analyzer
+> Navigation: Drag to zoom, shift+drag to pan, scroll to change year, double-click to reset, hover for details.
 <div style="max-width:1200px; margin:0 auto;">
   <iframe 
       src="{{ site.baseurl }}/assets/lal_schedule_2020.html" 
