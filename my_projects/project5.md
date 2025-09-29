@@ -26,6 +26,8 @@ title: Hospital COVID-19 Relational Database
   </h2>
 </div>
 
+**For a detailed backstory on how the pandemic inspired me to design this hospital database, please read my article on Medium: [How the Pandemic Led Me to Design a Hospital Database](https://medium.com/@hamzamsalahds/how-the-pandemic-led-me-to-design-a-hospital-database-d9bb643c44af).**
+
 ### Project Overview
 This database project supports hospital operations during pandemics by tracking patient and staff data securely.
 
