@@ -147,11 +147,35 @@ Developed a Python program for weather lookup by zip code or city, utilizing the
 
 ---
 
+### [Tennessee Home Values Dashboard](my_projects/project15)
+
+[![](assets/shields/excel.svg)](#)
+[![](assets/shields/tableau.svg)](#)
+
+Built an interactive Tableau dashboard using Zillow data to track single-family home values in Tennessee. The dashboard highlights trends over time, county-level comparisons, and growth rates, allowing users to explore how values have shifted across the state. Interactive filters let viewers focus on specific counties and time periods for deeper analysis.
+
+<img src="assets/zillow.png?raw=true" />
+
+---
+
+### [Open University Student GPA & Demographics Analysis](my_projects/project16)
+
+[![](assets/shields/excel.svg)](#)
+[![](assets/shields/tableau.svg)](#)
+
+Analyzed data from Open University, identifying correlations between GPA and demographics using Tableau.
+
+<img src="assets/gpa1.png?raw=true" />
+
+---
+
 ### [TSA Complaints Analysis](my_projects/project9)
 
 [![](assets/shields/powerbi.svg)](#)
 
 Built a Power BI dashboard to track TSA Complaints in the US.
+
+---
 
 ### [Concession Baseball Sales Dashboard](my_projects/project10)
 
@@ -159,11 +183,15 @@ Built a Power BI dashboard to track TSA Complaints in the US.
 
 Built a Power BI dashboard to track sales and performance of concessions at baseball games, optimizing inventory and pricing strategies.
 
+--- 
+
 ### [Store Sales Dashboard](my_projects/project11)
 
 [![](assets/shields/powerbi.svg)](#)
 
 Designed a Power BI sales dashboard to monitor KPIs, sales trends, and regional performance for effective decision-making.
+
+---
 
 ### [US Mass Shootings Analysis](my_projects/project12)
 
@@ -174,6 +202,8 @@ Utilized Excel and Tableau to uncover a 13% increase in US mass shootings during
 
 <img src="assets/shoot_dashboard.png?raw=true" />
 
+---
+
 ### [Covid Case Tracker](my_projects/project13)
 
 [![](assets/shields/tableau.svg)](#)
@@ -181,6 +211,8 @@ Utilized Excel and Tableau to uncover a 13% increase in US mass shootings during
 Developed a Tableau dashboard visualizing COVID-19 cases, deaths, and testing data from sources like WHO and CDC.
 
 <img src="assets/covid_dash.png?raw=true" />
+
+---
 
 ### [Timely & Effective Care Across the US](my_projects/project14)
 
@@ -190,20 +222,4 @@ Created a Tableau dashboard for CMS data to help patients choose the best hospit
 
 <img src="assets/effective_care_dash.png?raw=true" />
 
-### [Tennessee Home Values Dashboard](my_projects/project15)
-
-[![](assets/shields/excel.svg)](#)
-[![](assets/shields/tableau.svg)](#)
-
-Built an interactive Tableau dashboard using Zillow data to track single-family home values in Tennessee. The dashboard highlights trends over time, county-level comparisons, and growth rates, allowing users to explore how values have shifted across the state. Interactive filters let viewers focus on specific counties and time periods for deeper analysis.
-
-<img src="assets/zillow.png?raw=true" />
-
-### [Open University Student GPA & Demographics Analysis](my_projects/project16)
-
-[![](assets/shields/excel.svg)](#)
-[![](assets/shields/tableau.svg)](#)
-
-Analyzed data from Open University, identifying correlations between GPA and demographics using Tableau.
-
-<img src="assets/gpa1.png?raw=true" />
+---
