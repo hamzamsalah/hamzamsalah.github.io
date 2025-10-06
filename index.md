@@ -30,8 +30,7 @@ Forecasting retail inventory and optimizing stock using predictive analytics (AR
 [![](assets/shields/matplotlib.svg)](#)
 [![](assets/shields/seaborn.svg)](#)
 
-Forecasted retail product demand using ARIMA, Auto ARIMA, and SARIMAX models to identify seasonal and promotional trends.  
-Achieved high forecasting accuracy to optimize inventory management, reduce overstocking, and improve retail profitability.
+Forecasted retail product demand using ARIMA, Auto ARIMA, and SARIMAX models to identify seasonal and promotional trends. Achieving a low RMSE to help with optimizing inventory management, reducing overstocking, and improving retail profitability.
 
 <img src="assets/retail_forecast_plot.png?raw=true" />
 
