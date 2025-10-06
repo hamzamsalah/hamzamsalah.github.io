@@ -33,6 +33,8 @@ The Retail Demand Forecasting project applies time series modeling to predict re
 
 ### Visualizations
 
+<img src="assets/retail_forecast_plot.png?raw=true" />
+
 ---
 
 ### Key Insights
@@ -45,7 +47,7 @@ The Retail Demand Forecasting project applies time series modeling to predict re
 
 ### Code and Data
 - **Dataset:**  
-  - [Synthetic Retail Sales Dataset — Kaggle](https://www.kaggle.com/)  
+  - [Synthetic Retail Sales Dataset — Kaggle](https://kaggle.com/datasets/da6f0cb7066b3542693967e16f46a6e6b68c7259b602a5406113cc6121094efa)  
   - 3 years of daily sales data across multiple product categories  
 
 - **Data Cleaning & Preparation:**  
