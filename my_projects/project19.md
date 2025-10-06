@@ -57,7 +57,7 @@ The Retail Demand Forecasting project applies time series modeling to predict re
   - Aggregated daily sales to monthly totals  
   - Split dataset into training (pre-2024) and testing (2024) sets  
 
-- **[View Jupyter Notebook](https://github.com/hamzamsalah/retail-demand-forecasting/blob/main/retail_demand_forecasting.ipynb)**  
+- **[View Jupyter Notebook](https://github.com/hamzamsalah/retail_demand_forecast/blob/main/Salah_Project1_Retail.ipynb)**  
 
 ---
 
