@@ -62,7 +62,8 @@ The Retail Demand Forecasting project applies time series modeling to predict re
 
 - **[View Jupyter Notebook](https://github.com/hamzamsalah/retail_demand_forecast/blob/main/Salah_Project1_Retail.ipynb)**
   
-- **[View Paper](https://github.com/hamzamsalah/retail_demand_forecast/blob/main/Salah_Project1_Final_Paper.pdf)** 
+- **[View Paper](https://github.com/hamzamsalah/retail_demand_forecast/blob/main/Salah_Project1_Final_Paper.pdf)**
+  
 ---
 
 ### Technologies Used
