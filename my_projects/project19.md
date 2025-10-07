@@ -35,9 +35,7 @@ The Retail Demand Forecasting project applies time series modeling to predict re
 
 <img src="/assets/retail_table.png?raw=true" />
 
-<div style="text-align: center;">
-  <img src="/assets/retail_forecast_plot.png?raw=true" alt="Retail Forecast Plot" style="max-width: 100%; height: auto;" />
-</div>
+<img src="/assets/retail_forecast_plot.png?raw=true" />
 
 ---
 
