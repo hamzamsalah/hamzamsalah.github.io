@@ -6,19 +6,6 @@ Click a project title below to explore key insights, visualizations, and analyse
 <hr style="margin: 20px 0;">
 </div>
 
-### [Inventory Management Optimization (Ongoing)](my_projects/project17)
-
-[![](assets/shields/python.svg)](#)
-[![](assets/shields/jupyter.svg)](#)
-[![](assets/shields/statsmodels.svg)](#)
-[![](assets/shields/pmdarima.svg)](#)
-[![](assets/shields/scikit-learn.svg)](#)
-[![](assets/shields/matplotlib.svg)](#)
-[![](assets/shields/seaborn.svg)](#)
-
-Forecasting retail inventory and optimizing stock using predictive analytics (ARIMA, SARIMAX, Linear Regression, Gradient Boosting) to identify demand drivers such as promotions and seasonality to reduce overstock and improve availability.
-
----
 
 ### [Retail Demand Forecasting](my_projects/project19)
 
