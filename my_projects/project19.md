@@ -26,8 +26,8 @@ title: Retail Demand Forecasting
   </h2>
 </div>
 
-### Project Overview
-The Retail Demand Forecasting project applies time series modeling to predict retail product demand using historical sales and promotional data. By leveraging ARIMA, Auto ARIMA, and SARIMAX models, the project identifies seasonal patterns, promotional impacts, and category-level trends to enhance inventory planning and reduce operational inefficiencies.
+### Summary
+Retail Demand Forecasting demonstrates how statistical modeling and time series analysis can transform retail decision-making. Incorporating seasonality and promotional data through SARIMAX enables accurate, actionable demand predictions-driving smarter inventory management and higher profitability.
 
 ---
 
@@ -86,6 +86,3 @@ The Retail Demand Forecasting project applies time series modeling to predict re
 - **Mitigation:** Retrain models periodically using fresh and validated datasets.  
 
 ---
-
-### Summary
-Retail Demand Forecasting demonstrates how statistical modeling and time series analysis can transform retail decision-making. Incorporating seasonality and promotional data through SARIMAX enables accurate, actionable demand predictions—driving smarter inventory management and higher profitability.
