@@ -16,9 +16,7 @@ Click to explore key insights of real-world data projects.
 [![](assets/shields/matplotlib.svg)](#)
 [![](assets/shields/seaborn.svg)](#)
 
-Developed a binary classification ML model to accurately predict the risk of Inventory Record Inaccuracy (IRI) for retail SKUs 24 hours in advance, enabling the proactive reduction of operational costs. 
-
-The model achieved robust performance metrics, securing a 0.83 F1-Score (exceeding the 0.70 target) and 0.92 AUC. Implemented post-processing logic to generate a Top 10 prioritized Suspect List for auditing, providing a strategic, cost-effective tool for inventory management.
+Developed a highly predictive machine learning model to forecast Inventory Record Inaccuracy (IRI) risk 24 hours ahead, enabling cost reduction via a Top 10 prioritized Suspect List.
 
 <img src="assets/retail_iri_table.png?raw=true" />
 
