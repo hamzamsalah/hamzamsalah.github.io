@@ -11,7 +11,7 @@ title: Retail Inventory Record Inaccuracy (IRI) Detection
   padding: 0.5rem 1rem;
   text-align: center;
   border-bottom: 1px solid black;
-  margin-bottom: 1rem;  /* 👈 space under the border */
+  margin-bottom: 1rem;
 ">
   <div style="text-align: left; margin-bottom: 0.5rem;">
     <a href="/" class="back-link" style="color: #666; text-decoration: none;">
@@ -20,35 +20,32 @@ title: Retail Inventory Record Inaccuracy (IRI) Detection
   </div>
 
   <h2 style="margin: 0;">
-    Retail Inventory Record Inaccuracy (IRI) Detection
+    Retail Inventory Record Inaccuracy (IRI) Detection 🛒
   </h2>
 </div>
 
 ### Project Overview
-Built a Logistics Regression model to predict Inventory Record Inaccuracy (IRI) in retail SKUs one day in advance using sales, stock, and purchasing data to optimize physical inventory audits.
+Developed and validated a **Logistic Regression** model using daily sales, stock, and transactional flow data to proactively forecast the binary risk of **Inventory Record Inaccuracy (IRI)** at the Store-SKU level 24 hours in advance. This approach enables a strategic shift to risk-based inventory audits, minimizing lost sales from phantom stockouts.
 
 #### Key Insights
-* **Target Imbalance:** The target variable (IRI) is highly imbalanced, which significantly influences model training and evaluation.
-* **Sales & Inventory Link:** High inventory levels and low item sales are correlated with increased IRI risk.
-* **Day-of-Week Pattern:** IRI occurrence rates show clear spikes on specific days of the week, suggesting operational process gaps.
-* **Model Performance:** The final model achieved an **81% accuracy** and a **Recall of 83.16%** on IRI cases, providing a high-confidence list of products for targeted audits.
+* **Primary Predictor:** Low stock status (`In_stock_t`) is the strongest indicator of imminent IRI risk, showing a substantial **negative correlation of -0.63** with the target.
+* **Model Performance:** The final model achieved a high F1-Score of **0.83** on the positive risk class, **significantly exceeding the target of 0.70**, and demonstrated excellent discriminatory power with an **AUC of 0.92**.
+* **Operational Impact:** The model successfully generated a daily High-Risk Suspect List, validated to have a high confirmation rate (e.g., **8 out of 10**) for actual IRI cases, directly optimizing audit labor.
+* **Data Imbalance:** The analysis managed a notable class imbalance (38% IRI cases) by focusing evaluation strictly on the F1-Score of the minority risk class.
 
 ---
 ### Code and Data
-* [View Analysis on GitHub]({{ site.baseurl }}/assets/retail_iri_detection)  * [Download Dataset](retail_data_with_seasonality.csv) ---
-
+* [View Analysis on GitHub]({{ site.baseurl }}/assets/retail_iri_detection)
+* [Download Dataset](retail_data_with_seasonality.csv) 
+---
   
 ### Key Visualizations
 
 ![IRI Table]({{ site.baseurl }}/assets/retail_iri_table.png)
 
-
-
-
-
 ---
 ### Technologies Used
 * **Python** (Pandas, NumPy)
 * **Scikit-learn** (Logistic Regression, OneHotEncoder)
-* **Matplotlib, Seaborn**
 * **Jupyter Notebook**
+* **Matplotlib, Seaborn**
