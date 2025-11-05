@@ -20,6 +20,8 @@ Click a project title below to explore key insights, visualizations, and analyse
 
 This project develops a **Logistic Regression** model to predict **Inventory Record Inaccuracy (IRI)** risk in retail SKUs one day in advance, enabling **targeted inventory audits** and reducing operational costs.
 
+<img src="assets/retail_iri_table.png?raw=true" />
+
 ---
 
 
