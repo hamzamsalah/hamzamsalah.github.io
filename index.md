@@ -8,17 +8,17 @@ Click a project title below to explore key insights, visualizations, and analyse
 
 
 
-### [Retail Inventory Record Inaccuracy Detection](my_projects/project20)
+### [Retail Inventory Record Inaccuracy Detection 🛒](my_projects/project20)
 
 [![](assets/shields/python.svg)](#)
 [![](assets/shields/jupyter.svg)](#)
 [![](assets/shields/pandas.svg)](#)
 [![](assets/shields/scikit-learn.svg)](#)
+[![](assets/shields/logistic_regression.svg)](#)
 [![](assets/shields/matplotlib.svg)](#)
 [![](assets/shields/seaborn.svg)](#)
-[![](assets/shields/logistic_regression.svg)](#)
 
-Developed a Logistic Regression model to predict Inventory Record Inaccuracy (IRI) risk for retail SKUs 24 hours in advance, enabling targeted inventory audits and reducing operational costs.
+Developed a **Logistic Regression** model to proactively predict the binary risk of **Inventory Record Inaccuracy (IRI)** for retail SKUs 24 hours in advance. The model achieved an **F1-Score of 0.83** on the risk class (exceeding the 0.70 target) and an **AUC of 0.92**, enabling targeted inventory audits and significantly reducing operational costs.
 
 
 <img src="assets/retail_iri_table.png?raw=true" />
