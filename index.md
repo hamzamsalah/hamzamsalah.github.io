@@ -18,9 +18,8 @@ Click a project title below to explore key insights, visualizations, and analyse
 [![](assets/shields/seaborn.svg)](#)
 [![](assets/shields/logistic_regression.svg)](#)
 
-This project develops a **Logistic Regression** model to predict **Inventory Record Inaccuracy (IRI)** risk in retail SKUs one day in advance, enabling **targeted inventory audits** and reducing operational costs.
+Developed a Logistic Regression model to predict Inventory Record Inaccuracy (IRI) risk for retail SKUs 24 hours in advance, enabling targeted inventory audits and reducing operational costs.
 
-[![Table Visualization](https://public.flourish.studio/visualisation/26055479/thumbnail)](https://public.flourish.studio/visualisation/26055479)
 
 <img src="assets/retail_iri_table.png?raw=true" />
 
