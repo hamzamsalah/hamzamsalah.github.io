@@ -18,7 +18,7 @@ Click to explore key insights of real-world data projects.
 
 Developed a binary classification ML model to accurately predict the risk of Inventory Record Inaccuracy (IRI) for retail SKUs 24 hours in advance, enabling the proactive reduction of operational costs. 
 
-The model achieved robust performance metrics, securing a *0.83 F1-Score (exceeding the 0.70 target) and 0.92 AUC. Implemented post-processing logic to generate a Top 10 prioritized Suspect List for auditing, providing a strategic, cost-effective tool for inventory management.
+The model achieved robust performance metrics, securing a 0.83 F1-Score (exceeding the 0.70 target) and 0.92 AUC. Implemented post-processing logic to generate a Top 10 prioritized Suspect List for auditing, providing a strategic, cost-effective tool for inventory management.
 
 <img src="assets/retail_iri_table.png?raw=true" />
 
