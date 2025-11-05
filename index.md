@@ -7,6 +7,22 @@ Click a project title below to explore key insights, visualizations, and analyse
 </div>
 
 
+
+### [Retail Inventory Record Inaccuracy Detection](my_projects/iri_detection)
+
+[![](assets/shields/python.svg)](#)
+[![](assets/shields/jupyter.svg)](#)
+[![](assets/shields/pandas.svg)](#)
+[![](assets/shields/scikit-learn.svg)](#)
+[![](assets/shields/matplotlib.svg)](#)
+[![](assets/shields/seaborn.svg)](#)
+[![](assets/shields/logistic_regression.svg)](#)
+
+This project develops a **Logistic Regression** model to predict **Inventory Record Inaccuracy (IRI)** risk in retail SKUs one day in advance, enabling **targeted inventory audits** and reducing operational costs.
+
+---
+
+
 ### [Retail Demand Forecasting](my_projects/project19)
 
 [![](assets/shields/python.svg)](#)
