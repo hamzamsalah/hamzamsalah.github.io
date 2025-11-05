@@ -6,8 +6,6 @@ Click to explore key insights of real-world data projects.
 <hr style="margin: 20px 0;">
 </div>
 
-
-
 ### [Retail Inventory Record Inaccuracy Detection](my_projects/project20)
 
 [![](assets/shields/python.svg)](#)
