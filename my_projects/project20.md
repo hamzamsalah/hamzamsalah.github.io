@@ -110,10 +110,10 @@ Retail Inventory Record Inaccuracy (IRI) is a major driver of cost and inefficie
 ### Visualizations & Tables
 
 **Confusion Matrix (Threshold: 0.50)**
-
+[Image of the Confusion Matrix for Retail IRI Detection]
 
 **Receiver Operating Characteristic (ROC) Curve**
-
+[Image of the ROC Curve for Retail IRI Detection]
 
 ---
 
@@ -156,9 +156,4 @@ Retail Inventory Record Inaccuracy (IRI) is a major driver of cost and inefficie
 
 ### Risks and Ethical Considerations
 - **Imbalanced Data:** The high imbalance in the target variable (`IRI_Detected_tomorrow`) can bias models. Mitigation included using metrics like **Recall** and **ROC AUC** instead of just accuracy.
-- **Over-Auditing:** A low-precision model (high False Positives) can lead to **audit fatigue** among store staff.
-- **Data Drift:** Changes in store processes, fraud patterns, or product mix will require **periodic model retraining** and validation.
-
----
-
-Would you like me to replace the placeholder links for the IRI project with actual URLs?
+-
