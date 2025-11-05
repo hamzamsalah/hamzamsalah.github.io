@@ -36,6 +36,8 @@ Building a **Logistics Regression model** to predict **Inventory Record Inaccura
 ---
 ### Code and Data
 * [View Analysis on GitHub]({{ site.baseurl }}/assets/retail_iri_detection)  * [Download Dataset](retail_data_with_seasonality.csv) ---
+
+  
 ### Key Visualizations
 
 ![IRI Table]({{ site.baseurl }}/assets/retail_iri_table.png)
