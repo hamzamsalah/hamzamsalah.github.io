@@ -25,7 +25,7 @@ title: Retail Inventory Record Inaccuracy (IRI) Detection
 </div>
 
 ### Project Overview
-Building a **Logistics Regression model** to predict **Inventory Record Inaccuracy (IRI)** in retail SKUs one day in advance using sales, stock, and purchasing data to optimize physical inventory audits.
+Built a Logistics Regression model to predict Inventory Record Inaccuracy (IRI) in retail SKUs one day in advance using sales, stock, and purchasing data to optimize physical inventory audits.
 
 #### Key Insights
 * **Target Imbalance:** The target variable (IRI) is highly imbalanced, which significantly influences model training and evaluation.
