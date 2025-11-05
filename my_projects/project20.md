@@ -36,8 +36,10 @@ Developed and validated a **Logistic Regression** model using daily sales, stock
 ---
 ### Code and Data
 * [View Analysis on GitHub](https://github.com/hamzamsalah/retail_iri_prediction)
-  
-* [Dataset](https://kaggle.com/datasets/e464721e61fa8ce62c39b3012fe709bc61cedbd5f1f956cb65a1f97baa84ad77) 
+
+* [Dataset](https://kaggle.com/datasets/e464721e61fa8ce62c39b3012fe709bc61cedbd5f1f956cb65a1f97baa84ad77)
+
+
 ---
   
 ### Key Visualizations
