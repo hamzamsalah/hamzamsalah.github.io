@@ -1,7 +1,7 @@
 <div style="text-align: center;">
 <h2>Data Science Portfolio</h2>
 <em>
-Click to explore key insights, visualizations, and analyses of real-world data projects.
+Click to explore key insights of real-world data projects.
 </em>
 <hr style="margin: 20px 0;">
 </div>
