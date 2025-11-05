@@ -8,7 +8,7 @@ Click a project title below to explore key insights, visualizations, and analyse
 
 
 
-### [Retail Inventory Record Inaccuracy Detection](my_projects/iri_detection)
+### [Retail Inventory Record Inaccuracy Detection](my_projects/project20)
 
 [![](assets/shields/python.svg)](#)
 [![](assets/shields/jupyter.svg)](#)
