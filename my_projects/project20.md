@@ -20,7 +20,7 @@ title: Retail Inventory Record Inaccuracy (IRI) Detection
   </div>
 
   <h2 style="margin: 0;">
-    Retail Inventory Record Inaccuracy (IRI) Detection 🛒
+    Retail Inventory Record Inaccuracy (IRI) Detection
   </h2>
 </div>
 
