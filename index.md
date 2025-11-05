@@ -18,8 +18,7 @@ Click to explore key insights of real-world data projects.
 [![](assets/shields/matplotlib.svg)](#)
 [![](assets/shields/seaborn.svg)](#)
 
-Developed a Logistic Regression model to proactively predict the binary risk of Inventory Record Inaccuracy (IRI) for retail SKUs 24 hours in advance. The model achieved an F1-Score of 0.83 on the risk class (exceeding the 0.70 target) and an AUC of 0.92, enabling targeted inventory audits and significantly reducing operational costs.
-
+Designed a classification ML model for retail SKUs, predicting the risk of Inventory Record Inaccuracy (IRI) 24 hours ahead. The model surpassed the target F1-Score with 0.83 (Target: 0.70) and 0.92 AUC, directly enabling strategic inventory auditing and cost reduction.
 
 <img src="assets/retail_iri_table.png?raw=true" />
 
