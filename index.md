@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<img width="1994" height="57" alt="image" src="https://github.com/user-attachments/assets/292fbe9a-e5e0-4f5d-b236-31f00b3350ba" /><div style="text-align: center;">
 <h2>Data Science Portfolio</h2>
 <em>
 Click to explore key insights of real-world data projects.
@@ -6,7 +6,7 @@ Click to explore key insights of real-world data projects.
 <hr style="margin: 20px 0;">
 </div>
 
-### [Retail Inventory Record Inaccuracy Detection](my_projects/project20)
+### [Modeling of Retail Inventory Record Inaccuracy (IRI) for Audit Prioritization](my_projects/project20)
 
 [![](assets/shields/python.svg)](#)
 [![](assets/shields/jupyter.svg)](#)
@@ -16,7 +16,7 @@ Click to explore key insights of real-world data projects.
 [![](assets/shields/matplotlib.svg)](#)
 [![](assets/shields/seaborn.svg)](#)
 
-Developed a highly predictive machine learning model to forecast Inventory Record Inaccuracy (IRI) risk 24 hours ahead, enabling cost reduction via a Top 10 prioritized Suspect List.
+Developed a highly interpretable Logistic Regression classification model to forecast Inventory Record Inaccuracy (IRI) risk 24 hours ahead, validating its ability to eliminate wasteful audits. The model achieved an F1-Score of 0.83 on the positive class, enabling the immediate implementation of a Risk-Based Cycle Counting strategy by prioritizing a high-accuracy Suspect List.
 
 <img src="assets/retail_iri_table.png?raw=true" />
 
