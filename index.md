@@ -1,4 +1,4 @@
-<img width="1994" height="57" alt="image" src="https://github.com/user-attachments/assets/292fbe9a-e5e0-4f5d-b236-31f00b3350ba" /><div style="text-align: center;">
+<div style="text-align: center;">
 <h2>Data Science Portfolio</h2>
 <em>
 Click to explore key insights of real-world data projects.
@@ -6,7 +6,7 @@ Click to explore key insights of real-world data projects.
 <hr style="margin: 20px 0;">
 </div>
 
-### [Modeling of Retail Inventory Record Inaccuracy (IRI) for Audit Prioritization](my_projects/project20)
+### [Retail Inventory Record Inaccuracy Detection](my_projects/project20)
 
 [![](assets/shields/python.svg)](#)
 [![](assets/shields/jupyter.svg)](#)
