@@ -6,7 +6,7 @@ Click to explore key insights of real-world data projects.
 <hr style="margin: 20px 0;">
 </div>
 
-### [Retail Inventory Record Inaccuracy Detection](my_projects/project20)
+### [Predictive Modeling of Retail Inventory Inaccuracy (IRI) for Audit Prioritization](my_projects/project20)
 
 [![](assets/shields/python.svg)](#)
 [![](assets/shields/jupyter.svg)](#)
