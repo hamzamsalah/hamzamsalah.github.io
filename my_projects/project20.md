@@ -40,7 +40,10 @@ Developed and validated a highly interpretable Logistic Regression model using d
 
 ---
 ### Code and Data
-* [View Analysis on GitHub](https://github.com/hamzamsalah/retail_iri_prediction)
+
+* [Paper](https://github.com/hamzamsalah/retail_iri_prediction/blob/main/Salah_Project2_Paper.pdf)
+
+* [Notebook](https://github.com/hamzamsalah/retail_iri_prediction/blob/main/salah_project2_retail.ipynb)
 
 * [Dataset](https://kaggle.com/datasets/e464721e61fa8ce62c39b3012fe709bc61cedbd5f1f956cb65a1f97baa84ad77)
 
