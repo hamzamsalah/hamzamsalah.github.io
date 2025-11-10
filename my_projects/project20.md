@@ -52,6 +52,9 @@ Developed and validated a highly interpretable Logistic Regression model using d
   
 ### Key Visualizations
 
+![IRI Table]({{ site.baseurl }}/assets/retail_iri_cm.png)
+
+
 ![IRI Table]({{ site.baseurl }}/assets/retail_iri_table.png)
 
 ---
