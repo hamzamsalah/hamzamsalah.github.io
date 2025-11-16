@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Return Prediction in E-commerce: Modeling of Key Risks"
+title: Return Prediction in E-commerce: Modeling of Key Risks
 ---
 
 <div style="
@@ -13,29 +13,34 @@ title: "Return Prediction in E-commerce: Modeling of Key Risks"
   border-bottom: 1px solid black;
   margin-bottom: 1rem;
 ">
-    <div style="text-align: left; margin-bottom: 0.5rem;">
+  <div style="text-align: left; margin-bottom: 0.5rem;">
     <a href="/" class="back-link" style="color: #666; text-decoration: none;">
       ← Back to Portfolio
     </a>
   </div>
 
-    <h2 style="margin: 0;">
+  <h2 style="margin: 0;">
     Return Prediction in E-commerce: Modeling of Key Risks
   </h2>
 </div>
 
 ### **Project Overview**
 
-This project focused on modeling and predicting product returns in e-commerce, a problem estimated to cost the retail sector nearly $890 billion annually. Using a simulated dataset with intentional biases, the goal was to identify key risk factors and build a binary classification model to predict the target variable, *is\_returned*. The analysis utilized an interpretable Logistic Regression model trained with balanced class weights to enable proactive business intervention.
+This academic project focused on modeling and predicting product returns in e-commerce, a problem estimated to cost the retail sector nearly $890 billion annually. Using a simulated dataset with intentional biases, the goal was to identify key risk factors and build an interpretable binary classification model to predict the target variable, *is\_returned*. The analysis utilized a Logistic Regression model trained with balanced class weights to enable proactive business intervention and reduce costs associated with returns.
 
-#### **Key Insights and Model Performance**
+#### **Key Insights**
 
-* Dominant Predictors: The strongest predictive features identified were the Cash payment method and weekend orders (Friday, Saturday, Sunday). These factors significantly outweighed logistical and product-level factors.
-* Target Performance (Recall): The model achieved a respectable Recall (Sensitivity) of 60% for the minority class (Returns). This is the most valuable business outcome as it allows the business to correctly identify three out of every five future returns for pre-delivery intervention.
-* Model Weakness (Precision): The model’s overall Accuracy was 62%, but it suffered from low Precision (0.24) and a weak F1-score of 0.34 for the Returns class. This highlights a high proneness to False Positives.
-* Data Characteristics: The dataset contained 100k records and exhibited a severe class imbalance, with only 16% of records indicating a return. The Area Under the Curve (AUC) score was 0.70.
+* **Dominant Predictors:** The strongest predictive features identified were the **Cash payment method** and **weekend orders** (Friday, Saturday, Sunday). These non-logistical factors significantly outweighed product-level factors in predicting returns.
 
-### Visualizations
+* **Target Performance (Recall):** The model achieved a valuable **Recall (Sensitivity) of 60%** for the minority class (Returns). This high recall allows the business to correctly identify three out of every five potential returns for pre-delivery intervention.
+
+* **Model Trade-off:** The model suffered from low **Precision (0.24)** and a weak **F1-score of 0.34** for the Returns class, indicating a high rate of False Positives. Overall model **Accuracy was 62%**, and the **Area Under the Curve (AUC) score was 0.70**.
+
+* **Data Handling:** The dataset contained **100k records** and exhibited a severe class imbalance, with only **16%** of records indicating a return. The use of balanced class weights was critical for training, but the primary success metric was Recall.
+
+---
+
+### **Visualizations**
 
 ![Chart1]({{ site.baseurl }}/assets/purchased.png)
 
@@ -44,10 +49,19 @@ This project focused on modeling and predicting product returns in e-commerce, a
 
 ### **Business Recommendations**
 
-* Prioritize Interventions: Focus intervention efforts primarily on orders made using the Cash payment method and those placed on weekends. Interventions could include immediate pre-shipment quality checks or sending targeted confirmation communications.
-* Optimize Decision Threshold: To reduce the cost associated with False Positives, raise the decision threshold from 0.5 to 0.7 or 0.8. This increases the confidence (Precision) of those that are flagged.
-* Future Work: Future work should implement more advanced classification models (e.g., Gradient Boosting) and focus on engineering new features related to customer history (e.g., past return rate).
+* **Prioritize Interventions:** Focus intervention efforts primarily on orders made using the Cash payment method and those placed on weekends. Interventions could include immediate pre-shipment quality checks or targeted confirmation communications.
+* **Optimize Decision Threshold:** To strategically reduce the cost associated with False Positives, raise the classification decision threshold from the default 0.5 to 0.7 or 0.8. This increases the confidence (Precision) of flagged orders at the expense of Recall.
+* **Future Work:** Future modeling efforts should focus on implementing more advanced classifiers (e.g., Gradient Boosting) and engineering features related to customer history (e.g., past return rate).
 
+---
 ### **Code and Data**
 
-- [View Full Notebook on GitHub](https://github.com/your-github-link/return-prediction-ecommerce)
+* [View Full Notebook on GitHub](https://github.com/your-github-link/return-prediction-ecommerce)
+
+---
+### **Technologies Used**
+
+* **Python** (Pandas, NumPy)
+* **Scikit-learn** (Logistic Regression, evaluation metrics)
+* **Jupyter Notebook**
+* **Matplotlib, Seaborn**
