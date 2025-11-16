@@ -44,6 +44,10 @@ This academic project focused on modeling and predicting product returns in e-co
 ### **Visualizations**
 
 
+![Chart1]({{ site.baseurl }}/assets/purchased.png)
+
+![Chart2]({{ site.baseurl }}/assets/returns.png)
+
 
 ### **Business Recommendations**
 
@@ -54,7 +58,7 @@ This academic project focused on modeling and predicting product returns in e-co
 ---
 ### **Code and Data**
 
-* [View Full Notebook on GitHub](https://github.com/your-github-link/return-prediction-ecommerce)
+* [View Full Notebook on GitHub]()
 
 ---
 ### **Technologies Used**
