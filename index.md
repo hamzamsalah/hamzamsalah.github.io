@@ -23,8 +23,6 @@ Developed and evaluated a **Logistic Regression** model to predict product retur
 
 ---
 
----
-
 ### [Predictive Modeling of Retail Inventory Inaccuracy (IRI) for Audit Prioritization](my_projects/project20)
 
 [![](assets/shields/python.svg)](#)
