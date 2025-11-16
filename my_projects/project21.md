@@ -4,26 +4,25 @@ title: Return Prediction in E-commerce: Modeling of Key Risks
 ---
 
 <div style="
-  position: sticky;
-  top: 0;
-  background: white;
-  z-index: 1000;
-  padding: 0.5rem 1rem;
-  text-align: center;
-  border-bottom: 1px solid black;
-  margin-bottom: 1rem;
+  position: sticky;
+  top: 0;
+  background: white;
+  z-index: 1000;
+  padding: 0.5rem 1rem;
+  text-align: center;
+  border-bottom: 1px solid black;
+  margin-bottom: 1rem;
 ">
-  <div style="text-align: left; margin-bottom: 0.5rem;">
-    <a href="/" class="back-link" style="color: #666; text-decoration: none;">
-      ← Back to Portfolio
-    </a>
-  </div>
+  <div style="text-align: left; margin-bottom: 0.5rem;">
+    <a href="/" class="back-link" style="color: #666; text-decoration: none;">
+      ← Back to Portfolio
+    </a>
+  </div>
 
-  <h2 style="margin: 0;">
-    Return Prediction in E-commerce: Modeling of Key Risks
-  </h2>
+  <h2 style="margin: 0;">
+    Return Prediction in E-commerce: Modeling of Key Risks
+  </h2>
 </div>
-
 
 ### **Project Overview**
 
@@ -31,7 +30,7 @@ This academic project focused on modeling and predicting product returns in e-co
 
 #### **Key Insights**
 
-* **Dominant Predictors:** The strongest predictive features identified were the **Cash payment method** and **weekend orders** (Friday, Saturday, Sunday). These non-logistical factors significantly outweighed product-level factors in predicting returns.
+* **Dominant Predictors:** The strongest predictive features identified were the Cash payment method and weekend orders (Friday, Saturday, Sunday). These non-logistical factors significantly outweighed product-level factors in predicting returns.
 
 * **Target Performance (Recall):** The model achieved a valuable **Recall (Sensitivity) of 60%** for the minority class (Returns). This high recall allows the business to correctly identify three out of every five potential returns for pre-delivery intervention.
 
@@ -41,13 +40,13 @@ This academic project focused on modeling and predicting product returns in e-co
 
 ---
 
-### **Visualizations**
-
+### **Key Visualizations**
 
 ![Chart1]({{ site.baseurl }}/assets/purchased.png)
 
 ![Chart2]({{ site.baseurl }}/assets/returns.png)
 
+---
 
 ### **Business Recommendations**
 
@@ -58,7 +57,7 @@ This academic project focused on modeling and predicting product returns in e-co
 ---
 ### **Code and Data**
 
-* [View Full Notebook on GitHub]()
+* [View Full Notebook on GitHub](https://github.com/your-github-link/return-prediction-ecommerce)
 
 ---
 ### **Technologies Used**
