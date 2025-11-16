@@ -17,7 +17,7 @@ Click to explore key insights of real-world data projects.
 [![](assets/shields/matplotlib.svg)](#)
 [![](assets/shields/seaborn.svg)](#)
 
-[cite_start]Developed and evaluated a **Logistic Regression** model to predict product returns in e-commerce, addressing a problem costing nearly **\$890 billion annually**[cite: 12, 21]. [cite_start]The model achieved a valuable **Recall of 60%** for the minority class (Returns)[cite: 15, 115], enabling the business to proactively manage return risk. [cite_start]The strongest risk drivers identified were the **Cash payment method** and **weekend orders** (Friday, Saturday, Sunday)[cite: 16, 214].
+Developed and evaluated a **Logistic Regression** model to predict product returns in e-commerce, addressing a problem costing nearly **\$890 billion annually**. The model achieved a valuable **Recall of 60%** for the minority class (Returns), enabling the business to manage return risk proactively. The strongest risk drivers identified were the **Cash payment method** and **weekend orders** (Friday, Saturday, Sunday).
 
 <img src="assets/returns.png?raw=true" />
 
