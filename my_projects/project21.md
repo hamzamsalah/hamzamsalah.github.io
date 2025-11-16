@@ -4,24 +4,24 @@ title: Return Prediction in E-commerce: Modeling of Key Risks
 ---
 
 <div style="
-  position: sticky;
-  top: 0;
-  background: white;
-  z-index: 1000;
-  padding: 0.5rem 1rem;
-  text-align: center;
-  border-bottom: 1px solid black;
-  margin-bottom: 1rem;
+  position: sticky;
+  top: 0;
+  background: white;
+  z-index: 1000;
+  padding: 0.5rem 1rem;
+  text-align: center;
+  border-bottom: 1px solid black;
+  margin-bottom: 1rem;
 ">
-  <div style="text-align: left; margin-bottom: 0.5rem;">
-    <a href="/" class="back-link" style="color: #666; text-decoration: none;">
-      ← Back to Portfolio
-    </a>
-  </div>
+  <div style="text-align: left; margin-bottom: 0.5rem;">
+    <a href="/" class="back-link" style="color: #666; text-decoration: none;">
+      ← Back to Portfolio
+    </a>
+  </div>
 
-  <h2 style="margin: 0;">
-    Return Prediction in E-commerce: Modeling of Key Risks
-  </h2>
+  <h2 style="margin: 0;">
+        Return Prediction in E-commerce: Modeling of Key Risks
+  </h2>
 </div>
 
 ### Project Overview
