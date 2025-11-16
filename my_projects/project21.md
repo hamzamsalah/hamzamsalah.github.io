@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Return Prediction in E-commerce: Modeling of Key Risks
+title: Return Prediction in E-commerce Modeling of Key Risks
 ---
 
 <div style="
@@ -20,7 +20,7 @@ title: Return Prediction in E-commerce: Modeling of Key Risks
   </div>
 
   <h2 style="margin: 0;">
-    Return Prediction in E-commerce: Modeling of Key Risks
+    Return Prediction in E-commerce Modeling of Key Risks
   </h2>
 </div>
 
