@@ -6,6 +6,25 @@ Click to explore key insights of real-world data projects.
 <hr style="margin: 20px 0;">
 </div>
 
+
+### [Return Prediction in E-commerce: Modeling of Key Risks](my_projects/project\_return\_prediction)
+
+[![](assets/shields/python.svg)](#)
+[![](assets/shields/jupyter.svg)](#)
+[![](assets/shields/pandas.svg)](#)
+[![](assets/shields/scikit-learn.svg)](#)
+[![](assets/shields/logistic\_regression.svg)](#)
+[![](assets/shields/matplotlib.svg)](#)
+[![](assets/shields/seaborn.svg)](#)
+
+[cite_start]Developed and evaluated a **Logistic Regression** model to predict product returns in e-commerce, addressing a problem costing nearly **\$890 billion annually**[cite: 12, 21]. [cite_start]The model achieved a valuable **Recall of 60%** for the minority class (Returns)[cite: 15, 115], enabling the business to proactively manage return risk. [cite_start]The strongest risk drivers identified were the **Cash payment method** and **weekend orders** (Friday, Saturday, Sunday)[cite: 16, 214].
+
+<img src="assets/returns.png?raw=true" />
+
+---
+
+---
+
 ### [Predictive Modeling of Retail Inventory Inaccuracy (IRI) for Audit Prioritization](my_projects/project20)
 
 [![](assets/shields/python.svg)](#)
