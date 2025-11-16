@@ -35,6 +35,13 @@ This project focused on modeling and predicting product returns in e-commerce, a
 * Model Weakness (Precision): The model’s overall Accuracy was 62%, but it suffered from low Precision (0.24) and a weak F1-score of 0.34 for the Returns class. This highlights a high proneness to False Positives.
 * Data Characteristics: The dataset contained 100k records and exhibited a severe class imbalance, with only 16% of records indicating a return. The Area Under the Curve (AUC) score was 0.70.
 
+### Visualizations
+
+![Chart1]({{ site.baseurl }}/assets/purchased.png)
+
+![Chart2]({{ site.baseurl }}/assets/returns.png)
+
+
 ### **Business Recommendations**
 
 * Prioritize Interventions: Focus intervention efforts primarily on orders made using the Cash payment method and those placed on weekends. Interventions could include immediate pre-shipment quality checks or sending targeted confirmation communications.
