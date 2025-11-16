@@ -7,7 +7,7 @@ Click to explore key insights of real-world data projects.
 </div>
 
 
-### [Return Prediction in E-commerce: Modeling of Key Risks](my_projects/project\_return\_prediction)
+### [Return Prediction in E-commerce: Modeling of Key Risks](my_projects/project21)
 
 [![](assets/shields/python.svg)](#)
 [![](assets/shields/jupyter.svg)](#)
