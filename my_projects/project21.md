@@ -59,6 +59,8 @@ This academic project focused on modeling and predicting product returns in e-co
 
 * [View Full Notebook on GitHub](https://github.com/hamzamsalah/product_returns/blob/main/salah_project3.ipynb)
 
+* [Paper](https://github.com/hamzamsalah/product_returns/blob/main/salah_project3_final.pdf)
+
 ---
 ### **Technologies Used**
 
