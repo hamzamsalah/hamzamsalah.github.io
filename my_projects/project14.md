@@ -35,7 +35,7 @@ Patient-facing tool using CMS Hospital Compare data for informed choices.
 - Filters by condition/specialty.
 
 ### Code and Data
-- [View Dashboard on GitHub](https://github.com/hamzamsalah/cms-effective-care)  <!-- Update if available -->
+- [View Dashboard on Tableau](https://public.tableau.com/app/profile/hamzamsalah/viz/TimelyEffectiveCarebyHospitalinTheUnitedStatesDashboardCMS/TimelyEffectiveCarebyHospitalinTheUnitedStatesDashboardCMS)  <!-- Update if available -->
 - [Download Dataset](https://data.cms.gov/provider-data/dataset/yv7e-xc69)
 
 ### Dashboard
