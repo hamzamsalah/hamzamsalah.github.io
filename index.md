@@ -17,7 +17,7 @@ Click to explore key insights of real-world data projects.
 [![](assets/shields/matplotlib.svg)](#)
 [![](assets/shields/seaborn.svg)](#)
 
-Developed and evaluated a logistic Regression model to predict product returns in e-commerce. The model achieved a valuable Recall of 60% for the minority class (Returns), enabling the business to manage return risk proactively. The strongest risk drivers identified were the Cash payment method and weekend orders (Friday, Saturday, Sunday).
+**Developed and evaluated a logistic Regression model to predict product returns in e-commerce. The model achieved a valuable Recall of 60% for the minority class (Returns), enabling the business to manage return risk proactively. The strongest risk drivers identified were the Cash payment method and weekend orders (Friday, Saturday, Sunday).**
 
 <img src="assets/returns.png?raw=true" />
 
@@ -33,7 +33,7 @@ Developed and evaluated a logistic Regression model to predict product returns i
 [![](assets/shields/matplotlib.svg)](#)
 [![](assets/shields/seaborn.svg)](#)
 
-Developed a highly interpretable Logistic Regression classification model to forecast Inventory Record Inaccuracy (IRI) risk 24 hours ahead, validating its ability to eliminate wasteful audits. The model achieved an F1-Score of 0.83 on the positive class, enabling the immediate implementation of a Risk-Based Cycle Counting strategy by prioritizing a high-accuracy Suspect List.
+**Developed a highly interpretable Logistic Regression classification model to forecast Inventory Record Inaccuracy (IRI) risk 24 hours ahead, validating its ability to eliminate wasteful audits. The model achieved an F1-Score of 0.83 on the positive class, enabling the immediate implementation of a Risk-Based Cycle Counting strategy by prioritizing a high-accuracy Suspect List.**
 
 <img src="assets/retail_iri_table.png?raw=true" />
 
@@ -49,7 +49,7 @@ Developed a highly interpretable Logistic Regression classification model to for
 [![](assets/shields/matplotlib.svg)](#)
 [![](assets/shields/seaborn.svg)](#)
 
-Forecasted retail product demand using ARIMA, Auto ARIMA, and SARIMAX models to identify seasonal and promotional trends. Achieving a low RMSE to help with optimizing inventory management, reducing overstocking, and improving retail profitability.
+**Forecasted retail product demand using ARIMA, Auto ARIMA, and SARIMAX models to identify seasonal and promotional trends. Achieving a low RMSE to help with optimizing inventory management, reducing overstocking, and improving retail profitability.**
 
 <img src="assets/retail_forecast_plot.png?raw=true" />
 
@@ -65,7 +65,7 @@ Forecasted retail product demand using ARIMA, Auto ARIMA, and SARIMAX models to 
 [![](assets/shields/matplotlib.svg)](#)
 [![](assets/shields/statsmodels.svg)](#)
 
-This project analyzes NBA schedules to identify dense stretches (e.g., back-to-backs, 4-in-6s), ranks their difficulty, examines patterns, and models their impact on performance.
+**This project analyzes NBA schedules to identify dense stretches (e.g., back-to-backs, 4-in-6s), ranks their difficulty, examines patterns, and models their impact on performance.**
 
 <img src="assets/stretch_graph.png?raw=true" />
 
@@ -81,7 +81,7 @@ This project analyzes NBA schedules to identify dense stretches (e.g., back-to-b
 [![](assets/shields/matplotlib.svg)](#)
 [![](assets/shields/seaborn.svg)](#)
 
-Forecasted Tennessee electricity demand for 2025 using SARIMAX, ARIMA, and regression models, uncovering sector-specific consumption trends and achieving up to 97% forecast accuracy to support utility planning and energy efficiency.
+**Forecasted Tennessee electricity demand for 2025 using SARIMAX, ARIMA, and regression models, uncovering sector-specific consumption trends and achieving up to 97% forecast accuracy to support utility planning and energy efficiency.**
 
 <img src="assets/combined_sector_forecast.png?raw=true" />
 
@@ -96,7 +96,7 @@ Forecasted Tennessee electricity demand for 2025 using SARIMAX, ARIMA, and regre
 [![](assets/shields/wordcloud.svg)](#)
 [![](assets/shields/matplotlib.svg)](#)
 
-Analyzed Amazon product reviews using NLP techniques. Preprocessed review text, extracted features, and applied ML models to classify reviews as positive or negative. Evaluated performance and visualized insights about customer sentiment and product quality.
+**Analyzed Amazon product reviews using NLP techniques. Preprocessed review text, extracted features, and applied ML models to classify reviews as positive or negative. Evaluated performance and visualized insights about customer sentiment and product quality.**
 
 ---
 
@@ -108,7 +108,7 @@ Analyzed Amazon product reviews using NLP techniques. Preprocessed review text, 
 [![](assets/shields/scikit-learn.svg)](#)
 [![](assets/shields/matplotlib.svg)](#)
 
-Forecasted monthly US retail sales (1992–2021) using an ARIMA model to predict post-COVID-19 trends. Identified pandemic-related dips and recovery patterns, providing insights for retail planning. Achieved an RMSE of $52,207.
+**Forecasted monthly US retail sales (1992–2021) using an ARIMA model to predict post-COVID-19 trends. Identified pandemic-related dips and recovery patterns, providing insights for retail planning. Achieved an RMSE of $52,207.**
 
 ---
 
@@ -117,7 +117,7 @@ Forecasted monthly US retail sales (1992–2021) using an ARIMA model to predict
 [![](assets/shields/powerbi.svg)](#)
 [![](assets/shields/excel.svg)](#)
 
-Visualized national data to examine the impact of childcare costs on mothers' workforce participation. Highlighted gender disparities in earnings, unemployment, and job types. Provided recommendations for policy reforms and employer support programs.
+**Visualized national data to examine the impact of childcare costs on mothers' workforce participation. Highlighted gender disparities in earnings, unemployment, and job types. Provided recommendations for policy reforms and employer support programs.**
 
 <img src="assets/median_earnings.png?raw=true" />
 
@@ -127,7 +127,7 @@ Visualized national data to examine the impact of childcare costs on mothers' wo
 
 [![](assets/shields/mysql.svg)](#)
 
-Designed and implemented a relational database using MySQL to manage COVID-19 data for hospitals, including a user interface for staff.
+**Designed and implemented a relational database using MySQL to manage COVID-19 data for hospitals, including a user interface for staff.**
 
 <img src="assets/database_hospital.gif?raw=true" />
 
@@ -143,7 +143,7 @@ Designed and implemented a relational database using MySQL to manage COVID-19 da
 [![](assets/shields/matplotlib.svg)](#)
 [![](assets/shields/seaborn.svg)](#)
 
-Analyzed Los Angeles Dodgers 2022 game data to identify factors influencing attendance, such as promotions, weather, and day of the week. Applied EDA, correlation analysis, and linear regression to quantify the impact of giveaways (bobbleheads increased attendance by ~14,944 fans).
+**Analyzed Los Angeles Dodgers 2022 game data to identify factors influencing attendance, such as promotions, weather, and day of the week. Applied EDA, correlation analysis, and linear regression to quantify the impact of giveaways (bobbleheads increased attendance by ~14,944 fans).**
 
 ---
 
@@ -151,7 +151,7 @@ Analyzed Los Angeles Dodgers 2022 game data to identify factors influencing atte
 
 [![](assets/shields/excel.svg)](#)
 
-Implemented an Excel-based system with dashboards to highlight area performance. Achieved a 10% improvement in sorting efficiency, processing over 262,000 items per shift.
+**Implemented an Excel-based system with dashboards to highlight area performance. Achieved a 10% improvement in sorting efficiency, processing over 262,000 items per shift.**
 
 <img src="assets/amaz_dash.png?raw=true" />
 
@@ -162,7 +162,7 @@ Implemented an Excel-based system with dashboards to highlight area performance.
 [![](assets/shields/python.svg)](#)
 [![](assets/shields/api.svg)](#)
 
-Developed a Python program for weather lookup by zip code or city, utilizing the OpenWeatherMap API.
+**Developed a Python program for weather lookup by zip code or city, utilizing the OpenWeatherMap API.**
 
 ---
 
@@ -171,7 +171,7 @@ Developed a Python program for weather lookup by zip code or city, utilizing the
 [![](assets/shields/excel.svg)](#)
 [![](assets/shields/tableau.svg)](#)
 
-Built an interactive Tableau dashboard using Zillow data to track single-family home values in Tennessee. The dashboard highlights trends over time, county-level comparisons, and growth rates, allowing users to explore how values have shifted across the state. Interactive filters let viewers focus on specific counties and time periods for deeper analysis.
+**Built an interactive Tableau dashboard using Zillow data to track single-family home values in Tennessee. The dashboard highlights trends over time, county-level comparisons, and growth rates, allowing users to explore how values have shifted across the state. Interactive filters let viewers focus on specific counties and time periods for deeper analysis.**
 
 <img src="assets/zillow.png?raw=true" />
 
@@ -182,7 +182,7 @@ Built an interactive Tableau dashboard using Zillow data to track single-family 
 [![](assets/shields/excel.svg)](#)
 [![](assets/shields/tableau.svg)](#)
 
-Analyzed data from Open University, identifying correlations between GPA and demographics using Tableau.
+**Analyzed data from Open University, identifying correlations between GPA and demographics using Tableau.**
 
 <img src="assets/gpa1.png?raw=true" />
 
@@ -192,7 +192,7 @@ Analyzed data from Open University, identifying correlations between GPA and dem
 
 [![](assets/shields/powerbi.svg)](#)
 
-Built a Power BI dashboard to track TSA Complaints in the US.
+**Built a Power BI dashboard to track TSA Complaints in the US.**
 
 ---
 
@@ -200,7 +200,7 @@ Built a Power BI dashboard to track TSA Complaints in the US.
 
 [![](assets/shields/powerbi.svg)](#)
 
-Built a Power BI dashboard to track sales and performance of concessions at baseball games, optimizing inventory and pricing strategies.
+**Built a Power BI dashboard to track sales and performance of concessions at baseball games, optimizing inventory and pricing strategies.**
 
 --- 
 
@@ -208,7 +208,7 @@ Built a Power BI dashboard to track sales and performance of concessions at base
 
 [![](assets/shields/powerbi.svg)](#)
 
-Designed a Power BI sales dashboard to monitor KPIs, sales trends, and regional performance for effective decision-making.
+**Designed a Power BI sales dashboard to monitor KPIs, sales trends, and regional performance for effective decision-making.**
 
 ---
 
@@ -217,7 +217,7 @@ Designed a Power BI sales dashboard to monitor KPIs, sales trends, and regional 
 [![](assets/shields/excel.svg)](#)
 [![](assets/shields/tableau.svg)](#)
 
-Utilized Excel and Tableau to uncover a 13% increase in US mass shootings during COVID-19.
+**Utilized Excel and Tableau to uncover a 13% increase in US mass shootings during COVID-19.**
 
 <img src="assets/shoot_dashboard.png?raw=true" />
 
@@ -227,7 +227,7 @@ Utilized Excel and Tableau to uncover a 13% increase in US mass shootings during
 
 [![](assets/shields/tableau.svg)](#)
 
-Developed a Tableau dashboard visualizing COVID-19 cases, deaths, and testing data from sources like WHO and CDC.
+**Developed a Tableau dashboard visualizing COVID-19 cases, deaths, and testing data from sources like WHO and CDC.**
 
 <img src="assets/covid_dash.png?raw=true" />
 
@@ -237,7 +237,7 @@ Developed a Tableau dashboard visualizing COVID-19 cases, deaths, and testing da
 
 [![](assets/shields/tableau.svg)](#)
 
-Created a Tableau dashboard for CMS data to help patients choose the best hospital based on quality of care metrics.
+**Created a Tableau dashboard for CMS data to help patients choose the best hospital based on quality of care metrics.**
 
 <img src="assets/effective_care_dash.png?raw=true" />
 
