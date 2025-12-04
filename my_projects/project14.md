@@ -38,7 +38,7 @@ Patient-facing tool using CMS Hospital Compare data for informed choices.
 - [View Dashboard on Tableau](https://public.tableau.com/app/profile/hamzamsalah/viz/TimelyEffectiveCarebyHospitalinTheUnitedStatesDashboardCMS/TimelyEffectiveCarebyHospitalinTheUnitedStatesDashboardCMS)  <!-- Update if available -->
 - [Download Dataset](https://data.cms.gov/provider-data/dataset/yv7e-xc69)
 
-### Dashboard
+### Dashboard Screenshot
 ![Effective Care Dashboard]({{ site.baseurl }}/assets/effective_care_dash.png)
 
 ### Technologies Used
