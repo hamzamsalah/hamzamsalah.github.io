@@ -34,11 +34,10 @@ Real-time visualization of global COVID metrics for public health monitoring.
 - Vaccination correlated with case drops.
 - Interactive filters by region/date.
 
-### Code and Data
-- [View Dashboard on GitHub](https://github.com/hamzamsalah/covid-tracker-tableau)  <!-- Update if available -->
-- [Download Dataset](https://github.com/nytimes/covid-19-data)
-
 ### Dashboard
+- [View Dashboard on Tableau](https://public.tableau.com/app/profile/hamzamsalah/viz/GlobalCOVID-19CaseTracker/Covid-19CaseTracker)
+
+### Dashboard Screenshot
 ![COVID Dashboard]({{ site.baseurl }}/assets/covid_dash.png)
 
 ### Technologies Used
