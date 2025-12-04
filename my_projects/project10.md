@@ -34,12 +34,11 @@ Analytics tool for stadium concessions, focusing on sales trends and optimizatio
 - Beverages account for 60% revenue.
 - Dynamic pricing recommendations boost margins.
 
-### Code and Data
-- [View Dashboard](https://1drv.ms/b/s!Aon19ecNhTKCgbV3dBp83UAYVuoJ1Q?e=H5230v)
+### Data
 - [PBIX File](https://1drv.ms/u/s!Aon19ecNhTKCgbV1IqDZlEuzG5nALQ?e=B9U4pA)
-- [GitHub Repo](https://github.com/hamzamsalah/baseball-concessions)  <!-- Update if available -->
 
 ### Visualizations
+- [View Dashboard](https://1drv.ms/b/s!Aon19ecNhTKCgbV3dBp83UAYVuoJ1Q?e=H5230v)
 
 ### Technologies Used
 - Power BI
