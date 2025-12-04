@@ -33,11 +33,10 @@ Completed during my Data Analyst Fellowship, this project analyzed U.S. mass sho
 - Geographic hotspots in urban areas.
 - Calls for mental health policy focus.
 
-### Code and Data
-- [View Analysis on GitHub](https://github.com/hamzamsalah/us-mass-shootings)  <!-- Update if available -->
-- [Download Dataset](https://example.com/mass_shootings.csv)
-
 ### Dashboard
+- [View Dashboard on Tableau](https://public.tableau.com/app/profile/hamzamsalah/viz/ShootingsBreakdownintheUS2014-2022/Summary)
+
+### Dashboard Screenshot
 ![Shootings Dashboard]({{ site.baseurl }}/assets/shoot_dashboard.png)
 
 ### Technologies Used
