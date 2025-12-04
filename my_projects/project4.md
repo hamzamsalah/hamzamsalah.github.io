@@ -35,7 +35,7 @@ This visualization project explores socioeconomic barriers for working mothers u
 - Policy recommendations include subsidies and flexible work options.
 
 ## Code and Data
-- [View Dashboard on GitHub](https://github.com/hamzamsalah/bridge-the-gap?tab=readme-ov-file#empowering-mothers-bridging-the-gap-to-professional-success)  
+- [View Repo](https://github.com/hamzamsalah/bridge-the-gap?tab=readme-ov-file#empowering-mothers-bridging-the-gap-to-professional-success)  
 - [Download Dataset](https://www.dol.gov/agencies/wb/topics/featured-childcare)
 
 ## Visualizations
