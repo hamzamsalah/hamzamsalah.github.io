@@ -34,13 +34,6 @@ This course project uses regression analysis to identify factors that increase M
 - Weather impacts: rain reduces crowds by ~10%.  
 - Weekends see ~20% higher turnout.
 
-## Code and Data
-- [View Full Notebook on GitHub](https://github.com/hamzamsalah/dsc630-mlb-attendance)  
-- [Download Dataset](https://example.com/dodgers_2022.csv)
-
-## Visualizations
-![MLB Attendance Trends]({{ site.baseurl }}/assets/mlb_attendance_trends.png)
-
 ## Technologies Used
 - Python (Pandas, NumPy, Scikit-learn)  
 - Jupyter Notebook  
