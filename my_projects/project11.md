@@ -34,12 +34,12 @@ Comprehensive BI tool for retail sales tracking and forecasting.
 - YoY growth: 12%.
 - Low performers flagged for intervention.
 
-### Code and Data
-- [View Dashboard](https://1drv.ms/b/s!Aon19ecNhTKCgbV20rEKJWOOHrFJWQ?e=P2fepE)
+### Data
 - [PBIX File](https://1drv.ms/u/s!Aon19ecNhTKCgbV0q8GDJZefIUDHEw?e=f07fRR)
-- [GitHub Repo](https://github.com/hamzamsalah/store-sales-dashboard)  <!-- Update if available -->
+
 
 ### Visualizations
+- [View Dashboard](https://1drv.ms/b/s!Aon19ecNhTKCgbV20rEKJWOOHrFJWQ?e=P2fepE)
 
 ### Technologies Used
 - Power BI
