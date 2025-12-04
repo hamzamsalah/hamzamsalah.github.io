@@ -33,6 +33,3 @@ This academic project applies time series forecasting to historical US retail sa
 - ARIMA model captured post-2020 recovery trends.  
 - Seasonal patterns showed predictable holiday spikes.  
 - RMSE indicates reliable short-term predictions for retail planning.
-
-### Code and Data
-- [View Full Notebook on GitHub](https://github.com/hamzamsalah/dsc630-us-retail-sales) 
