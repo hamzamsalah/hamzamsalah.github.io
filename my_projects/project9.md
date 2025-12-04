@@ -33,12 +33,11 @@ Interactive dashboard for monitoring TSA traveler complaints by category and loc
 - Regional trends show airport-specific issues.
 - Time-series views reveal seasonal spikes.
 
-### Code and Data
-- [View Dashboard](https://1drv.ms/b/c/8232850de7f5f589/ESPpzVVPixdFihRHDNWBOhABzqXMPMurhiZHJnLCG5iLAg?e=vBAqzX)
+### Data
 - [PBIX File](https://1drv.ms/u/c/8232850de7f5f589/EXUyE0Ey2nlPqeCvx5i56IsBPWECKbIcLeAXn_mtwZiYjg?e=HHIfsX)
-- [GitHub Repo](https://github.com/hamzamsalah/tsa-complaints)  <!-- Update if available -->
 
 ### Visualizations
+- [View Dashboard](https://1drv.ms/b/c/8232850de7f5f589/ESPpzVVPixdFihRHDNWBOhABzqXMPMurhiZHJnLCG5iLAg?e=vBAqzX)
 
 ### Technologies Used
 - Power BI
