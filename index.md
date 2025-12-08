@@ -17,7 +17,7 @@ Click to explore key insights of real-world data projects.
 [![](assets/shields/matplotlib.svg)](#)
 [![](assets/shields/seaborn.svg)](#)
 
-**Architected a predictive classification framework to forecast Inventory Record Inaccuracy (IRI) risk, utilizing a custom Monte Carlo simulation to model complex retail dynamics. The resulting Logistic Regression model achieved an F1-Score of 0.83 within this Digital Twin environment, validating a Risk-Based Cycle Counting strategy that prioritizes high-accuracy Suspect Lists to eliminate wasteful manual audits.**
+**Developed and evaluated a logistic Regression model to predict product returns in e-commerce. The model achieved a valuable Recall of 60% for the minority class (Returns), enabling the business to manage return risk proactively. The strongest risk drivers identified were the Cash payment method and weekend orders (Friday, Saturday, Sunday).**
 
 <img src="assets/returns.png?raw=true" />
 
@@ -33,7 +33,7 @@ Click to explore key insights of real-world data projects.
 [![](assets/shields/matplotlib.svg)](#)
 [![](assets/shields/seaborn.svg)](#)
 
-**Developed a highly interpretable Logistic Regression classification model to forecast Inventory Record Inaccuracy (IRI) risk 24 hours ahead, validating its ability to eliminate wasteful audits. The model achieved an F1-Score of 0.83 on the positive class, enabling the immediate implementation of a Risk-Based Cycle Counting strategy by prioritizing a high-accuracy Suspect List.**
+**Architected a predictive classification framework to forecast Inventory Record Inaccuracy (IRI) risk, utilizing a custom Monte Carlo simulation to model complex retail dynamics. The resulting Logistic Regression model achieved an F1-Score of 0.83 within this Digital Twin environment, validating a Risk-Based Cycle Counting strategy that prioritizes high-accuracy Suspect Lists to eliminate wasteful manual audits.**
 
 <img src="assets/retail_iri_table.png?raw=true" />
 
