@@ -26,17 +26,17 @@ title: Retail Inventory Record Inaccuracy (IRI) Detection
 
 ### Project Overview
 
-Developed and validated a highly interpretable Logistic Regression model using daily transactional flow data to proactively forecast the binary risk of Inventory Record Inaccuracy (IRI) at the Store-SKU level 24 hours ahead. This approach enables a strategic shift to Risk-Based Cycle Counting, effectively eliminating the labor waste associated with untargeted audits and minimizing lost sales from Phantom Stockouts.
+Architected a predictive framework to forecast Inventory Record Inaccuracy (IRI) risk 24 hours ahead, utilizing a custom **Monte Carlo simulation** to act as a "Digital Twin" of a retail supply chain. By modeling complex operational dynamics—including seasonality, probabilistic shrinkage, and phantom stockouts—I generated a robust dataset to train a highly interpretable Logistic Regression model. This project validates a strategic shift to Risk-Based Cycle Counting, demonstrating how predictive modeling can eliminate labor waste and minimize lost sales within a simulated retail environment.
 
 #### Key Insights
 
-* **Primary Predictor:** Low stock status (`In_stock_t`) is the strongest indicator of imminent IRI risk, showing a substantial negative correlation of -0.63 with the target variable.
+* **Primary Predictor:** Low stock status (`In_stock_t`) was identified as the strongest indicator of imminent IRI risk within the simulation, showing a substantial negative correlation of -0.63 with the target variable.
 
-* **Model Performance:** The final model achieved an F1-Score of 0.83 on the critical positive risk class (exceeding the 0.70 target) and demonstrated excellent discriminatory power with an AUC of 0.92.
+* **Model Performance:** The model achieved an F1-Score of 0.83 on the critical positive risk class (exceeding the 0.70 target) and demonstrated excellent discriminatory power with an AUC of 0.92 on the held-out validation set.
 
-* **Operational Impact:** The model successfully generated a daily High-Risk Suspect List, which was validated to have an 80% confirmed accuracy rate for actual IRI cases, directly optimizing audit labor and ensuring resources are focused on high-value corrections.
+* **Operational Impact:** A "Virtual Audit" conducted on the model's predictions confirmed an 80% success rate in identifying discrepancies. This validates that a high-accuracy Suspect List can effectively optimize labor by focusing resources exclusively on high-probability errors.
 
-* **Data Handling:** Class imbalance (38% IRI cases) was managed by prioritizing evaluation strictly on the F1-Score of the minority risk class.
+* **Data Handling:** Class imbalance (38% IRI cases) was managed effectively without oversampling, prioritizing evaluation strictly on the F1-Score of the minority risk class.
 
 ---
 ### Code and Data
@@ -52,14 +52,15 @@ Developed and validated a highly interpretable Logistic Regression model using d
   
 ### Key Visualizations
 
-![IRI Table]({{ site.baseurl }}/assets/retail_iri_cm.png)
+![IRI Confusion Matrix]({{ site.baseurl }}/assets/retail_iri_cm.png)
 
 
-![IRI Table]({{ site.baseurl }}/assets/retail_iri_table.png)
+![IRI Feature Table]({{ site.baseurl }}/assets/retail_iri_table.png)
 
 ---
 ### Technologies Used
 * **Python** (Pandas, NumPy)
+* **Monte Carlo Simulation Strategy**
 * **Scikit-learn** (Logistic Regression, OneHotEncoder)
 * **Jupyter Notebook**
 * **Matplotlib, Seaborn**
