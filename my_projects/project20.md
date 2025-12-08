@@ -26,8 +26,7 @@ title: Retail Inventory Record Inaccuracy (IRI) Detection
 
 ### Project Overview
 
-Architected a predictive framework to forecast Inventory Record Inaccuracy (IRI) risk 24 hours ahead, utilizing a custom **Monte Carlo simulation** to act as a "Digital Twin" of a retail supply chain. By modeling complex operational dynamics, including seasonality, probabilistic shrinkage, and phantom stockouts. I generated a robust dataset to train a highly interpretable Logistic Regression model. This project validates a strategic shift to Risk-Based Cycle Counting, demonstrating how predictive modeling can eliminate labor waste and minimize lost sales within a simulated retail environment.
-
+Developed a predictive model to identify high-risk inventory items 24 hours in advance. Lacking access to sensitive corporate data, I utilized Python to engineer a synthetic dataset that mimics real-world retail dynamics, including seasonal demand and random inventory errors. I then trained a Logistic Regression classifier on this data, achieving an F1-Score of 0.83. This project demonstrates the end-to-end data science process: from programmatic data generation to model evaluation and interpretation.
 #### Key Insights
 
 * **Primary Predictor:** Low stock status (`In_stock_t`) was identified as the strongest indicator of imminent IRI risk within the simulation, showing a substantial negative correlation of -0.63 with the target variable.
@@ -59,8 +58,7 @@ Architected a predictive framework to forecast Inventory Record Inaccuracy (IRI)
 
 ---
 ### Technologies Used
-* **Python** (Pandas, NumPy)
-* **Monte Carlo Simulation Strategy**
+* **Python** (Pandas, NumPy for simulation)
 * **Scikit-learn** (Logistic Regression, OneHotEncoder)
 * **Jupyter Notebook**
 * **Matplotlib, Seaborn**
