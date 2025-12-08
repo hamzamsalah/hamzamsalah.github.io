@@ -17,7 +17,7 @@ Click to explore key insights of real-world data projects.
 [![](assets/shields/matplotlib.svg)](#)
 [![](assets/shields/seaborn.svg)](#)
 
-**Developed and evaluated a logistic Regression model to predict product returns in e-commerce. The model achieved a valuable Recall of 60% for the minority class (Returns), enabling the business to manage return risk proactively. The strongest risk drivers identified were the Cash payment method and weekend orders (Friday, Saturday, Sunday).**
+**Architected a predictive classification framework to forecast Inventory Record Inaccuracy (IRI) risk, utilizing a custom Monte Carlo simulation to model complex retail dynamics. The resulting Logistic Regression model achieved an F1-Score of 0.83 within this Digital Twin environment, validating a Risk-Based Cycle Counting strategy that prioritizes high-accuracy Suspect Lists to eliminate wasteful manual audits.**
 
 <img src="assets/returns.png?raw=true" />
 
