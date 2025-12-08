@@ -33,7 +33,7 @@ Click to explore key insights of real-world data projects.
 [![](assets/shields/matplotlib.svg)](#)
 [![](assets/shields/seaborn.svg)](#)
 
-**Architected a predictive classification framework to forecast Inventory Record Inaccuracy (IRI) risk, utilizing a custom Monte Carlo simulation to model complex retail dynamics. The resulting Logistic Regression model achieved an F1-Score of 0.83 within this Digital Twin environment, validating a Risk-Based Cycle Counting strategy that prioritizes high-accuracy Suspect Lists to eliminate wasteful manual audits.**
+**Developed a Logistic Regression model to forecast Inventory Record Inaccuracy (IRI) risk. To address data privacy constraints, I wrote a Python script using Monte Carlo methods to generate a robust synthetic dataset modeling retail seasonality and shrinkage. The model achieved an F1-Score of 0.83 on this dataset, demonstrating how predictive analytics can prioritize audit workflows.**
 
 <img src="assets/retail_iri_table.png?raw=true" />
 
