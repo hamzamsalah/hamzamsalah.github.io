@@ -26,7 +26,7 @@ title: Retail Inventory Record Inaccuracy (IRI) Detection
 
 ### Project Overview
 
-Architected a predictive framework to forecast Inventory Record Inaccuracy (IRI) risk 24 hours ahead, utilizing a custom **Monte Carlo simulation** to act as a "Digital Twin" of a retail supply chain. By modeling complex operational dynamics—including seasonality, probabilistic shrinkage, and phantom stockouts. I generated a robust dataset to train a highly interpretable Logistic Regression model. This project validates a strategic shift to Risk-Based Cycle Counting, demonstrating how predictive modeling can eliminate labor waste and minimize lost sales within a simulated retail environment.
+Architected a predictive framework to forecast Inventory Record Inaccuracy (IRI) risk 24 hours ahead, utilizing a custom **Monte Carlo simulation** to act as a "Digital Twin" of a retail supply chain. By modeling complex operational dynamics, including seasonality, probabilistic shrinkage, and phantom stockouts. I generated a robust dataset to train a highly interpretable Logistic Regression model. This project validates a strategic shift to Risk-Based Cycle Counting, demonstrating how predictive modeling can eliminate labor waste and minimize lost sales within a simulated retail environment.
 
 #### Key Insights
 
