@@ -26,7 +26,8 @@ title: Retail Inventory Record Inaccuracy (IRI) Detection
 
 ### Project Overview
 
-Developed a predictive model to identify high-risk inventory items 24 hours in advance. Lacking access to sensitive corporate data, I utilized Python to engineer a synthetic dataset that mimics real-world retail dynamics, including seasonal demand and random inventory errors. I then trained a Logistic Regression classifier on this data, achieving an F1-Score of 0.83. This project demonstrates the end-to-end data science process: from programmatic data generation to model evaluation and interpretation.
+Developed a predictive model to identify high-risk inventory items 24 hours in advance. Lacking access to realistic data, I utilized Python to engineer a synthetic dataset that mimics real-world retail dynamics, including seasonal demand and random inventory errors. I then trained a Logistic Regression classifier on this data, achieving an F1-Score of 0.83.
+
 #### Key Insights
 
 * **Primary Predictor:** Low stock status (`In_stock_t`) was identified as the strongest indicator of imminent IRI risk within the simulation, showing a substantial negative correlation of -0.63 with the target variable.
