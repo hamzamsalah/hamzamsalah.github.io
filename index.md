@@ -214,6 +214,7 @@ Click to explore key insights of real-world data projects.
 
 ### [U.S. Public Safety Trend Analysis](my_projects/project12)
 
+
 [![](assets/shields/excel.svg)](#)
 [![](assets/shields/tableau.svg)](#)
 
