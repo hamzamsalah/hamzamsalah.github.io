@@ -212,12 +212,12 @@ Click to explore key insights of real-world data projects.
 
 ---
 
-### [US Mass Shootings Analysis](my_projects/project12)
+### [U.S. Public Safety Trend Analysis](my_projects/project12)
 
 [![](assets/shields/excel.svg)](#)
 [![](assets/shields/tableau.svg)](#)
 
-**Utilized Excel and Tableau to uncover a 13% increase in US mass shootings during COVID-19.**
+**Uncovered a 13% rise in incidents linked to lockdown stressors and visualized geographic hotspots in urban areas using Tableau to support policy recommendations.**
 
 <img src="assets/shoot_dashboard.png?raw=true" />
 
