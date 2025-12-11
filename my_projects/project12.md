@@ -34,7 +34,7 @@ Completed during my Data Analyst Fellowship, this project analyzed U.S. mass sho
 - Calls for mental health policy focus.
 
 ### Dashboard
-- [View Dashboard on Tableau](https://public.tableau.com/app/profile/hamzamsalah/viz/ShootingsBreakdownintheUS2014-2022/Summary)
+- [View Dashboard on Tableau](https://public.tableau.com/app/profile/hamzamsalah/viz/U_S_PublicSafetyTrendAnalysis/Summary)
 
 ### Dashboard Screenshot
 ![Shootings Dashboard]({{ site.baseurl }}/assets/shoot_dashboard.png)
