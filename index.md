@@ -33,7 +33,7 @@ Click to explore key insights of real-world data projects.
 [![](assets/shields/matplotlib.svg)](#)
 [![](assets/shields/seaborn.svg)](#)
 
-**Developed a Logistic Regression model to forecast Inventory Record Inaccuracy (IRI) risk. To address data privacy constraints, I utilized GEN AI to write a Python script using Monte Carlo methods to generate a robust synthetic dataset modeling retail seasonality and shrinkage. The model achieved an F1-Score of 0.83 on this dataset, demonstrating how predictive analytics can prioritize audit workflows.**
+**Developed a Logistic Regression model to forecast Inventory Record Inaccuracy (IRI) risk. The model achieved an F1-Score of 0.83 on this dataset, demonstrating how predictive analytics can prioritize audit workflows.**
 
 <img src="assets/retail_iri_table.png?raw=true" />
 
