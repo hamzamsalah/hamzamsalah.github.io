@@ -26,7 +26,7 @@ title: U.S. Public Safety Trend Analysis
   </h2>
 </div>
 ### Project Overview
-Completed during my Data Analyst Fellowship, this project analyzed U.S. mass shootings and revealed pandemic-related shifts in frequency, location, and impact, providing data-driven insights into emerging trends in gun violence.
+Completed during my Data Analyst Fellowship, this project analyzed U.S. Public Safety Trends, revealing pandemic-related shifts in frequency, location, and impact, providing data-driven insights into emerging trends in gun violence.
 
 #### Key Insights
 - 13% rise linked to lockdown stressors.
