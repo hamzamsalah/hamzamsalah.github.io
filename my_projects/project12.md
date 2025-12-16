@@ -1,6 +1,6 @@
 ---
 layout: default
-title: US Mass Shootings Analysis
+title: U.S. Public Safety Trend Analysis
 ---
 
 <div style="
@@ -22,7 +22,7 @@ title: US Mass Shootings Analysis
 
   <!-- Title (below) -->
   <h2 style="margin: 0;">
-    US Mass Shootings Analysis
+    U.S. Public Safety Trend Analysis
   </h2>
 </div>
 ### Project Overview
