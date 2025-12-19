@@ -165,7 +165,7 @@ Click to explore key insights of real-world data projects.
 
 ---
 
-### [BI & Visualization Suite](my_projects/project15)
+### BI & Visualization Suite
 
 [![](assets/shields/tableau.svg)](#)
 [![](assets/shields/powerbi.svg)](#)
@@ -173,14 +173,14 @@ Click to explore key insights of real-world data projects.
 
 **A collection of interactive dashboards built with Tableau and Power BI to derive insights across various domains including Real Estate, Public Safety, Healthcare, and Retail.**
 
-* **Tennessee Home Values (Tableau)**: Built an interactive dashboard using Zillow data to track single-family home values in Tennessee, highlighting trends and county-level growth rates. <br> <img src="assets/zillow.png?raw=true" />
-* **U.S. Public Safety Trend Analysis (Tableau)**: Visualized geographic hotspots in urban areas and uncovered incident trends linked to lockdown stressors. <br> <img src="assets/shoot_dashboard.png?raw=true" />
-* **Covid Case Tracker (Tableau)**: Visualized global COVID-19 cases, deaths, and testing data. <br> <img src="assets/covid_dash.png?raw=true" />
-* **Timely & Effective Care (Tableau)**: Created a dashboard for CMS data to help patients choose hospitals based on quality of care metrics. <br> <img src="assets/effective_care_dash.png?raw=true" />
-* **Additional Projects:**
-    * **TSA Complaints Analysis (Power BI)**
-    * **Concession Baseball Sales Dashboard (Power BI)**
-    * **Store Sales Dashboard (Power BI)**
-    * **Open University Demographics Analysis (Tableau)**
+* **[Tennessee Home Values Dashboard (Tableau)](my_projects/project15)**: Tracks single-family home values in Tennessee, highlighting trends and county-level growth rates. <br> <img src="assets/zillow.png?raw=true" />
+* **[U.S. Public Safety Trend Analysis (Tableau)](my_projects/project12)**: Visualized geographic hotspots in urban areas and uncovered incident trends linked to lockdown stressors. <br> <img src="assets/shoot_dashboard.png?raw=true" />
+* **[Covid Case Tracker (Tableau)](my_projects/project13)**: Visualized global COVID-19 cases, deaths, and testing data. <br> <img src="assets/covid_dash.png?raw=true" />
+* **[Timely & Effective Care Across the US (Tableau)](my_projects/project14)**: Helps patients choose hospitals based on quality of care metrics. <br> <img src="assets/effective_care_dash.png?raw=true" />
+* **Additional Dashboards:**
+    * **[TSA Complaints Analysis (Power BI)](my_projects/project9)**
+    * **[Concession Baseball Sales Dashboard (Power BI)](my_projects/project10)**
+    * **[Store Sales Dashboard (Power BI)](my_projects/project11)**
+    * **[Open University Student GPA & Demographics (Tableau)](my_projects/project16)**
 
 ---
