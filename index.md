@@ -6,9 +6,6 @@ Click to explore key insights of real-world data case studies focused on invento
 <hr style="margin: 20px 0;">
 </div>
 
-## Key Case Studies
-*Selected high-impact projects demonstrating predictive modeling and operational optimization.*
-
 ### [Return Prediction in E-commerce: Modeling of Key Risks](my_projects/project21)
 
 [![](assets/shields/python.svg)](#)
