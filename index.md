@@ -1,13 +1,10 @@
 <div style="text-align: center;">
 <h2>Data Science Portfolio</h2>
 <em>
-Click to explore key insights of real-world data projects.
+Click to explore key insights of real-world data case studies focused on inventory optimization, risk management, and logistics.
 </em>
 <hr style="margin: 20px 0;">
 </div>
-
-## Supply Chain & Operations
-*High-impact projects focused on inventory optimization, risk management, and logistics.*
 
 ### [Return Prediction in E-commerce: Modeling of Key Risks](my_projects/project21)
 
