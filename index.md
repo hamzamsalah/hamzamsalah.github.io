@@ -6,6 +6,8 @@ Click to explore key insights of real-world data projects.
 <hr style="margin: 20px 0;">
 </div>
 
+## Supply Chain & Operations
+*High-impact projects focused on inventory optimization, risk management, and logistics.*
 
 ### [Return Prediction in E-commerce: Modeling of Key Risks](my_projects/project21)
 
@@ -13,7 +15,7 @@ Click to explore key insights of real-world data projects.
 [![](assets/shields/jupyter.svg)](#)
 [![](assets/shields/pandas.svg)](#)
 [![](assets/shields/scikit-learn.svg)](#)
-[![](assets/shields/logistic\_regression.svg)](#)
+[![](assets/shields/logistic_regression.svg)](#)
 [![](assets/shields/matplotlib.svg)](#)
 [![](assets/shields/seaborn.svg)](#)
 
@@ -55,21 +57,18 @@ Click to explore key insights of real-world data projects.
 
 ---
 
-### [NBA Game Stretch Analyzer](my_projects/project18)
+### [Amazon Fulfillment Center Optimization Tool](my_projects/project7)
 
-[![](assets/shields/python.svg)](#)
-[![](assets/shields/jupyter.svg)](#)
-[![](assets/shields/pandas.svg)](#)
-[![](assets/shields/scikit-learn.svg)](#)
-[![](assets/shields/plotly.svg)](#)
-[![](assets/shields/matplotlib.svg)](#)
-[![](assets/shields/statsmodels.svg)](#)
+[![](assets/shields/excel.svg)](#)
 
-**This project analyzes NBA schedules to identify dense stretches (e.g., back-to-backs, 4-in-6s), ranks their difficulty, examines patterns, and models their impact on performance.**
+**Implemented an Excel-based system with dashboards to highlight area performance within an Amazon Fulfillment Center. Achieved a 10% improvement in sorting efficiency, processing over 262,000 items per shift.**
 
-<img src="assets/stretch_graph.png?raw=true" />
+<img src="assets/amaz_dash.png?raw=true" />
 
----
+<br>
+
+## Market & Strategic Analysis
+*Projects utilizing regression, time-series, and causal inference to drive business strategy.*
 
 ### [Predictive Modeling of Tennessee Energy Demand](my_projects/project1)
 
@@ -87,6 +86,62 @@ Click to explore key insights of real-world data projects.
 
 ---
 
+### [Using Data to Improve MLB Attendance](my_projects/project6)
+
+[![](assets/shields/python.svg)](#)
+[![](assets/shields/jupyter.svg)](#)
+[![](assets/shields/pandas.svg)](#)
+[![](assets/shields/numpy.svg)](#)
+[![](assets/shields/scikit-learn.svg)](#)
+[![](assets/shields/matplotlib.svg)](#)
+[![](assets/shields/seaborn.svg)](#)
+
+**Analyzed Los Angeles Dodgers 2022 game data to identify factors influencing attendance, such as promotions, weather, and day of the week. Applied EDA, correlation analysis, and linear regression to quantify the impact of giveaways (e.g., bobbleheads increased attendance by ~14,944 fans).**
+
+---
+
+### [Time Series Analysis of US Retail Sales](my_projects/project3)
+
+[![](assets/shields/python.svg)](#)
+[![](assets/shields/jupyter.svg)](#)
+[![](assets/shields/statsmodels.svg)](#)
+[![](assets/shields/scikit-learn.svg)](#)
+[![](assets/shields/matplotlib.svg)](#)
+
+**Forecasted monthly US retail sales (1992–2021) using an ARIMA model to predict post-COVID-19 trends. Identified pandemic-related dips and recovery patterns, providing insights for retail planning.**
+
+---
+
+### [NBA Game Stretch Analyzer](my_projects/project18)
+
+[![](assets/shields/python.svg)](#)
+[![](assets/shields/jupyter.svg)](#)
+[![](assets/shields/pandas.svg)](#)
+[![](assets/shields/scikit-learn.svg)](#)
+[![](assets/shields/plotly.svg)](#)
+[![](assets/shields/matplotlib.svg)](#)
+[![](assets/shields/statsmodels.svg)](#)
+
+**This project analyzes NBA schedules to identify dense stretches (e.g., back-to-backs, 4-in-6s), ranks their difficulty, examines patterns, and models their impact on performance.**
+
+<img src="assets/stretch_graph.png?raw=true" />
+
+---
+
+### [Empowering Mothers: Bridging the Gap to Professional Success](my_projects/project4)
+
+[![](assets/shields/powerbi.svg)](#)
+[![](assets/shields/excel.svg)](#)
+
+**Visualized national data to examine the impact of childcare costs on mothers' workforce participation. Highlighted gender disparities in earnings, unemployment, and job types. Provided recommendations for policy reforms and employer support programs.**
+
+<img src="assets/median_earnings.png?raw=true" />
+
+<br>
+
+## Technical Skills & Visualization Suite
+*Showcase of NLP, SQL, and Dashboarding capabilities.*
+
 ### [Sentiment Analysis of Customer Reviews](my_projects/project2)
 
 [![](assets/shields/python.svg)](#)
@@ -100,29 +155,6 @@ Click to explore key insights of real-world data projects.
 
 ---
 
-### [Time Series Analysis of US Retail Sales](my_projects/project3)
-
-[![](assets/shields/python.svg)](#)
-[![](assets/shields/jupyter.svg)](#)
-[![](assets/shields/statsmodels.svg)](#)
-[![](assets/shields/scikit-learn.svg)](#)
-[![](assets/shields/matplotlib.svg)](#)
-
-**Forecasted monthly US retail sales (1992–2021) using an ARIMA model to predict post-COVID-19 trends. Identified pandemic-related dips and recovery patterns, providing insights for retail planning. Achieved an RMSE of $52,207.**
-
----
-
-### [Empowering Mothers: Bridging the Gap to Professional Success](my_projects/project4)
-
-[![](assets/shields/powerbi.svg)](#)
-[![](assets/shields/excel.svg)](#)
-
-**Visualized national data to examine the impact of childcare costs on mothers' workforce participation. Highlighted gender disparities in earnings, unemployment, and job types. Provided recommendations for policy reforms and employer support programs.**
-
-<img src="assets/median_earnings.png?raw=true" />
-
----
-
 ### [Hospital COVID-19 Relational Database](my_projects/project5)
 
 [![](assets/shields/mysql.svg)](#)
@@ -133,113 +165,22 @@ Click to explore key insights of real-world data projects.
 
 ---
 
-### [Using Data to Improve MLB Attendance](my_projects/project6)
+### [BI & Visualization Suite](my_projects/project15)
 
-[![](assets/shields/python.svg)](#)
-[![](assets/shields/jupyter.svg)](#)
-[![](assets/shields/pandas.svg)](#)
-[![](assets/shields/numpy.svg)](#)
-[![](assets/shields/scikit-learn.svg)](#)
-[![](assets/shields/matplotlib.svg)](#)
-[![](assets/shields/seaborn.svg)](#)
-
-**Analyzed Los Angeles Dodgers 2022 game data to identify factors influencing attendance, such as promotions, weather, and day of the week. Applied EDA, correlation analysis, and linear regression to quantify the impact of giveaways (bobbleheads increased attendance by ~14,944 fans).**
-
----
-
-### [Amazon FC - Employee Performance System](my_projects/project7)
-
-[![](assets/shields/excel.svg)](#)
-
-**Implemented an Excel-based system with dashboards to highlight area performance. Achieved a 10% improvement in sorting efficiency, processing over 262,000 items per shift.**
-
-<img src="assets/amaz_dash.png?raw=true" />
-
----
-
-### [Weather Lookup](my_projects/project8)
-
-[![](assets/shields/python.svg)](#)
-[![](assets/shields/api.svg)](#)
-
-**Developed a Python program for weather lookup by zip code or city, utilizing the OpenWeatherMap API.**
-
----
-
-### [Tennessee Home Values Dashboard](my_projects/project15)
-
-[![](assets/shields/excel.svg)](#)
 [![](assets/shields/tableau.svg)](#)
-
-**Built an interactive Tableau dashboard using Zillow data to track single-family home values in Tennessee. The dashboard highlights trends over time, county-level comparisons, and growth rates, allowing users to explore how values have shifted across the state. Interactive filters let viewers focus on specific counties and time periods for deeper analysis.**
-
-<img src="assets/zillow.png?raw=true" />
-
----
-
-### [Open University Student GPA & Demographics Analysis](my_projects/project16)
-
-[![](assets/shields/excel.svg)](#)
-[![](assets/shields/tableau.svg)](#)
-
-**Analyzed data from Open University, identifying correlations between GPA and demographics using Tableau.**
-
-<img src="assets/gpa1.png?raw=true" />
-
----
-
-### [TSA Complaints Analysis](my_projects/project9)
-
 [![](assets/shields/powerbi.svg)](#)
-
-**Built a Power BI dashboard to track TSA Complaints in the US.**
-
----
-
-### [Concession Baseball Sales Dashboard](my_projects/project10)
-
-[![](assets/shields/powerbi.svg)](#)
-
-**Built a Power BI dashboard to track sales and performance of concessions at baseball games, optimizing inventory and pricing strategies.**
-
---- 
-
-### [Store Sales Dashboard](my_projects/project11)
-
-[![](assets/shields/powerbi.svg)](#)
-
-**Designed a Power BI sales dashboard to monitor KPIs, sales trends, and regional performance for effective decision-making.**
-
----
-
-### [U.S. Public Safety Trend Analysis](my_projects/project12)
-
-
 [![](assets/shields/excel.svg)](#)
-[![](assets/shields/tableau.svg)](#)
 
-**Uncovered a 13% rise in incidents linked to lockdown stressors and visualized geographic hotspots in urban areas using Tableau to support policy recommendations.**
+**A collection of interactive dashboards built with Tableau and Power BI to derive insights across various domains including Real Estate, Public Safety, Healthcare, and Retail.**
 
-<img src="assets/shoot_dashboard.png?raw=true" />
-
----
-
-### [Covid Case Tracker](my_projects/project13)
-
-[![](assets/shields/tableau.svg)](#)
-
-**Developed a Tableau dashboard visualizing COVID-19 cases, deaths, and testing data from sources like WHO and CDC.**
-
-<img src="assets/covid_dash.png?raw=true" />
-
----
-
-### [Timely & Effective Care Across the US](my_projects/project14)
-
-[![](assets/shields/tableau.svg)](#)
-
-**Created a Tableau dashboard for CMS data to help patients choose the best hospital based on quality of care metrics.**
-
-<img src="assets/effective_care_dash.png?raw=true" />
+* **Tennessee Home Values (Tableau)**: Built an interactive dashboard using Zillow data to track single-family home values in Tennessee, highlighting trends and county-level growth rates. <br> <img src="assets/zillow.png?raw=true" />
+* **U.S. Public Safety Trend Analysis (Tableau)**: Visualized geographic hotspots in urban areas and uncovered incident trends linked to lockdown stressors. <br> <img src="assets/shoot_dashboard.png?raw=true" />
+* **Covid Case Tracker (Tableau)**: Visualized global COVID-19 cases, deaths, and testing data. <br> <img src="assets/covid_dash.png?raw=true" />
+* **Timely & Effective Care (Tableau)**: Created a dashboard for CMS data to help patients choose hospitals based on quality of care metrics. <br> <img src="assets/effective_care_dash.png?raw=true" />
+* **Additional Projects:**
+    * **TSA Complaints Analysis (Power BI)**
+    * **Concession Baseball Sales Dashboard (Power BI)**
+    * **Store Sales Dashboard (Power BI)**
+    * **Open University Demographics Analysis (Tableau)**
 
 ---
