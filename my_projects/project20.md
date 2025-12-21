@@ -24,6 +24,8 @@ title: Retail Inventory Record Inaccuracy (IRI) Detection
   </h2>
 </div>
 
+For a detailed backstory on what inspired me to create this project, please read my article on Medium: [Modeling of Retail IRI for Audit Prioritization (https://medium.com/@hamzamsalah/modeling-of-retail-iri-for-audit-prioritization-584a6f1f4037)
+
 ### Project Overview
 
 Developed a predictive model to identify high-risk inventory items 24 hours in advance. Lacking access to realistic data. I trained a Logistic Regression classifier on this data, achieving an F1-Score of 0.83.
