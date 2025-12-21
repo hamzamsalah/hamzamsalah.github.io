@@ -29,7 +29,7 @@ title: Amazon FC - Employee Performance System
 ### Project Overview
 This operational tool optimizes warehouse efficiency at Amazon Fulfillment Centers using Excel analytics.
 
-### [Repo](https://github.com/hamzamsalah/Amazon_Project)
+### [Github Repo](https://github.com/hamzamsalah/Amazon_Project)
 
 #### Key Insights
 - Dashboards reduced errors by 15%.
