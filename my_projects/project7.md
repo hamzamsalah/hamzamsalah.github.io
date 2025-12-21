@@ -37,7 +37,7 @@ This operational tool optimizes warehouse efficiency at Amazon Fulfillment Cente
 ### Dashboard
 ![Amazon Dashboard]({{ site.baseurl }}/assets/amaz_dash.png)
 
-#### [Github Repo](https://github.com/hamzamsalah/Amazon_Project)
+[Github Repo](https://github.com/hamzamsalah/Amazon_Project)
 
 ### Technologies Used
 - Excel
