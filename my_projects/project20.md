@@ -24,7 +24,7 @@ title: Retail Inventory Record Inaccuracy (IRI) Detection
   </h2>
 </div>
 
-For a detailed backstory on what inspired me to create this project, please read my article on Medium: [Modeling of Retail IRI for Audit Prioritization (https://medium.com/@hamzamsalah/modeling-of-retail-iri-for-audit-prioritization-584a6f1f4037)
+For a detailed backstory on what inspired me to create this project, please read my article on Medium: [Modeling of Retail IRI for Audit Prioritization] (https://medium.com/@hamzamsalah/modeling-of-retail-iri-for-audit-prioritization-584a6f1f4037)
 
 ### Project Overview
 
