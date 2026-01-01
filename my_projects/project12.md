@@ -37,7 +37,7 @@ Completed during my Data Analyst Fellowship, this project analyzed U.S. Public S
 - [View Dashboard on Tableau](https://public.tableau.com/app/profile/hamzamsalah/viz/U_S_PublicSafetyTrendAnalysis/Summary)
 
 ### Dashboard Screenshot
-![Shootings Dashboard]({{ site.baseurl }}/assets/shoot_dashboard.png)
+![Shootings Dashboard]({{ site.baseurl }}/assets/public_safety.png)
 
 ### Technologies Used
 - Excel
