@@ -24,17 +24,18 @@ title: Amazon FC - Employee Performance System
   </h2>
 </div>
 
-### Project Overview
-I developed a comprehensive **Employee Performance System** to aid the Amazon OPS team in tracking and improving productivity for a department of 300+ employees.
 
-This advanced Excel-based tool acts as a central hub for performance analytics. It automates the ingestion of raw data using **Power Query** and utilizes complex formulas (including linear regression) to forecast headcount and identify training needs. The system allows managers to make instant, data-driven decisions to optimize workflow and safety.
+### Project Overview
+I developed a comprehensive **Employee Performance System** to aid the Amazon OPS team in tracking and improving productivity for a department of **300+ employees**.
+
+This advanced Excel-based tool acts as a central hub for performance analytics. It automates the ingestion of raw data using **Power Query** and utilizes complex formulas (including **Time Series Forecasting**) to forecast hourly headcount needs and identify training gaps. The system allows managers to make instant, data-driven decisions to optimize workflow and safety.
 
 [Github Repo](https://github.com/hamzamsalah/Amazon_Project)
 
 #### Key Insights
 - **10% Performance Increase:** Improved sorting efficiency across the department.
 - **High Volume Processing:** Supported the processing of over **262,000 items**.
-- **Data-Driven Training:** Identified performance gaps, leading to targeted training initiatives for 50+ employees.
+- **Data-Driven Training:** Identified performance gaps, leading to targeted training initiatives for **50+ employees**.
 
 ### Dashboard
 ![Amazon Dashboard]({{ site.baseurl }}/assets/amaz_dash.png)
@@ -43,4 +44,4 @@ This advanced Excel-based tool acts as a central hub for performance analytics. 
 - **Microsoft Excel** (Advanced Formulas, VLOOKUP, Pivot Tables)
 - **Power Query** (ETL / Data Cleaning)
 - **VBA & Macros** (Process Automation)
-- **Statistical Analysis** (Linear Regression/FORECAST.ETS)
+- **Statistical Analysis** (Linear Regression / FORECAST.ETS)
