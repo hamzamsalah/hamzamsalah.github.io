@@ -40,7 +40,7 @@ Click to explore key insights of real-world data case studies focused on invento
 
 [![](assets/shields/excel.svg)](#)
 
-**Implemented an Excel-based system with dashboards to highlight area performance within an Amazon Fulfillment Center. Achieved a 10% improvement in sorting efficiency, processing over 262,000 items per shift.**
+**I developed a comprehensive Employee Performance System to aid the Amazon OPS team in tracking and improving productivity for a department of 300+ employees. This advanced Excel-based tool acts as a central hub for performance analytics, automating the ingestion of raw data using Power Query and utilizing complex formulas to forecast headcount needs.**
 
 <img src="assets/amaz_dash.png?raw=true" />
 
