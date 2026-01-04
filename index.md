@@ -6,21 +6,6 @@ Click to explore key insights of real-world data case studies focused on invento
 <hr style="margin: 20px 0;">
 </div>
 
-### [Return Prediction in E-commerce: Modeling of Key Risks](my_projects/project21)
-
-[![](assets/shields/python.svg)](#)
-[![](assets/shields/jupyter.svg)](#)
-[![](assets/shields/pandas.svg)](#)
-[![](assets/shields/scikit-learn.svg)](#)
-[![](assets/shields/logistic_regression.svg)](#)
-[![](assets/shields/seaborn.svg)](#)
-
-**Developed and evaluated a Logistic Regression model to predict product returns in e-commerce. The model achieved a valuable Recall of 60% for the minority class (Returns), enabling the business to manage return risk proactively. The strongest risk drivers identified were the Cash payment method and weekend orders (Friday, Saturday, Sunday).**
-
-<img src="assets/returns.png?raw=true" />
-
----
-
 ### [Predictive Modeling of Retail Inventory Inaccuracy (IRI) for Audit Prioritization](my_projects/project20)
 
 [![](assets/shields/python.svg)](#)
@@ -82,6 +67,22 @@ Click to explore key insights of real-world data case studies focused on invento
 [![](assets/shields/nltk.svg)](#)
 
 **Analyzed Amazon product reviews using NLP techniques. Preprocessed review text, extracted features, and applied ML models to classify reviews as positive or negative.**
+
+---
+
+### [Return Prediction in E-commerce: Modeling of Key Risks](my_projects/project21)
+
+[![](assets/shields/python.svg)](#)
+[![](assets/shields/jupyter.svg)](#)
+[![](assets/shields/pandas.svg)](#)
+[![](assets/shields/scikit-learn.svg)](#)
+[![](assets/shields/logistic_regression.svg)](#)
+[![](assets/shields/seaborn.svg)](#)
+
+**Developed and evaluated a Logistic Regression model to predict product returns in e-commerce. The model achieved a valuable Recall of 60% for the minority class (Returns), enabling the business to manage return risk proactively. The strongest risk drivers identified were the Cash payment method and weekend orders (Friday, Saturday, Sunday).**
+
+<img src="assets/returns.png?raw=true" />
+
 
 <br>
 
