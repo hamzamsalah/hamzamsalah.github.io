@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NBA Game Stretch Analyzer
+title: Operational Schedule & Capacity Analysis
 ---
 
 <div style="
@@ -13,25 +13,26 @@ title: NBA Game Stretch Analyzer
   border-bottom: 1px solid black;
   margin-bottom: 1rem;
 ">
-  <!-- Back link -->
   <div style="text-align: left; margin-bottom: 0.5rem;">
     <a href="/" class="back-link" style="color: #666; text-decoration: none;">
       ← Back to Portfolio
     </a>
   </div>
 
-  <!-- Title -->
   <h2 style="margin: 0;">
-    NBA Game Stretch Analyzer
+    Operational Schedule & Capacity Analysis
   </h2>
+  <small style="color: #666;">(NBA Dataset Case Study)</small>
 </div>
 
 ### Project Overview
-The NBA Game Stretch Analyzer examines NBA schedules from 2014–15 to 2024–25 to identify dense stretches like back-to-backs and 4-in-6 games. By combining schedule and performance data, it quantifies how schedule density affects efficiency, win rates, and season outcomes. Regression modeling and interactive visualizations provide insights for optimizing player workload, recovery, and strategy.
+Using NBA schedules (2014–2025) as a proxy for high-frequency operational environments, this project models how **compressed timelines** impact performance. By identifying "dense stretches" (such as back-to-backs or 4-events-in-6-days), the system quantifies the degradation in efficiency and win-rates. 
+
+The analysis uses regression modeling to offer strategies for **optimizing workload**, managing fatigue, and improving resource allocation during peak operational windows.
 
 ---
 
-### Interactive NBA Schedule Stretch Analyzer
+### Interactive Schedule Density Visualizer
 > Navigation: Drag to zoom, shift+drag to pan, double-click to reset, hover for details.
 <div style="max-width:1200px; margin:0 auto;">
   <iframe 
@@ -44,30 +45,28 @@ The NBA Game Stretch Analyzer examines NBA schedules from 2014–15 to 2024–25
 
 ---
 
-### Key Insights
-- Dense game stretches, particularly back-to-back and 4-in-6 games, correlate with measurable declines in performance metrics such as defensive efficiency.  
-- The frequency and severity of challenging game stretches have increased over the last decade.  
-- Teams with deeper rotations tend to mitigate the negative impact of dense scheduling more effectively.
+### Key Operational Insights
+- **Performance Degradation:** Dense scheduling clusters (e.g., back-to-backs) correlate with measurable declines in output quality (specifically defensive efficiency), serving as a proxy for workforce fatigue.
+- **Trend Analysis:** The frequency and severity of these "high-stress" operational windows have trended upward over the last decade (2014–2025).
+- **Resource Allocation:** Analysis suggests that "deeper rotations" (analogous to flexible staffing models) significantly mitigate the negative impacts of dense scheduling.
 
 ---
 
-### Code and Data
-- **Datasets:**  
-  - NBA schedule data (2014–15 to 2024–25):
+### Code and Data Integration
+- **Datasets:** - NBA schedule data (2014–15 to 2024–25):
     - [Fixture Download](https://fixturedownload.com/sport/basketball)
-    - [Kaggle](https://kaggle.com/datasets/911a3e298350e0e281168e3f7b9eddfdfabdda835f19119f018758c7daa2dd77)
+    - [Kaggle Dataset](https://kaggle.com/datasets/911a3e298350e0e281168e3f7b9eddfdfabdda835f19119f018758c7daa2dd77)
 
 - **[View Jupyter Notebook](https://github.com/hamzamsalah/nba-schedule-analysis/blob/main/sport_team_schedule_analysis.ipynb)**
 
-- **Data Cleaning & Preparation:**  
-  - Standardized dates and sorted games chronologically  
-  - Filtered schedules by team and season  
-  - Calculated game stretches such as back-to-backs and 4-in-6s  
-  - Normalized stretch counts to an 82-game season for fair comparisons  
+- **Data Cleaning & ETL Pipeline:** - **Standardization:** Normalized date formats and sorted chronological workflows.  
+  - **Filtering:** Segmented schedules by organizational unit (Team) and fiscal year (Season).  
+  - **Feature Engineering:** Calculated logic for "Constraint Stretches" (Back-to-Backs, 4-in-6s).  
+  - **Normalization:** Adjusted stretch counts to an 82-game baseline to ensure fair year-over-year comparisons.  
 
 ---
 
 ### Technologies Used
-- Python (Pandas, NumPy, Scikit-learn, Statsmodels, Plotly, Matplotlib)  
-- Jupyter Notebook for data analysis and visualization  
-- Interactive dashboards to explore scheduling patterns and performance trends  
+- **Analysis & Modeling:** Python (Pandas, NumPy, Scikit-learn, Statsmodels)  
+- **Visualization:** Plotly (Interactive Dashboards), Matplotlib  
+- **Environment:** Jupyter Notebook for data analysis and visualization
