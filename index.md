@@ -84,6 +84,22 @@ Click to explore key insights of real-world data case studies focused on invento
 <img src="assets/returns.png?raw=true" />
 
 
+### [Operational Schedule & Performance Analysis](my_projects/project18)
+
+[![](assets/shields/python.svg)](#)
+[![](assets/shields/jupyter.svg)](#)
+[![](assets/shields/pandas.svg)](#)
+[![](assets/shields/scikit-learn.svg)](#)
+[![](assets/shields/plotly.svg)](#)
+[![](assets/shields/matplotlib.svg)](#)
+[![](assets/shields/statsmodels.svg)](#)
+
+**This project analyzes high-frequency NBA schedule data (2014–2025) to model the impact of schedule density and tight turnaround times on performance output. By identifying "crunch" periods like back-to-backs and 4-events-in-6-days, the system forecasts fatigue risks and quantifies performance degradation. The analysis ranks schedule difficulty and demonstrates how deeper resource allocation (rotations) mitigates efficiency loss during peak operational windows.**
+
+<img src="assets/stretch_graph.png?raw=true" />
+
+---
+
 <br>
 
 ## BI & Visualization Suite
