@@ -28,15 +28,15 @@ title: Retail Inventory Record Inaccuracy (IRI) Detection
 
 ### Project Overview
 
-Developed a predictive model to identify high-risk inventory items 24 hours in advance. Lacking access to realistic data. I trained a Logistic Regression classifier on this data, achieving an F1-Score of 0.83.
+Developed a predictive model to identify high-risk inventory items 24 hours in advance. Lacking access to realistic data, I simulated a retail environment and trained a Logistic Regression classifier, achieving an F1-Score of 0.83.
 
 #### Key Insights
 
-* **Primary Predictor:** Low stock status (`In_stock_t`) was identified as the strongest indicator of imminent IRI risk within the simulation, showing a substantial negative correlation of -0.63 with the target variable.
+* **Primary Predictor:** Low stock status (`In_stock_t`) was identified as the strongest signal of imminent IRI risk. The model assigned it the highest **feature importance (coefficient: -1.34)**, far outweighing other features, indicating that items approaching a "stock-out" status are the critical driver of inventory discrepancies.
 
-* **Model Performance:** The model achieved an F1-Score of 0.83 on the critical positive risk class (exceeding the 0.70 target) and demonstrated excellent discriminatory power with an AUC of 0.92 on the held-out validation set.
+* **Model Performance:** The model achieved an **F1-Score of 0.83** on the critical positive risk class (exceeding the 0.70 target) and demonstrated excellent discriminatory power with an **AUC of 0.92** on the held-out validation set.
 
-* **Operational Impact:** A "Virtual Audit" conducted on the model's predictions confirmed an 80% success rate in identifying discrepancies. This validates that a high-accuracy Suspect List can effectively optimize labor by focusing resources exclusively on high-probability errors.
+* **Operational Impact:** A "Virtual Audit" conducted on the model's predictions confirmed an **80% success rate** in identifying discrepancies. This validates that a high-accuracy Suspect List can effectively optimize labor by focusing resources exclusively on high-probability errors.
 
 * **Data Handling:** Class imbalance (38% IRI cases) was managed effectively without oversampling, prioritizing evaluation strictly on the F1-Score of the minority risk class.
 
